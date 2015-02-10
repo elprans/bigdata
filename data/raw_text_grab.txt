@@ -79,7 +79,7 @@ White; Black or African American; Asian; Some other race
 White; Black or African American; Native Hawaiian and Other Pacific Islander; Some other
 race
 White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
-Islander
+C|Islander
 White; American Indian and Alaska Native; Asian; Some other race
 White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander;
 Some other race
@@ -95,15 +95,15 @@ American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Isla
 Some other race
 Population of five races:
 White; Black or African American; American Indian and Alaska Native; Asian; Native
-Hawaiian and Other Pacific Islander
+C|Hawaiian and Other Pacific Islander
 White; Black or African American; American Indian and Alaska Native; Asian; Some
 other race
 White; Black or African American; American Indian and Alaska Native; Native Hawaiian and
-Other Pacific Islander; Some other race
+C|Other Pacific Islander; Some other race
 White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander;
 Some other race
 White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
-Islander; Some other race
+C|Islander; Some other race
 6–2 Summary Table Outlines
 U.S. Census Bureau, Census 2000
 POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
@@ -158,7 +158,7 @@ White; Asian; Some other race
 White; Native Hawaiian and Other Pacific Islander; Some other race
 Black or African American; American Indian and Alaska Native; Asian
 Black or African American; American Indian and Alaska Native; Native Hawaiian and
-Other Pacific Islander
+C|Other Pacific Islander
 Black or African American; American Indian and Alaska Native; Some other race
 Black or African American; Asian; Native Hawaiian and Other Pacific Islander
 Summary Table Outlines 6–3
@@ -188,7 +188,7 @@ White; Black or African American; Asian; Some other race
 White; Black or African American; Native Hawaiian and Other Pacific Islander; Some
 other race
 White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
-Islander
+C|Islander
 White; American Indian and Alaska Native; Asian; Some other race
 White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander;
 Some other race
@@ -197,27 +197,27 @@ Black or African American; American Indian and Alaska Native; Asian; Native Hawa
 and Other Pacific Islander
 Black or African American; American Indian and Alaska Native; Asian; Some other race
 Black or African American; American Indian and Alaska Native; Native Hawaiian and
-Other Pacific Islander; Some other race
+C|Other Pacific Islander; Some other race
 Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some
 other race
 American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander;
 Some other race
 Population of five races:
 White; Black or African American; American Indian and Alaska Native; Asian; Native
-Hawaiian and Other Pacific Islander
+C|Hawaiian and Other Pacific Islander
 White; Black or African American; American Indian and Alaska Native; Asian; Some
 other race
 White; Black or African American; American Indian and Alaska Native; Native Hawaiian and
-Other Pacific Islander; Some other race
+C|Other Pacific Islander; Some other race
 White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander;
 Some other race
 White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
-Islander; Some other race
+C|Islander; Some other race
 Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and
-Other Pacific Islander; Some other race
+C|Other Pacific Islander; Some other race
 Population of six races:
 White; Black or African American; American Indian and Alaska Native; Asian; Native
-Hawaiian and Other Pacific Islander; Some other race
+C|Hawaiian and Other Pacific Islander; Some other race
 6–4 Summary Table Outlines
 U.S. Census Bureau, Census 2000
 POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
@@ -261,7 +261,7 @@ White; Asian; Some other race
 White; Native Hawaiian and Other Pacific Islander; Some other race
 Black or African American; American Indian and Alaska Native; Asian
 Black or African American; American Indian and Alaska Native; Native Hawaiian and Other
-Pacific Islander
+C|Pacific Islander
 Black or African American; American Indian and Alaska Native; Some other race
 Black or African American; Asian; Native Hawaiian and Other Pacific Islander
 Black or African American; Asian; Some other race
@@ -293,30 +293,30 @@ White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Isla
 Some other race
 White; Asian; Native Hawaiian and Other Pacific Islander; Some other race
 Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and
-Other Pacific Islander
+C|Other Pacific Islander
 Black or African American; American Indian and Alaska Native; Asian; Some other race
 Black or African American; American Indian and Alaska Native; Native Hawaiian and Other
-Pacific Islander; Some other race
+C|Pacific Islander; Some other race
 Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some
 other race
 American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some
 other race
 Population of five races:
 White; Black or African American; American Indian and Alaska Native; Asian; Native
-Hawaiian and Other Pacific Islander
+C|Hawaiian and Other Pacific Islander
 White; Black or African American; American Indian and Alaska Native; Asian; Some
 other race
 White; Black or African American; American Indian and Alaska Native; Native Hawaiian and
-Other Pacific Islander; Some other race
+C|Other Pacific Islander; Some other race
 White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some
 other race
 White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
-Islander; Some other race
+C|Islander; Some other race
 Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian
 and Other Pacific Islander; Some other race
 Population of six races:
 White; Black or African American; American Indian and Alaska Native; Asian; Native
-Hawaiian and Other Pacific Islander; Some other race
+C|Hawaiian and Other Pacific Islander; Some other race
 P6. HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE FOR THE
 POPULATION 18 YEARS AND OVER [73]
 Universe: Total population 18 years and over
@@ -361,21 +361,21 @@ White; Black or African American; Native Hawaiian and Other Pacific Islander
 White; Black or African American; Some other race
 White; American Indian and Alaska Native; Asian
 White; American Indian and Alaska Native; Native Hawaiian and Other Pacific
-Islander
+C|Islander
 White; American Indian and Alaska Native; Some other race
 White; Asian; Native Hawaiian and Other Pacific Islander
 White; Asian; Some other race
 White; Native Hawaiian and Other Pacific Islander; Some other race
 Black or African American; American Indian and Alaska Native; Asian
 Black or African American; American Indian and Alaska Native; Native Hawaiian and
-Other Pacific Islander
+C|Other Pacific Islander
 Black or African American; American Indian and Alaska Native; Some other race
 Black or African American; Asian; Native Hawaiian and Other Pacific Islander
 Black or African American; Asian; Some other race
 Black or African American; Native Hawaiian and Other Pacific Islander; Some other
 race
 American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
-Islander
+C|Islander
 American Indian and Alaska Native; Asian; Some other race
 American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some
 other race
@@ -383,7 +383,7 @@ Asian; Native Hawaiian and Other Pacific Islander; Some other race
 Population of four races:
 White; Black or African American; American Indian and Alaska Native; Asian
 White; Black or African American; American Indian and Alaska Native; Native
-Hawaiian and Other Pacific Islander
+C|Hawaiian and Other Pacific Islander
 White; Black or African American; American Indian and Alaska Native; Some other
 race
 White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander
@@ -400,37 +400,37 @@ White; Black or African American; Asian; Some other race
 White; Black or African American; Native Hawaiian and Other Pacific Islander; Some
 other race
 White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
-Islander
+C|Islander
 White; American Indian and Alaska Native; Asian; Some other race
 White; American Indian and Alaska Native; Native Hawaiian and Other Pacific
-Islander; Some other race
+C|Islander; Some other race
 White; Asian; Native Hawaiian and Other Pacific Islander; Some other race
 Black or African American; American Indian and Alaska Native; Asian; Native
 Hawaiian and Other Pacific Islander
 Black or African American; American Indian and Alaska Native; Asian; Some other
 race
 Black or African American; American Indian and Alaska Native; Native Hawaiian and Other
-Pacific Islander; Some other race
+C|Pacific Islander; Some other race
 Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some
 other race
 American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
-Islander; Some other race
+C|Islander; Some other race
 Population of five races:
 White; Black or African American; American Indian and Alaska Native; Asian; Native
-Hawaiian and Other Pacific Islander
+C|Hawaiian and Other Pacific Islander
 White; Black or African American; American Indian and Alaska Native; Asian; Some
 other race
 White; Black or African American; American Indian and Alaska Native; Native
-Hawaiian and Other Pacific Islander; Some other race
+C|Hawaiian and Other Pacific Islander; Some other race
 White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander;
 Some other race
 White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
-Islander; Some other race
+C|Islander; Some other race
 Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and
-Other Pacific Islander; Some other race
+C|Other Pacific Islander; Some other race
 Population of six races:
 White; Black or African American; American Indian and Alaska Native; Asian; Native
-Hawaiian and Other Pacific Islander; Some other race
+C|Hawaiian and Other Pacific Islander; Some other race
 P7. RACE [8]
 Universe: Total population
 Total:
@@ -582,8 +582,7 @@ No own children under 18 years
 Nonfamily households:
 Male householder
 Female householder
-P19. HOUSEHOLDS BY PRESENCE OF PEOPLE UNDER 18 YEARS BY HOUSEHOLD TYPE
-[19]
+P19. HOUSEHOLDS BY PRESENCE OF PEOPLE UNDER 18 YEARS BY HOUSEHOLD TYPE [19]
 Universe: Households
 Total:
 Households with one or more people under 18 years:
@@ -929,8 +928,7 @@ Institutionalized population (101-107, 201-209, 301-307, 400-410):
 Correctional institutions (101-107)
 Nursing homes (301-307)
 Other institutions (201-209, 400-410)
-Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909,
-911):
+Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
 College dormitories (includes college quarters off campus) (501)
 Military quarters (601-603)
 Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
@@ -1373,7 +1371,7 @@ Total
 P16C. POPULATION IN HOUSEHOLDS (AMERICAN INDIAN AND ALASKA NATIVE ALONE
 HOUSEHOLDER) [1]
 Universe: Population in households with a householder who is American Indian and Alaska
-Native alone
+C|Native alone
 Total
 P16D. POPULATION IN HOUSEHOLDS (ASIAN ALONE HOUSEHOLDER) [1]
 Universe: Population in households with a householder who is Asian alone
@@ -1381,7 +1379,7 @@ Total
 P16E. POPULATION IN HOUSEHOLDS (NATIVE HAWAIIAN AND OTHER PACIFIC
 ISLANDER ALONE HOUSEHOLDER) [1]
 Universe: Population in households with a householder who is Native Hawaiian and Other
-Pacific Islander alone
+C|Pacific Islander alone
 Total
 P16F. POPULATION IN HOUSEHOLDS (SOME OTHER RACE ALONE HOUSEHOLDER) [1]
 Universe: Population in households with a householder who is Some other race alone
@@ -2431,7 +2429,7 @@ Total
 P32E. POPULATION IN FAMILIES (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER
 ALONE HOUSEHOLDER) [1]
 Universe: Population in families with a householder who is Native Hawaiian and Other Pacific
-Islander alone
+C|Islander alone
 Total
 P32F. POPULATION IN FAMILIES (SOME OTHER RACE ALONE HOUSEHOLDER) [1]
 Universe: Population in families with a householder who is Some other race alone
@@ -2929,8 +2927,7 @@ FOR SELECTED TRIBES [47]
 Universe: People who are American Indian and Alaska Native alone - total tribes tallied for people
 with one tribe only, and people with no tribe reported
 Total tribes tallied: (300, A01-M38, M41-R98)
-American Indian tribes,
-specified: (A01-M38)
+American Indian tribes, specified: (A01-M38)
 Apache (A09-A23)
 Blackfeet (A45-A50)
 Cherokee (B21-B36)
@@ -2972,8 +2969,7 @@ C92, D05-D77, D87-D92, E10-E29, E37-E77, E84-F10, F15-
 F61, F71-G03, G10-G13, G50-G83, G92-H20, H34-H37, H66-
 H69, H93-J46, J58-J80, J93-K15, K54-K76, K87-L05, L15-L78,
 L85-L90, M01-M21, M34-M38)
-American Indian tribes, not
-specified (M41-M43)
+American Indian tribes, not specified (M41-M43)
 Summary Table Outlines 6–59
 U.S. Census Bureau, Census 2000
 POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
@@ -2993,8 +2989,7 @@ REPORTED FOR SELECTED TRIBES [47]
 Universe: People who are American Indian and Alaska Native alone - total tribes tallied for people
 with one or more tribes, and people with no tribe reported
 Total tribes tallied: (300, A01-R99) & (300, A01-R99)
-American Indian tribes,
-specified: (A01-M40) & (300, A01-R99)
+American Indian tribes, specified: (A01-M40) & (300, A01-R99)
 Apache (A09-A23) & (300, A01-R99)
 Blackfeet (A45-A50) & (300, A01-R99)
 Cherokee (B21-B36) & (300, A01-R99)
@@ -3033,8 +3028,7 @@ POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
 PCT2. AMERICAN INDIAN AND ALASKA NATIVE ALONE WITH ONE OR MORE TRIBES
 REPORTED FOR SELECTED TRIBES [47]—Con.
 Total tribes tallied—Con.
-American Indian tribes,
-specified:
+American Indian tribes, specified:
 Yakama (L79-L84) & (300, A01-R99)
 Yaqui (L91-L99) & (300, A01-R99)
 Yuman (M22-M33) & (300, A01-R99)
@@ -3044,8 +3038,7 @@ C92, D05-D77, D87-D92, E10-E29, E37-E77, E84-F10, F15-
 F61, F71-G03, G10-G13, G50-G83, G92-H20, H34-H37, H66-
 H69, H93-J46, J58-J80, J93-K15, K54-K76, K87-L05, L15-L78,
 L85-L90, M01-M21, M34-M40) & (300, A01-R99)
-American Indian tribes, not
-specified (M41-M43) & (300, A01-R99)
+American Indian tribes, not specified (M41-M43) & (300, A01-R99)
 Alaska Native tribes, specified: (M52-R99) & (300, A01-R99)
 Alaska Athabascan (M52-N27) & (300, A01-R99)
 Aleut (R11-R98) & (300, A01-R99)
@@ -3061,8 +3054,7 @@ Universe: People who are American Indian and Alaska Native alone or in combinati
 more other races - total tribes tallied for people with one or more tribes, and people with no tribe
 reported
 Total tribes tallied: (300, A01-R99) & (100-299) or (300, A01-R99) or (400-699)
-American Indian tribes,
-specified: (A01-M40) & (100-299) or (300, A01-R99) or (400-699)
+American Indian tribes, specified: (A01-M40) & (100-299) or (300, A01-R99) or (400-699)
 Apache (A09-A23) & (100-299) or (300, A01-R99) or (400-699)
 Blackfeet (A45-A50) & (100-299) or (300, A01-R99) or (400-699)
 Cherokee (B21-B36) & (100-299) or (300, A01-R99) or (400-699)
@@ -3088,8 +3080,7 @@ PCT3. AMERICAN INDIAN AND ALASKA NATIVE ALONE OR IN COMBINATION MORE
 OTHER RACES AND WITH ONE OR MORE TRIBES REPORTED FOR SELECTED TRIBES
 [47]—Con.
 Total tribes tallied—Con.
-American Indian tribes,
-specified—Con.
+American Indian tribes, specified—Con.
 Menominee (F11-F14) & (100-299) or (300, A01-R99) or (400-699)
 Navajo (F62-F70) & (100-299) or (300, A01-R99) or (400-699)
 Osage (G04-G09) & (100-299) or (300, A01-R99) or (400-699)
@@ -3114,8 +3105,7 @@ F61, F71-G03, G10-G13, G50-G83, G92-H20, H34-H37, H66-
 H69, H93-J46, J58-J80, J93-K15, K54-K76, K87-L05, L15-L78,
 L85-L90, M01-M21, M34-M40) & (100-299) or (300, A01-R99)
 or (400-699)
-American Indian tribes, not
-specified (M41-M43) & (100-299) or (300, A01-R99) or (400-699)
+American Indian tribes, not specified (M41-M43) & (100-299) or (300, A01-R99) or (400-699)
 Alaska Native tribes, specified: (M52-R99) & (100-299) or (300, A01-R99) or (400-699)
 Alaska Athabascan (M52-N27) & (100-299) or (300, A01-R99) or (400-699)
 Aleut (R11-R98) & (100-299) or (300, A01-R99) or (400-699)
@@ -3148,13 +3138,13 @@ Black or African American, Asian, Native Hawaiian and Other Pacific Islander, an
 other race)
 American Indian and Alaska Native in combination with one or more other races (People are
 tallied as both American Indian and Alaska Native; ‘‘Other races’’ include White, Black or
-African American, Asian, Native Hawaiian and Other Pacific Islander, and Some other race)
+C|African American, Asian, Native Hawaiian and Other Pacific Islander, and Some other race)
 American Indian or Alaska Native alone (People marked the American Indian or Alaska
-Native checkbox only and there was no write in)
+C|Native checkbox only and there was no write in)
 American Indian or Alaska Native in combination with one or more other races (People marked
 the American Indian or Alaska Native checkbox and there was no write in; ‘‘Other races’’
 include White, Black or African American, Asian, Native Hawaiian and Other Pacific Islander, and
-Some other race)
+C|Some other race)
 PCT5. ASIAN ALONE WITH ONE ASIAN CATEGORY FOR SELECTED GROUPS [19]
 Universe: Total Asian categories tallied for people with one Asian category only and people
 with no specific Asian category reported
@@ -3178,8 +3168,7 @@ Vietnamese (450-451)
 Other Asian (403-404, 406-409, 413-419, 424-429, 432-439, 444, 448-
 449, 452-459, 469-479, 481-499)
 Other Asian, not specified (460-468)
-PCT6. ASIAN ALONE WITH ONE OR MORE ASIAN CATEGORIES FOR SELECTED GROUPS
-[19]
+PCT6. ASIAN ALONE WITH ONE OR MORE ASIAN CATEGORIES FOR SELECTED GROUPS [19]
 Universe: Total Asian categories tallied for people with one or more Asian categories only and
 people with no specific Asian category reported
 Total Asian categories tallied: (400-499) & (400-499)
@@ -3260,7 +3249,7 @@ NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER CATEGORIES FOR SELECTED
 GROUPS [14]
 Universe: Total Native Hawaiian and Other Pacific Islander categories tallied for people with one or
 more Native Hawaiian and Other Pacific Islander categories only and people with no specific
-Native Hawaiian and Other Pacific Islander category reported
+C|Native Hawaiian and Other Pacific Islander category reported
 Total Native Hawaiian and Other
 Pacific Islander categories tallied: (500-599) & (500-599)
 Polynesian: (500-519) & (500-599)
@@ -3292,7 +3281,7 @@ Native Hawaiian (500-503) & (100-299) or (300, A01-R99) or (400-699)
 Samoan (510-511) & (100-299) or (300, A01-R99) or (400-699)
 Tongan (513) & (100-299) or (300, A01-R99) or (400-699)
 Other Polynesian (504-509, 512, 514-519) & (100-299) or (300, A01-R99) or
-(400-699)
+C|(400-699)
 Micronesian: (520-529, 531-541) & (100-299) or (300, A01-R99) or (400-
 699)
 Guamanian or Chamorro (520-522) & (100-299) or (300, A01-R99) or (400-699)
@@ -4668,14 +4657,14 @@ Renter occupied
 H11B. TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE (BLACK OR
 AFRICAN AMERICAN ALONE HOUSEHOLDER) [3]
 Universe: Population in occupied housing units with a householder who is Black or African
-American alone
+C|American alone
 Total population in occupied housing units:
 Owner occupied
 Renter occupied
 H11C. TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE (AMERICAN
 INDIAN AND ALASKA NATIVE ALONE HOUSEHOLDER) [3]
 Universe: Population in occupied housing units with a householder who is American Indian and
-Alaska Native alone
+C|Alaska Native alone
 Total population in occupied housing units:
 Owner occupied
 Renter occupied
@@ -4688,7 +4677,7 @@ Renter occupied
 H11E. TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE (NATIVE
 HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE HOUSEHOLDER) [3]
 Universe: Population in occupied housing units with a householder who is Native Hawaiian and
-Other Pacific Islander alone
+C|Other Pacific Islander alone
 Total population in occupied housing units:
 Owner occupied
 Renter occupied
@@ -5006,8 +4995,7 @@ Householder 75 to 84 years
 Householder 85 years and over
 Renter occupied:
 (Repeat AGE OF HOUSEHOLDER)
-H16F. TENURE BY AGE OF HOUSEHOLDER (SOME OTHER RACE ALONE HOUSEHOLDER)
-[19]
+H16F. TENURE BY AGE OF HOUSEHOLDER (SOME OTHER RACE ALONE HOUSEHOLDER) [19]
 Universe: Occupied housing units with a householder who is Some other race alone
 Total:
 Owner occupied:

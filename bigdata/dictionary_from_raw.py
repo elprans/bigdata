@@ -57,15 +57,11 @@ def _derive_tokens(iter_):
         ),
 
         (
-            "aggregate", re.compile("^([A-Z][a-z]+)\:([\:]*)$"), (1, 2)
+            "aggregate", re.compile("^[^\:]+\:[^\:]*$"), (0, )
         ),
 
         (
-            "aggregate_right", re.compile("^([a-z]+)\:([\:]*)$"), (1, 2)
-        ),
-
-        (
-            "repeat", re.compile(r"^\(Repeat [A-Z]+\)$"), (0,)
+            "repeat", re.compile(r"^\(Repeat [A-Z ]+\)$"), (0,)
         ),
 
         (
@@ -74,6 +70,9 @@ def _derive_tokens(iter_):
 
         (
             "continuation", re.compile(r"^[a-z].*$"), (0, )
+        ),
+        (
+            "continuation", re.compile(r"^C\|(.*)$"), (1, )
         ),
 
         (
@@ -107,8 +106,6 @@ def _merge_continuations(iter_):
             if rec[0] == "continuation":
                 continuation_text = rec[1][0]
                 assert buf
-                #import pdb
-                #pdb.set_trace()
                 buf[-1] = (
                     buf[-1][0], (buf[-1][1][0] + " " + continuation_text,) +
                     buf[-1][1][1:])
@@ -118,6 +115,62 @@ def _merge_continuations(iter_):
             break
     while buf:
         yield buf.pop(0)
+
+
+def _merge_ends_in_trailer(iter_):
+    buf = []
+    while True:
+        try:
+            rec = next(iter_)
+            if rec[0] == "ends_in_trailer":
+                buf.append(rec)
+                continue
+            elif buf:
+                assert rec[0] == 'plain'
+                text = ""
+                while buf:
+                    etrec = buf.pop(0)
+                    text += etrec[1][0] + " "
+                text += rec[1][0]
+                rec = (
+                    rec[0], (text, ) + rec[1][1:]
+                )
+
+            yield rec
+        except StopIteration:
+            break
+    assert not buf
+
+
+def _fill_ellipses(iter_):
+    rec = None
+    while True:
+        try:
+            lastrec = rec
+            rec = next(iter_)
+            if rec[0] == 'ellipses':
+                m = re.match(r'(\d+) (.*)$', lastrec[1][0])
+                startnum = int(m.group(1))
+                desc = m.group(2)
+
+                e2, e3 = next(iter_), next(iter_)
+                assert e2[0] == e3[0] == 'ellipses'
+
+                contrec = next(iter_)
+                m = re.match(r'(\d+) (.*)$', contrec[1][0])
+                endnum = int(m.group(1))
+                assert m.group(2) == desc
+
+                for dig in range(startnum + 1, endnum):
+                    yield (
+                        lastrec[0],
+                        ("%d %s" % (dig, desc), ) + lastrec[1][1:]
+                    )
+                yield contrec
+            else:
+                yield rec
+        except StopIteration:
+            break
 
 
 def _combine_tokens(iter_):
@@ -156,20 +209,6 @@ def _combine_tokens(iter_):
                     if brec[0] != 'matrix_desc_left':
                         yield brec
                 yield newrec
-            elif rec[0] == "aggregate_right":
-                text = rec[1][0]
-                while buf:
-                    prev = buf.pop(-1)
-                    if prev[0] in ("ends_in_trailer", "plain"):
-                        text = prev[1][0] + text
-                    else:
-                        break
-                while buf:
-                    brec = buf.pop(0)
-                    if brec[0] != 'matrix_desc_left':
-                        yield brec
-                newrec = ("aggregate", (text, ""))
-                yield newrec
             elif rec[0] == "ends_in_trailer":
                 buf.append(rec)
             elif rec[0] == "plain":
@@ -185,6 +224,8 @@ def _parse(fh):
     iter_ = _ignores(iter_)
     iter_ = _derive_tokens(iter_)
     iter_ = _merge_continuations(iter_)
+    iter_ = _merge_ends_in_trailer(iter_)
+    iter_ = _fill_ellipses(iter_)
     iter_ = _combine_tokens(iter_)
     for line in iter_:
         yield line
@@ -196,6 +237,7 @@ def run():
 
     with open(fname) as fhandle:
         for rec in _parse(fhandle):
+            pass
             print(rec)
 
 
