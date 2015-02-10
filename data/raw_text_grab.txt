@@ -1,0 +1,5071 @@
+Chapter 6.
+Summary Table Outlines
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL
+P1. TOTAL POPULATION [1]
+Universe: Total population
+Total
+P2. URBAN AND RURAL [6] (FINAL NATIONAL FILE ONLY)
+Universe: Total population
+Total:
+Urban:
+Inside urbanized areas
+Inside urban clusters
+Rural
+Not defined for this file
+P3. RACE [71]
+Universe: Total population
+Total:
+Population of one race:
+White alone
+Black or African American alone
+American Indian and Alaska Native alone
+Asian alone
+Native Hawaiian and Other Pacific Islander alone
+Some other race alone
+Population of two or more races:
+Population of two races:
+White; Black or African American
+White; American Indian and Alaska Native
+White; Asian
+White; Native Hawaiian and Other Pacific Islander
+White; Some other race
+Black or African American; American Indian and Alaska Native
+Black or African American; Asian
+Black or African American; Native Hawaiian and Other Pacific Islander
+Black or African American; Some other race
+American Indian and Alaska Native; Asian
+American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+American Indian and Alaska Native; Some other race
+Asian; Native Hawaiian and Other Pacific Islander
+Asian; Some other race
+Native Hawaiian and Other Pacific Islander; Some other race
+Population of three races:
+White; Black or African American; American Indian and Alaska Native
+White; Black or African American; Asian
+White; Black or African American; Native Hawaiian and Other Pacific Islander
+White; Black or African American; Some other race
+White; American Indian and Alaska Native; Asian
+White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+Summary Table Outlines 6–1
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P3. RACE [71]—Con.
+Total—Con.
+Population of two or more races—Con.
+Population of three races—Con.
+White; American Indian and Alaska Native; Some other race
+White; Asian; Native Hawaiian and Other Pacific Islander
+White; Asian; Some other race
+White; Native Hawaiian and Other Pacific Islander; Some other race
+Black or African American; American Indian and Alaska Native; Asian
+Black or African American; American Indian and Alaska Native;
+Native Hawaiian and Other Pacific Islander
+Black or African American; American Indian and Alaska Native; Some other race
+Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+Black or African American; Asian; Some other race
+Black or African American; Native Hawaiian and Other Pacific Islander; Some other race
+American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+American Indian and Alaska Native; Asian; Some other race
+American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander;
+Some other race
+Asian; Native Hawaiian and Other Pacific Islander; Some other race
+Population of four races:
+White; Black or African American; American Indian and Alaska Native; Asian
+White; Black or African American; American Indian and Alaska Native;
+Native Hawaiian and Other Pacific Islander
+White; Black or African American; American Indian and Alaska Native; Some other race
+White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+White; Black or African American; Asian; Some other race
+White; Black or African American; Native Hawaiian and Other Pacific Islander; Some other
+race
+White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
+Islander
+White; American Indian and Alaska Native; Asian; Some other race
+White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander;
+Some other race
+White; Asian; Native Hawaiian and Other Pacific Islander; Some other race
+Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian
+and Other Pacific Islander
+Black or African American; American Indian and Alaska Native; Asian; Some other race
+Black or African American; American Indian and Alaska Native; Native Hawaiian and Other
+Pacific Islander; Some other race
+Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some
+other race
+American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander;
+Some other race
+Population of five races:
+White; Black or African American; American Indian and Alaska Native; Asian; Native
+Hawaiian and Other Pacific Islander
+White; Black or African American; American Indian and Alaska Native; Asian; Some
+other race
+White; Black or African American; American Indian and Alaska Native; Native Hawaiian and
+Other Pacific Islander; Some other race
+White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander;
+Some other race
+White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
+Islander; Some other race
+6–2 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P3. RACE [71]—Con.
+Total—Con.
+Population of two or more races—Con.
+Population of five races—Con.
+Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and
+Other Pacific Islander; Some other race
+Population of six races:
+White; Black or African American; American Indian and Alaska Native; Asian; Native
+Hawaiian and Other Pacific Islander; Some other race
+P4. HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE [73]
+Universe: Total population
+Total:
+Hispanic or Latino
+Not Hispanic or Latino:
+Population of one race:
+White alone
+Black or African American alone
+American Indian and Alaska Native alone
+Asian alone
+Native Hawaiian and Other Pacific Islander alone
+Some other race alone
+Population of two or more races:
+Population of two races:
+White; Black or African American
+White; American Indian and Alaska Native
+White; Asian
+White; Native Hawaiian and Other Pacific Islander
+White; Some other race
+Black or African American; American Indian and Alaska Native
+Black or African American; Asian
+Black or African American; Native Hawaiian and Other Pacific Islander
+Black or African American; Some other race
+American Indian and Alaska Native; Asian
+American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+American Indian and Alaska Native; Some other race
+Asian; Native Hawaiian and Other Pacific Islander
+Asian; Some other race
+Native Hawaiian and Other Pacific Islander; Some other race
+Population of three races:
+White; Black or African American; American Indian and Alaska Native
+White; Black or African American; Asian
+White; Black or African American; Native Hawaiian and Other Pacific Islander
+White; Black or African American; Some other race
+White; American Indian and Alaska Native; Asian
+White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+White; American Indian and Alaska Native; Some other race
+White; Asian; Native Hawaiian and Other Pacific Islander
+White; Asian; Some other race
+White; Native Hawaiian and Other Pacific Islander; Some other race
+Black or African American; American Indian and Alaska Native; Asian
+Black or African American; American Indian and Alaska Native; Native Hawaiian and
+Other Pacific Islander
+Black or African American; American Indian and Alaska Native; Some other race
+Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+Summary Table Outlines 6–3
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P4. HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE [73]—Con.
+Total—Con.
+Not Hispanic or Latino—Con.
+Population of two or more races—Con.
+Population of three races—Con.
+Black or African American; Asian; Some other race
+Black or African American; Native Hawaiian and Other Pacific Islander; Some other
+race
+American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+American Indian and Alaska Native; Asian; Some other race
+American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some
+other race
+Asian; Native Hawaiian and Other Pacific Islander; Some other race
+Population of four races:
+White; Black or African American; American Indian and Alaska Native; Asian
+White; Black or African American; American Indian and Alaska Native; Native Hawaiian
+and Other Pacific Islander
+White; Black or African American; American Indian and Alaska Native; Some other
+race
+White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+White; Black or African American; Asian; Some other race
+White; Black or African American; Native Hawaiian and Other Pacific Islander; Some
+other race
+White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
+Islander
+White; American Indian and Alaska Native; Asian; Some other race
+White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander;
+Some other race
+White; Asian; Native Hawaiian and Other Pacific Islander; Some other race
+Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian
+and Other Pacific Islander
+Black or African American; American Indian and Alaska Native; Asian; Some other race
+Black or African American; American Indian and Alaska Native; Native Hawaiian and
+Other Pacific Islander; Some other race
+Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some
+other race
+American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander;
+Some other race
+Population of five races:
+White; Black or African American; American Indian and Alaska Native; Asian; Native
+Hawaiian and Other Pacific Islander
+White; Black or African American; American Indian and Alaska Native; Asian; Some
+other race
+White; Black or African American; American Indian and Alaska Native; Native Hawaiian and
+Other Pacific Islander; Some other race
+White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander;
+Some other race
+White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
+Islander; Some other race
+Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and
+Other Pacific Islander; Some other race
+Population of six races:
+White; Black or African American; American Indian and Alaska Native; Asian; Native
+Hawaiian and Other Pacific Islander; Some other race
+6–4 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P5. RACE FOR THE POPULATION 18 YEARS AND OVER [71]
+Universe: Total population 18 years and over
+Total:
+Population of one race:
+White alone
+Black or African American alone
+American Indian and Alaska Native alone
+Asian alone
+Native Hawaiian and Other Pacific Islander alone
+Some other race alone
+Population of two or more races:
+Population of two races:
+White; Black or African American
+White; American Indian and Alaska Native
+White; Asian
+White; Native Hawaiian and Other Pacific Islander
+White; Some other race
+Black or African American; American Indian and Alaska Native
+Black or African American; Asian
+Black or African American; Native Hawaiian and Other Pacific Islander
+Black or African American; Some other race
+American Indian and Alaska Native; Asian
+American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+American Indian and Alaska Native; Some other race
+Asian; Native Hawaiian and Other Pacific Islander
+Asian; Some other race
+Native Hawaiian and Other Pacific Islander; Some other race
+Population of three races:
+White; Black or African American; American Indian and Alaska Native
+White; Black or African American; Asian
+White; Black or African American; Native Hawaiian and Other Pacific Islander
+White; Black or African American; Some other race
+White; American Indian and Alaska Native; Asian
+White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+White; American Indian and Alaska Native; Some other race
+White; Asian; Native Hawaiian and Other Pacific Islander
+White; Asian; Some other race
+White; Native Hawaiian and Other Pacific Islander; Some other race
+Black or African American; American Indian and Alaska Native; Asian
+Black or African American; American Indian and Alaska Native; Native Hawaiian and Other
+Pacific Islander
+Black or African American; American Indian and Alaska Native; Some other race
+Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+Black or African American; Asian; Some other race
+Black or African American; Native Hawaiian and Other Pacific Islander; Some other race
+American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+American Indian and Alaska Native; Asian; Some other race
+American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other
+race
+Asian; Native Hawaiian and Other Pacific Islander; Some other race
+Population of four races:
+White; Black or African American; American Indian and Alaska Native; Asian
+Summary Table Outlines 6–5
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P5. RACE FOR THE POPULATION 18 YEARS AND OVER [71]—Con.
+Total—Con.
+Population of two or more races—Con.
+Population of four races—Con.
+White; Black or African American; American Indian and Alaska Native; Native Hawaiian
+and Other Pacific Islander
+White; Black or African American; American Indian and Alaska Native; Some other race
+White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+White; Black or African American; Asian; Some other race
+White; Black or African American; Native Hawaiian and Other Pacific Islander; Some other
+race
+White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+White; American Indian and Alaska Native; Asian; Some other race
+White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander;
+Some other race
+White; Asian; Native Hawaiian and Other Pacific Islander; Some other race
+Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and
+Other Pacific Islander
+Black or African American; American Indian and Alaska Native; Asian; Some other race
+Black or African American; American Indian and Alaska Native; Native Hawaiian and Other
+Pacific Islander; Some other race
+Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some
+other race
+American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some
+other race
+Population of five races:
+White; Black or African American; American Indian and Alaska Native; Asian; Native
+Hawaiian and Other Pacific Islander
+White; Black or African American; American Indian and Alaska Native; Asian; Some
+other race
+White; Black or African American; American Indian and Alaska Native; Native Hawaiian and
+Other Pacific Islander; Some other race
+White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some
+other race
+White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
+Islander; Some other race
+Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian
+and Other Pacific Islander; Some other race
+Population of six races:
+White; Black or African American; American Indian and Alaska Native; Asian; Native
+Hawaiian and Other Pacific Islander; Some other race
+P6. HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE FOR THE
+POPULATION 18 YEARS AND OVER [73]
+Universe: Total population 18 years and over
+Total:
+Hispanic or Latino
+Not Hispanic or Latino:
+Population of one race:
+White alone
+Black or African American alone
+American Indian and Alaska Native alone
+Asian alone
+Native Hawaiian and Other Pacific Islander alone
+Some other race alone
+6–6 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P6. HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE FOR THE
+POPULATION 18 YEARS AND OVER [73]—Con.
+Total—Con.
+Not Hispanic or Latino—Con.
+Population of two or more races:
+Population of two races:
+White; Black or African American
+White; American Indian and Alaska Native
+White; Asian
+White; Native Hawaiian and Other Pacific Islander
+White; Some other race
+Black or African American; American Indian and Alaska Native
+Black or African American; Asian
+Black or African American; Native Hawaiian and Other Pacific Islander
+Black or African American; Some other race
+American Indian and Alaska Native; Asian
+American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+American Indian and Alaska Native; Some other race
+Asian; Native Hawaiian and Other Pacific Islander
+Asian; Some other race
+Native Hawaiian and Other Pacific Islander; Some other race
+Population of three races:
+White; Black or African American; American Indian and Alaska Native
+White; Black or African American; Asian
+White; Black or African American; Native Hawaiian and Other Pacific Islander
+White; Black or African American; Some other race
+White; American Indian and Alaska Native; Asian
+White; American Indian and Alaska Native; Native Hawaiian and Other Pacific
+Islander
+White; American Indian and Alaska Native; Some other race
+White; Asian; Native Hawaiian and Other Pacific Islander
+White; Asian; Some other race
+White; Native Hawaiian and Other Pacific Islander; Some other race
+Black or African American; American Indian and Alaska Native; Asian
+Black or African American; American Indian and Alaska Native; Native Hawaiian and
+Other Pacific Islander
+Black or African American; American Indian and Alaska Native; Some other race
+Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+Black or African American; Asian; Some other race
+Black or African American; Native Hawaiian and Other Pacific Islander; Some other
+race
+American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
+Islander
+American Indian and Alaska Native; Asian; Some other race
+American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some
+other race
+Asian; Native Hawaiian and Other Pacific Islander; Some other race
+Population of four races:
+White; Black or African American; American Indian and Alaska Native; Asian
+White; Black or African American; American Indian and Alaska Native; Native
+Hawaiian and Other Pacific Islander
+White; Black or African American; American Indian and Alaska Native; Some other
+race
+White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+Summary Table Outlines 6–7
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P6. HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE FOR THE
+POPULATION 18 YEARS AND OVER [73]—Con.
+Total—Con.
+Not Hispanic or Latino—Con.
+Population of two or more races—Con.
+Population of four races—Con.
+White; Black or African American; Asian; Some other race
+White; Black or African American; Native Hawaiian and Other Pacific Islander; Some
+other race
+White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
+Islander
+White; American Indian and Alaska Native; Asian; Some other race
+White; American Indian and Alaska Native; Native Hawaiian and Other Pacific
+Islander; Some other race
+White; Asian; Native Hawaiian and Other Pacific Islander; Some other race
+Black or African American; American Indian and Alaska Native; Asian; Native
+Hawaiian and Other Pacific Islander
+Black or African American; American Indian and Alaska Native; Asian; Some other
+race
+Black or African American; American Indian and Alaska Native; Native Hawaiian and Other
+Pacific Islander; Some other race
+Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some
+other race
+American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
+Islander; Some other race
+Population of five races:
+White; Black or African American; American Indian and Alaska Native; Asian; Native
+Hawaiian and Other Pacific Islander
+White; Black or African American; American Indian and Alaska Native; Asian; Some
+other race
+White; Black or African American; American Indian and Alaska Native; Native
+Hawaiian and Other Pacific Islander; Some other race
+White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander;
+Some other race
+White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific
+Islander; Some other race
+Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and
+Other Pacific Islander; Some other race
+Population of six races:
+White; Black or African American; American Indian and Alaska Native; Asian; Native
+Hawaiian and Other Pacific Islander; Some other race
+P7. RACE [8]
+Universe: Total population
+Total:
+White alone
+Black or African American alone
+American Indian and Alaska Native alone
+Asian alone
+Native Hawaiian and Other Pacific Islander alone
+Some other race alone
+Two or more races
+6–8 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P8. HISPANIC OR LATINO BY RACE [17]
+Universe: Total population
+Total:
+Not Hispanic or Latino:
+White alone
+Black or African American alone
+American Indian and Alaska Native alone
+Asian alone
+Native Hawaiian and Other Pacific Islander alone
+Some other race alone
+Two or more races
+Hispanic or Latino:
+(Repeat RACE)
+P9. RACE (TOTAL RACES TALLIED) [7]
+Universe: Total races tallied
+Total races tallied:
+White alone or in combination with one or more other races
+Black or African American alone or in combination with one or more other races
+American Indian and Alaska Native alone or in combination with one or more other races
+Asian alone or in combination with one or more other races
+Native Hawaiian and Other Pacific Islander alone or in combination with one or more other races
+Some other race alone or in combination with one or more other races
+P10. HISPANIC OR LATINO BY RACE (TOTAL RACES TALLIED) [15]
+Universe: Total races tallied
+Total races tallied:
+Not Hispanic or Latino:
+White alone or in combination with one or more other races
+Black or African American alone or in combination with one or more other races
+American Indian and Alaska Native alone or in combination with one or more other races
+Asian alone or in combination with one or more other races
+Native Hawaiian and Other Pacific Islander alone or in combination with one or more other
+races
+Some other race alone or in combination with one or more other races
+Hispanic or Latino:
+(Repeat RACE)
+P11. HISPANIC OR LATINO [1]
+Universe: People who are Hispanic or Latino
+Total
+P12. SEX BY AGE [49]
+Universe: Total population
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+Summary Table Outlines 6–9
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P12. SEX BY AGE [49]—Con.
+Total—Con.
+Male—Con.
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+P13. MEDIAN AGE BY SEX [3]
+Universe: Total population
+Median age—
+Both sexes
+Male
+Female
+P14. SEX BY AGE FOR THE POPULATION UNDER 20 YEARS [43]
+Universe: Population under 20 years
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+5 years
+6 years
+7 years
+8 years
+9 years
+10 years
+11 years
+12 years
+13 years
+14 years
+15 years
+16 years
+17 years
+18 years
+19 years
+Female:
+(Repeat AGE)
+6–10 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P15. HOUSEHOLDS [1]
+Universe: Households
+Total
+P16. POPULATION IN HOUSEHOLDS [1]
+Universe: Population in households
+Total
+P17. AVERAGE HOUSEHOLD SIZE [1]
+Universe: Households
+Average household size
+P18. HOUSEHOLD SIZE, HOUSEHOLD TYPE, AND PRESENCE OF OWN CHILDREN [19]
+Universe: Households
+Total:
+1-person household:
+Male householder
+Female householder
+2-or-more person household:
+Family households:
+Married-couple family:
+With own children under 18 years
+No own children under 18 years
+Other family:
+Male householder, no wife present:
+With own children under 18 years
+No own children under 18 years
+Female householder, no husband present:
+With own children under 18 years
+No own children under 18 years
+Nonfamily households:
+Male householder
+Female householder
+P19. HOUSEHOLDS BY PRESENCE OF PEOPLE UNDER 18 YEARS BY HOUSEHOLD TYPE
+[19]
+Universe: Households
+Total:
+Households with one or more people under 18 years:
+Family households:
+Married-couple family
+Other family:
+Male householder, no wife present
+Female householder, no husband present
+Nonfamily households:
+Male householder
+Female householder
+Households with no people under 18 years:
+(Repeat HOUSEHOLD TYPE)
+Summary Table Outlines 6–11
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P20. HOUSEHOLDS BY AGE OF HOUSEHOLDER BY HOUSEHOLD TYPE (INCLUDING
+LIVING ALONE) BY PRESENCE OF OWN CHILDREN [31]
+Universe: Households
+Total:
+Householder 15 to 64 years:
+Family households:
+Married-couple family:
+With own children under 18 years
+No own children under 18 years
+Other family:
+Male householder, no wife present:
+With own children under 18 years
+No own children under 18 years
+Female householder, no husband present:
+With own children under 18 years
+No own children under 18 years
+Nonfamily households:
+Householder living alone
+Householder not living alone
+Householder 65 years and over:
+(Repeat HOUSEHOLD TYPE BY PRESENCE OF OWN CHILDREN)
+P21. HOUSEHOLD TYPE BY AGE OF HOUSEHOLDER [19]
+Universe: Households
+Total:
+Family households:
+Householder 15 to 24 years
+Householder 25 to 34 years
+Householder 35 to 44 years
+Householder 45 to 54 years
+Householder 55 to 64 years
+Householder 65 to 74 years
+Householder 75 to 84 years
+Householder 85 years and over
+Nonfamily households:
+(Repeat AGE OF HOUSEHOLDER)
+P22. HOUSEHOLDS BY PRESENCE OF PEOPLE 60 YEARS AND OVER, HOUSEHOLD SIZE,
+AND HOUSEHOLD TYPE [11]
+Universe: Households
+Total:
+Households with one or more people 60 years and over:
+1-person household
+2-or-more person household:
+Family households
+Nonfamily households
+Households with no people 60 years and over:
+(Repeat HOUSEHOLD SIZE AND HOUSEHOLD TYPE)
+6–12 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P23. HOUSEHOLDS BY PRESENCE OF PEOPLE 65 YEARS AND OVER, HOUSEHOLD SIZE,
+AND HOUSEHOLD TYPE [11]
+Universe: Households
+Total:
+Households with one or more people 65 years and over:
+1-person household
+2-or-more person household:
+Family households
+Nonfamily households
+Households with no people 65 years and over:
+(Repeat HOUSEHOLD SIZE AND HOUSEHOLD TYPE)
+P24. HOUSEHOLDS BY PRESENCE OF PEOPLE 75 YEARS AND OVER, HOUSEHOLD SIZE,
+AND HOUSEHOLD TYPE [11]
+Universe: Households
+Total:
+Households with one or more people 75 years and over:
+1-person household
+2-or-more person household:
+Family households
+Nonfamily households
+Households with no people 75 years and over:
+(Repeat HOUSEHOLD SIZE AND HOUSEHOLD TYPE)
+P25. HOUSEHOLDS BY PRESENCE OF NONRELATIVES [3]
+Universe: Households
+Total:
+Households with one or more nonrelatives
+Households with no nonrelatives
+P26. HOUSEHOLD TYPE BY HOUSEHOLD SIZE [16]
+Universe: Households
+Total:
+Family households:
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Nonfamily households:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Summary Table Outlines 6–13
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P27. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) [27]
+Universe: Total population
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Child:
+Natural-born or adopted
+Step
+Grandchild
+Brother or sister
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P28. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS
+[17]
+Universe: Population under 18 years
+Total:
+In households:
+Householder or spouse
+Related child:
+Own child:
+In married-couple family
+In other family:
+Male householder, no wife present
+Female householder, no husband present
+Other relatives:
+Grandchild
+Other relatives
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+6–14 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P29. RELATIONSHIP BY AGE FOR THE POPULATION UNDER 18 YEARS [46]
+Universe: Population under 18 years
+Total:
+In households:
+Householder or spouse
+Related child:
+Own child:
+Under 3 years
+3 and 4 years
+5 years
+6 to 11 years
+12 and 13 years
+14 years
+15 to 17 years
+Other relatives:
+Under 3 years
+3 and 4 years
+5 years
+6 to 11 years
+12 and 13 years
+14 years
+15 to 17 years
+Nonrelatives:
+Under 3 years
+3 and 4 years
+5 years
+6 to 11 years
+12 and 13 years
+14 years
+15 to 17 years
+In group quarters:
+Institutionalized population:
+Under 3 years
+3 and 4 years
+5 years
+6 to 11 years
+12 and 13 years
+14 years
+15 to 17 years
+Noninstitutionalized population:
+Under 3 years
+3 and 4 years
+5 years
+6 to 11 years
+12 and 13 years
+14 years
+15 to 17 years
+Coverage improvement adjustment
+Summary Table Outlines 6–15
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P30. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
+POPULATION 65 YEARS AND OVER [22]
+Universe: Population 65 years and over
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P31. FAMILIES [1]
+Universe: Families
+Total
+P32. POPULATION IN FAMILIES [1]
+Universe: Population in families
+Total
+P33. AVERAGE FAMILY SIZE [1]
+Universe: Families
+Average family size
+P34. FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN [20]
+Universe: Families
+Total:
+Married-couple family:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Other family:
+Male householder, no wife present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+6–16 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P34. FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN [20]—Con.
+Total—Con.
+Other family—Con.
+Female householder, no husband present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+P35. FAMILY TYPE BY PRESENCE AND AGE OF RELATED CHILDREN [20]
+Universe: Families
+Total:
+Married-couple family:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Other family:
+Male householder, no wife present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Female householder, no husband present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+P36. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE [20]
+Universe: Own children under 18 years
+Total:
+In married-couple families:
+Under 3 years
+3 and 4 years
+5 years
+6 to 11 years
+12 to 17 years
+In other families:
+Male householder, no wife present:
+Under 3 years
+3 and 4 years
+5 years
+6 to 11 years
+12 to 17 years
+Female householder, no husband present:
+Under 3 years
+3 and 4 years
+5 years
+6 to 11 years
+12 to 17 years
+Summary Table Outlines 6–17
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P37. GROUP QUARTERS POPULATION BY GROUP QUARTERS TYPE [9]
+Universe: Population in group quarters
+Total:
+Institutionalized population (101-107, 201-209, 301-307, 400-410):
+Correctional institutions (101-107)
+Nursing homes (301-307)
+Other institutions (201-209, 400-410)
+Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
+College dormitories (includes college quarters off campus) (501)
+Military quarters (601-603)
+Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
+P38. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE [57]
+Universe: Population in group quarters
+Total:
+Male:
+Under 18 years:
+Institutionalized population (101-107, 201-209, 301-307, 400-410):
+Correctional institutions (101-107)
+Nursing homes (301-307)
+Other institutions (201-209, 400-410)
+Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909,
+911):
+College dormitories (includes college quarters off campus) (501)
+Military quarters (601-603)
+Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
+18 to 64 years:
+(Repeat GROUP QUARTERS TYPE)
+65 years and over:
+(Repeat GROUP QUARTERS TYPE)
+Female:
+(Repeat AGE BY GROUP QUARTERS TYPE)
+P39. POPULATION SUBSTITUTED [5]
+Universe: Total population
+Total:
+Not substituted
+Substituted:
+Noninterview
+Coverage improvement adjustment
+P40. IMPUTATION OF POPULATION ITEMS [3]
+Universe: Population not substituted
+Total:
+No items allocated
+One or more items allocated
+P41. IMPUTATION OF RACE [3]
+Universe: Population not substituted
+Total:
+Allocated
+Not allocated
+6–18 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
+P42. IMPUTATION OF HISPANIC OR LATINO [3]
+Universe: Population not substituted
+Total:
+Allocated
+Not allocated
+P43. IMPUTATION OF SEX [3]
+Universe: Population not substituted
+Total:
+Allocated
+Not allocated
+P44. IMPUTATION OF AGE [3]
+Universe: Population not substituted
+Total:
+Allocated
+Not allocated
+P45. IMPUTATION OF RELATIONSHIP [3]
+Universe: Population not substituted
+Total:
+Allocated
+Not allocated
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)
+P12A. SEX BY AGE (WHITE ALONE) [49]
+Universe: People who are White alone
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+Summary Table Outlines 6–19
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P12A. SEX BY AGE (WHITE ALONE) [49]—Con.
+Total—Con.
+Male—Con.
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+P12B. SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE) [49]
+Universe: People who are Black or African American alone
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+P12C. SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE) [49]
+Universe: People who are American Indian and Alaska Native alone
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+6–20 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P12C. SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE) [49]—Con.
+Total—Con.
+Male—Con.
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+P12D. SEX BY AGE (ASIAN ALONE) [49]
+Universe: People who are Asian alone
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+Summary Table Outlines 6–21
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P12E. SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE) [49]
+Universe: People who are Native Hawaiian and Other Pacific Islander alone
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+P12F. SEX BY AGE (SOME OTHER RACE ALONE) [49]
+Universe: People who are Some other race alone
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+6–22 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P12F. SEX BY AGE (SOME OTHER RACE ALONE) [49]—Con.
+Total—Con.
+Male—Con.
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+P12G. SEX BY AGE (TWO OR MORE RACES) [49]
+Universe: People who are Two or more races
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+P12H. SEX BY AGE (HISPANIC OR LATINO) [49]
+Universe: People who are Hispanic or Latino
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+Summary Table Outlines 6–23
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P12H. SEX BY AGE (HISPANIC OR LATINO) [49]—Con.
+Total—Con.
+Male—Con.
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+P12I. SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO) [49]
+Universe: People who are White alone, not Hispanic or Latino
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+6–24 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P13A. MEDIAN AGE BY SEX (WHITE ALONE) [3]
+Universe: People who are White alone
+Median age—
+Both sexes
+Male
+Female
+P13B. MEDIAN AGE BY SEX (BLACK OR AFRICAN AMERICAN ALONE) [3]
+Universe: People who are Black or African American alone
+Median age—
+Both sexes
+Male
+Female
+P13C. MEDIAN AGE BY SEX (AMERICAN INDIAN AND ALASKA NATIVE ALONE) [3]
+Universe: People who are American Indian and Alaska Native alone
+Median age—
+Both sexes
+Male
+Female
+P13D. MEDIAN AGE BY SEX (ASIAN ALONE) [3]
+Universe: People who are Asian alone
+Median age—
+Both sexes
+Male
+Female
+P13E. MEDIAN AGE BY SEX (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE)
+[3]
+Universe: People who are Native Hawaiian and Other Pacific Islander alone
+Median age—
+Both sexes
+Male
+Female
+P13F. MEDIAN AGE BY SEX (SOME OTHER RACE ALONE) [3]
+Universe: People who are Some other race alone
+Median age—
+Both sexes
+Male
+Female
+P13G. MEDIAN AGE BY SEX (TWO OR MORE RACES) [3]
+Universe: People who are Two or more races
+Median age—
+Both sexes
+Male
+Female
+Summary Table Outlines 6–25
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P13H. MEDIAN AGE BY SEX (HISPANIC OR LATINO) [3]
+Universe: People who are Hispanic or Latino
+Median age—
+Both sexes
+Male
+Female
+P13I. MEDIAN AGE BY SEX (WHITE ALONE, NOT HISPANIC OR LATINO) [3]
+Universe: People who are White alone, not Hispanic or Latino
+Median age—
+Both sexes
+Male
+Female
+P15A. HOUSEHOLDS (WHITE ALONE HOUSEHOLDER) [1]
+Universe: Households with a householder who is White alone
+Total
+P15B. HOUSEHOLDS (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER) [1]
+Universe: Households with a householder who is Black or African American alone
+Total
+P15C. HOUSEHOLDS (AMERICAN INDIAN AND ALASKA NATIVE ALONE HOUSEHOLDER)
+[1]
+Universe: Households with a householder who is American Indian and Alaska Native alone
+Total
+P15D. HOUSEHOLDS (ASIAN ALONE HOUSEHOLDER) [1]
+Universe: Households with a householder who is Asian alone
+Total
+P15E. HOUSEHOLDS (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE
+HOUSEHOLDER) [1]
+Universe: Households with a householder who is Native Hawaiian and Other Pacific Islander
+alone
+Total
+P15F. HOUSEHOLDS (SOME OTHER RACE ALONE HOUSEHOLDER) [1]
+Universe: Households with a householder who is Some other race alone
+Total
+P15G. HOUSEHOLDS (TWO OR MORE RACES HOUSEHOLDER) [1]
+Universe: Households with a householder who is Two or more races
+Total
+P15H. HOUSEHOLDS (HISPANIC OR LATINO HOUSEHOLDER) [1]
+Universe: Households with a householder who is Hispanic or Latino
+Total
+6–26 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P15I. HOUSEHOLDS (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER) [1]
+Universe: Households with a householder who is White alone, not Hispanic or Latino
+Total
+P16A. POPULATION IN HOUSEHOLDS (WHITE ALONE HOUSEHOLDER) [1]
+Universe: Population in households with a householder who is White alone
+Total
+P16B. POPULATION IN HOUSEHOLDS (BLACK OR AFRICAN AMERICAN ALONE
+HOUSEHOLDER) [1]
+Universe: Population in households with a householder who is Black or African American alone
+Total
+P16C. POPULATION IN HOUSEHOLDS (AMERICAN INDIAN AND ALASKA NATIVE ALONE
+HOUSEHOLDER) [1]
+Universe: Population in households with a householder who is American Indian and Alaska
+Native alone
+Total
+P16D. POPULATION IN HOUSEHOLDS (ASIAN ALONE HOUSEHOLDER) [1]
+Universe: Population in households with a householder who is Asian alone
+Total
+P16E. POPULATION IN HOUSEHOLDS (NATIVE HAWAIIAN AND OTHER PACIFIC
+ISLANDER ALONE HOUSEHOLDER) [1]
+Universe: Population in households with a householder who is Native Hawaiian and Other
+Pacific Islander alone
+Total
+P16F. POPULATION IN HOUSEHOLDS (SOME OTHER RACE ALONE HOUSEHOLDER) [1]
+Universe: Population in households with a householder who is Some other race alone
+Total
+P16G. POPULATION IN HOUSEHOLDS (TWO OR MORE RACES HOUSEHOLDER) [1]
+Universe: Population in households with a householder who is Two or more races
+Total
+P16H. POPULATION IN HOUSEHOLDS (HISPANIC OR LATINO HOUSEHOLDER) [1]
+Universe: Population in households with a householder who is Hispanic or Latino
+Total
+P16I. POPULATION IN HOUSEHOLDS (WHITE ALONE, NOT HISPANIC OR LATINO
+HOUSEHOLDER) [1]
+Universe: Population in households with a householder who is White alone, not Hispanic or Latino
+Total
+Summary Table Outlines 6–27
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P17A. AVERAGE HOUSEHOLD SIZE (WHITE ALONE HOUSEHOLDER) [1]
+Universe: Households with a householder who is White alone
+Average household size
+P17B. AVERAGE HOUSEHOLD SIZE (BLACK OR AFRICAN AMERICAN ALONE
+HOUSEHOLDER) [1]
+Universe: Households with a householder who is Black or African American alone
+Average household size
+P17C. AVERAGE HOUSEHOLD SIZE (AMERICAN INDIAN AND ALASKA NATIVE ALONE
+HOUSEHOLDER) [1]
+Universe: Households with a householder who is American Indian and Alaska Native alone
+Average household size
+P17D. AVERAGE HOUSEHOLD SIZE (ASIAN ALONE HOUSEHOLDER) [1]
+Universe: Households with a householder who is Asian alone
+Average household size
+P17E. AVERAGE HOUSEHOLD SIZE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER
+ALONE HOUSEHOLDER) [1]
+Universe: Households with a householder who is Native Hawaiian and Other Pacific Islander alone
+Average household size
+P17F. AVERAGE HOUSEHOLD SIZE (SOME OTHER RACE ALONE HOUSEHOLDER) [1]
+Universe: Households with a householder who is Some other race alone
+Average household size
+P17G. AVERAGE HOUSEHOLD SIZE (TWO OR MORE RACES HOUSEHOLDER) [1]
+Universe: Households with a householder who is Two or more races
+Average household size
+P17H. AVERAGE HOUSEHOLD SIZE (HISPANIC OR LATINO HOUSEHOLDER) [1]
+Universe: Households with a householder who is Hispanic or Latino
+Average household size
+P17I. AVERAGE HOUSEHOLD SIZE (WHITE ALONE, NOT HISPANIC OR LATINO
+HOUSEHOLDER) [1]
+Universe: Households with a householder who is White alone, not Hispanic or Latino
+Average household size
+6–28 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P26A. HOUSEHOLD TYPE BY HOUSEHOLD SIZE (WHITE ALONE HOUSEHOLDER) [16]
+Universe: Households with a householder who is White alone
+Total:
+Family households:
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Nonfamily households:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+P26B. HOUSEHOLD TYPE BY HOUSEHOLD SIZE (BLACK OR AFRICAN AMERICAN ALONE
+HOUSEHOLDER) [16]
+Universe: Households with a householder who is Black or African American alone
+Total:
+Family households:
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Nonfamily households:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+P26C. HOUSEHOLD TYPE BY HOUSEHOLD SIZE (AMERICAN INDIAN AND ALASKA
+NATIVE ALONE HOUSEHOLDER) [16]
+Universe: Households with a householder who is American Indian and Alaska Native alone
+Total:
+Family households:
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Summary Table Outlines 6–29
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P26C. HOUSEHOLD TYPE BY HOUSEHOLD SIZE (AMERICAN INDIAN AND ALASKA
+NATIVE ALONE HOUSEHOLDER) [16]—Con.
+Total—Con.
+Nonfamily households:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+P26D. HOUSEHOLD TYPE BY HOUSEHOLD SIZE (ASIAN ALONE HOUSEHOLDER) [16]
+Universe: Households with a householder who is Asian alone
+Total:
+Family households:
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Nonfamily households:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+P26E. HOUSEHOLD TYPE BY HOUSEHOLD SIZE (NATIVE HAWAIIAN AND OTHER PACIFIC
+ISLANDER ALONE HOUSEHOLDER) [16]
+Universe: Households with a householder who is Native Hawaiian and Other Pacific Islander
+alone
+Total:
+Family households:
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Nonfamily households:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+6–30 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P26F. HOUSEHOLD TYPE BY HOUSEHOLD SIZE (SOME OTHER RACE ALONE
+HOUSEHOLDER) [16]
+Universe: Households with a householder who is Some other race alone
+Total:
+Family households:
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Nonfamily households:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+P26G. HOUSEHOLD TYPE BY HOUSEHOLD SIZE (TWO OR MORE RACES HOUSEHOLDER)
+[16]
+Universe: Households with a householder who is Two or more races
+Total:
+Family households:
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Nonfamily households:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+P26H. HOUSEHOLD TYPE BY HOUSEHOLD SIZE (HISPANIC OR LATINO HOUSEHOLDER)
+[16]
+Universe: Households with a householder who is Hispanic or Latino
+Total:
+Family households:
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Summary Table Outlines 6–31
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P26H. HOUSEHOLD TYPE BY HOUSEHOLD SIZE (HISPANIC OR LATINO HOUSEHOLDER)
+[16]—Con.
+Total—Con.
+Nonfamily households:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+P26I. HOUSEHOLD TYPE BY HOUSEHOLD SIZE (WHITE ALONE, NOT HISPANIC OR
+LATINO HOUSEHOLDER) [16]
+Universe: Households with a householder who is White alone, not Hispanic or Latino
+Total:
+Family households:
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Nonfamily households:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+P27A. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE
+ALONE) [27]
+Universe: People who are White alone
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Child:
+Natural-born or adopted
+Step
+Grandchild
+Brother or sister
+Parent
+Other relatives
+Nonrelatives
+6–32 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P27A. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE
+ALONE) [27]—Con.
+Total—Con.
+In households—Con.
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P27B. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (BLACK OR
+AFRICAN AMERICAN ALONE) [27]
+Universe: People who are Black or African American alone
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Child:
+Natural-born or adopted
+Step
+Grandchild
+Brother or sister
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+Summary Table Outlines 6–33
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P27C. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (AMERICAN
+INDIAN AND ALASKA NATIVE ALONE) [27]
+Universe: People who are American Indian and Alaska Native alone
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Child:
+Natural-born or adopted
+Step
+Grandchild
+Brother or sister
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P27D. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (ASIAN
+ALONE) [27]
+Universe: People who are Asian alone
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Child:
+Natural-born or adopted
+Step
+Grandchild
+Brother or sister
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+6–34 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P27D. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (ASIAN
+ALONE) [27]—Con.
+Total—Con.
+In households—Con.
+In nonfamily households—Con.
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P27E. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (NATIVE
+HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE) [27]
+Universe: People who are Native Hawaiian and Other Pacific Islander alone
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Child:
+Natural-born or adopted
+Step
+Grandchild
+Brother or sister
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+Summary Table Outlines 6–35
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P27F. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (SOME OTHER
+RACE ALONE) [27]
+Universe: People who are Some other race alone
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Child:
+Natural-born or adopted
+Step
+Grandchild
+Brother or sister
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P27G. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (TWO OR
+MORE RACES) [27]
+Universe: People who are Two or more races
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Child:
+Natural-born or adopted
+Step
+Grandchild
+Brother or sister
+Parent
+Other relatives
+Nonrelatives
+6–36 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P27G. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (TWO OR
+MORE RACES) [27]—Con.
+Total—Con.
+In households—Con.
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P27H. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (HISPANIC OR
+LATINO) [27]
+Universe: People who are Hispanic or Latino
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Child:
+Natural-born or adopted
+Step
+Grandchild
+Brother or sister
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+Summary Table Outlines 6–37
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P27I. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE
+ALONE, NOT HISPANIC OR LATINO) [27]
+Universe: People who are White alone, not Hispanic or Latino
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Child:
+Natural-born or adopted
+Step
+Grandchild
+Brother or sister
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P28A. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS
+(WHITE ALONE) [17]
+Universe: White alone population under 18 years
+Total:
+In households:
+Householder or spouse
+Related child:
+Own child:
+In married-couple family
+In other family:
+Male householder, no wife present
+Female householder, no husband present
+Other relatives:
+Grandchild
+Other relatives
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+6–38 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P28B. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS
+(BLACK OR AFRICAN AMERICAN ALONE) [17]
+Universe: Black or African American alone population under 18 years
+Total:
+In households:
+Householder or spouse
+Related child:
+Own child:
+In married-couple family
+In other family:
+Male householder, no wife present
+Female householder, no husband present
+Other relatives:
+Grandchild
+Other relatives
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P28C. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS
+(AMERICAN INDIAN AND ALASKA NATIVE ALONE) [17]
+Universe: American Indian and Alaska Native alone population under 18 years
+Total:
+In households:
+Householder or spouse
+Related child:
+Own child:
+In married-couple family
+In other family:
+Male householder, no wife present
+Female householder, no husband present
+Other relatives:
+Grandchild
+Other relatives
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P28D. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS
+(ASIAN ALONE) [17]
+Universe: Asian alone population under 18 years
+Total:
+In households:
+Householder or spouse
+Related child:
+Own child:
+In married-couple family
+Summary Table Outlines 6–39
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P28D. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS
+(ASIAN ALONE) [17]—Con.
+Total—Con.
+In households—Con.
+Related child—Con.
+Own child—Con.
+In other family:
+Male householder, no wife present
+Female householder, no husband present
+Other relatives:
+Grandchild
+Other relatives
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P28E. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS
+(NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE) [17]
+Universe: Native Hawaiian and Other Pacific Islander alone population under 18 years
+Total:
+In households:
+Householder or spouse
+Related child:
+Own child:
+In married-couple family
+In other family:
+Male householder, no wife present
+Female householder, no husband present
+Other relatives:
+Grandchild
+Other relatives
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P28F. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS
+(SOME OTHER RACE ALONE) [17]
+Universe: Some other race alone population under 18 years
+Total:
+In households:
+Householder or spouse
+Related child:
+Own child:
+In married-couple family
+In other family:
+Male householder, no wife present
+Female householder, no husband present
+6–40 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P28F. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS
+(SOME OTHER RACE ALONE) [17]—Con.
+Total—Con.
+In households—Con.
+Other relatives:
+Grandchild
+Other relatives
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P28G. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS
+(TWO OR MORE RACES) [17]
+Universe: Two or more races population under 18 years
+Total:
+In households:
+Householder or spouse
+Related child:
+Own child:
+In married-couple family
+In other family:
+Male householder, no wife present
+Female householder, no husband present
+Other relatives:
+Grandchild
+Other relatives
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P28H. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS
+(HISPANIC OR LATINO) [17]
+Universe: Hispanic or Latino population under 18 years
+Total:
+In households:
+Householder or spouse
+Related child:
+Own child:
+In married-couple family
+In other family:
+Male householder, no wife present
+Female householder, no husband present
+Other relatives:
+Grandchild
+Other relatives
+Summary Table Outlines 6–41
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P28H. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS
+(HISPANIC OR LATINO) [17]—Con.
+Total—Con.
+In households—Con.
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P28I. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS
+(WHITE ALONE, NOT HISPANIC OR LATINO) [17]
+Universe: White alone, not Hispanic or Latino population under 18 years
+Total:
+In households:
+Householder or spouse
+Related child:
+Own child:
+In married-couple family
+In other family:
+Male householder, no wife present
+Female householder, no husband present
+Other relatives:
+Grandchild
+Other relatives
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P30A. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
+POPULATION 65 YEARS AND OVER (WHITE ALONE) [22]
+Universe: White alone population 65 years and over
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+6–42 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P30A. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
+POPULATION 65 YEARS AND OVER (WHITE ALONE) [22]—Con.
+Total—Con.
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P30B. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
+POPULATION 65 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE) [22]
+Universe: Black or African American alone population 65 years and over
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P30C. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
+POPULATION 65 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE)
+[22]
+Universe: American Indian and Alaska Native alone population 65 years and over
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Summary Table Outlines 6–43
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P30C. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
+POPULATION 65 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE)
+[22]—Con.
+Total—Con.
+In households—Con.
+In nonfamily households—Con.
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P30D. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
+POPULATION 65 YEARS AND OVER (ASIAN ALONE) [22]
+Universe: Asian alone population 65 years and over
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P30E. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
+POPULATION 65 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER
+ALONE) [22]
+Universe: Native Hawaiian and Other Pacific Islander alone population 65 years and over
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+6–44 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P30E. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
+POPULATION 65 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER
+ALONE) [22]—Con.
+Total—Con.
+In households—Con.
+In family households—Con.
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P30F. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
+POPULATION 65 YEARS AND OVER (SOME OTHER RACE ALONE) [22]
+Universe: Some other race alone population 65 years and over
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+Summary Table Outlines 6–45
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P30G. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
+POPULATION 65 YEARS AND OVER (TWO OR MORE RACES) [22]
+Universe: Two or more races population 65 years and over
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P30H. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
+POPULATION 65 YEARS AND OVER (HISPANIC OR LATINO) [22]
+Universe: Hispanic or Latino population 65 years and over
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+6–46 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P30I. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
+POPULATION 65 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO) [22]
+Universe: White alone, not Hispanic or Latino population 65 years and over
+Total:
+In households:
+In family households:
+Householder:
+Male
+Female
+Spouse
+Parent
+Other relatives
+Nonrelatives
+In nonfamily households:
+Male householder:
+Living alone
+Not living alone
+Female householder:
+Living alone
+Not living alone
+Nonrelatives
+In group quarters:
+Institutionalized population
+Noninstitutionalized population
+Coverage improvement adjustment
+P31A. FAMILIES (WHITE ALONE HOUSEHOLDER) [1]
+Universe: Families with a householder who is White alone
+Total
+P31B. FAMILIES (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER) [1]
+Universe: Families with a householder who is Black or African American alone
+Total
+P31C. FAMILIES (AMERICAN INDIAN AND ALASKA NATIVE ALONE HOUSEHOLDER) [1]
+Universe: Families with a householder who is American Indian and Alaska Native alone
+Total
+P31D. FAMILIES (ASIAN ALONE HOUSEHOLDER) [1]
+Universe: Families with a householder who is Asian alone
+Total
+P31E. FAMILIES (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE
+HOUSEHOLDER) [1]
+Universe: Families with a householder who is Native Hawaiian and Other Pacific Islander alone
+Total
+P31F. FAMILIES (SOME OTHER RACE ALONE HOUSEHOLDER) [1]
+Universe: Families with a householder who is Some other race alone
+Total
+Summary Table Outlines 6–47
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P31G. FAMILIES (TWO OR MORE RACES HOUSEHOLDER) [1]
+Universe: Families with a householder who is Two or more races
+Total
+P31H. FAMILIES (HISPANIC OR LATINO HOUSEHOLDER) [1]
+Universe: Families with a householder who is Hispanic or Latino
+Total
+P31I. FAMILIES (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER) [1]
+Universe: Families with a householder who is White alone, not Hispanic or Latino
+Total
+P32A. POPULATION IN FAMILIES (WHITE ALONE HOUSEHOLDER) [1]
+Universe: Population in families with a householder who is White alone
+Total
+P32B. POPULATION IN FAMILIES (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER)
+[1]
+Universe: Population in families with a householder who is Black or African American alone
+Total
+P32C. POPULATION IN FAMILIES (AMERICAN INDIAN AND ALASKA NATIVE ALONE
+HOUSEHOLDER) [1]
+Universe: Population in families with a householder who is American Indian and Alaska Native
+alone
+Total
+P32D. POPULATION IN FAMILIES (ASIAN ALONE HOUSEHOLDER) [1]
+Universe: Population in families with a householder who is Asian alone
+Total
+P32E. POPULATION IN FAMILIES (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER
+ALONE HOUSEHOLDER) [1]
+Universe: Population in families with a householder who is Native Hawaiian and Other Pacific
+Islander alone
+Total
+P32F. POPULATION IN FAMILIES (SOME OTHER RACE ALONE HOUSEHOLDER) [1]
+Universe: Population in families with a householder who is Some other race alone
+Total
+P32G. POPULATION IN FAMILIES (TWO OR MORE RACES HOUSEHOLDER) [1]
+Universe: Population in families with a householder who is Two or more races
+Total
+6–48 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P32H. POPULATION IN FAMILIES (HISPANIC OR LATINO HOUSEHOLDER) [1]
+Universe: Population in families with a householder who is Hispanic or Latino
+Total
+P32I. POPULATION IN FAMILIES (WHITE ALONE, NOT HISPANIC OR LATINO
+HOUSEHOLDER) [1]
+Universe: Population in families with a householder who is White alone, not Hispanic or Latino
+Total
+P33A. AVERAGE FAMILY SIZE (WHITE ALONE HOUSEHOLDER) [1]
+Universe: Families with a householder who is White alone
+Average family size
+P33B. AVERAGE FAMILY SIZE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER)
+[1]
+Universe: Families with a householder who is Black or African American alone
+Average family size
+P33C. AVERAGE FAMILY SIZE (AMERICAN INDIAN AND ALASKA NATIVE ALONE
+HOUSEHOLDER) [1]
+Universe: Families with a householder who is American Indian and Alaska Native alone
+Average family size
+P33D. AVERAGE FAMILY SIZE (ASIAN ALONE HOUSEHOLDER) [1]
+Universe: Families with a householder who is Asian alone
+Average family size
+P33E. AVERAGE FAMILY SIZE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER
+ALONE HOUSEHOLDER) [1]
+Universe: Families with a householder who is Native Hawaiian and Other Pacific Islander alone
+Average family size
+P33F. AVERAGE FAMILY SIZE (SOME OTHER RACE ALONE HOUSEHOLDER) [1]
+Universe: Families with a householder who is Some other race alone
+Average family size
+P33G. AVERAGE FAMILY SIZE (TWO OR MORE RACES HOUSEHOLDER) [1]
+Universe: Families with a householder who is Two or more races
+Average family size
+P33H. AVERAGE FAMILY SIZE (HISPANIC OR LATINO HOUSEHOLDER) [1]
+Universe: Families with a householder who is Hispanic or Latino
+Average family size
+P33I. AVERAGE FAMILY SIZE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER)
+[1]
+Universe: Families with a householder who is White alone, not Hispanic or Latino
+Average family size
+Summary Table Outlines 6–49
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P34A. FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN (WHITE ALONE
+HOUSEHOLDER) [20]
+Universe: Families with a householder who is White alone
+Total:
+Married-couple family:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Other family:
+Male householder, no wife present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Female householder, no husband present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+P34B. FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN (BLACK OR AFRICAN
+AMERICAN ALONE HOUSEHOLDER) [20]
+Universe: Families with a householder who is Black or African American alone
+Total:
+Married-couple family:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Other family:
+Male householder, no wife present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Female householder, no husband present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+6–50 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P34C. FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN (AMERICAN INDIAN
+AND ALASKA NATIVE ALONE HOUSEHOLDER) [20]
+Universe: Families with a householder who is American Indian and Alaska Native alone
+Total:
+Married-couple family:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Other family:
+Male householder, no wife present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Female householder, no husband present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+P34D. FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN (ASIAN ALONE
+HOUSEHOLDER) [20]
+Universe: Families with a householder who is Asian alone
+Total:
+Married-couple family:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Other family:
+Male householder, no wife present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Female householder, no husband present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Summary Table Outlines 6–51
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P34E. FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN (NATIVE HAWAIIAN
+AND OTHER PACIFIC ISLANDER ALONE HOUSEHOLDER) [20]
+Universe: Families with a householder who is Native Hawaiian and Other Pacific Islander alone
+Total:
+Married-couple family:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Other family:
+Male householder, no wife present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Female householder, no husband present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+P34F. FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN (SOME OTHER RACE
+ALONE HOUSEHOLDER) [20]
+Universe: Families with a householder who is Some other race alone
+Total:
+Married-couple family:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Other family:
+Male householder, no wife present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Female householder, no husband present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+6–52 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P34G. FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN (TWO OR MORE RACES
+HOUSEHOLDER) [20]
+Universe: Families with a householder who is Two or more races
+Total:
+Married-couple family:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Other family:
+Male householder, no wife present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Female householder, no husband present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+P34H. FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN (HISPANIC OR LATINO
+HOUSEHOLDER) [20]
+Universe: Families with a householder who is Hispanic or Latino
+Total:
+Married-couple family:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Other family:
+Male householder, no wife present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Female householder, no husband present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Summary Table Outlines 6–53
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P34I. FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN (WHITE ALONE, NOT
+HISPANIC OR LATINO HOUSEHOLDER) [20]
+Universe: Families with a householder who is White alone, not Hispanic or Latino
+Total:
+Married-couple family:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Other family:
+Male householder, no wife present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+Female householder, no husband present:
+With own children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No own children under 18 years
+P35A. FAMILY TYPE BY PRESENCE AND AGE OF RELATED CHILDREN (WHITE ALONE
+HOUSEHOLDER) [20]
+Universe: Families with a householder who is White alone
+Total:
+Married-couple family:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Other family:
+Male householder, no wife present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Female householder, no husband present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+6–54 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P35B. FAMILY TYPE BY PRESENCE AND AGE OF RELATED CHILDREN (BLACK OR
+AFRICAN AMERICAN ALONE HOUSEHOLDER) [20]
+Universe: Families with a householder who is Black or African American alone
+Total:
+Married-couple family:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Other family:
+Male householder, no wife present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Female householder, no husband present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+P35C. FAMILY TYPE BY PRESENCE AND AGE OF RELATED CHILDREN (AMERICAN
+INDIAN AND ALASKA NATIVE ALONE HOUSEHOLDER) [20]
+Universe: Families with a householder who is American Indian and Alaska Native alone
+Total:
+Married-couple family:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Other family:
+Male householder, no wife present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Female householder, no husband present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Summary Table Outlines 6–55
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P35D. FAMILY TYPE BY PRESENCE AND AGE OF RELATED CHILDREN (ASIAN ALONE
+HOUSEHOLDER) [20]
+Universe: Families with a householder who is Asian alone
+Total:
+Married-couple family:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Other family:
+Male householder, no wife present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Female householder, no husband present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 year
+P35E. FAMILY TYPE BY PRESENCE AND AGE OF RELATED CHILDREN (NATIVE HAWAIIAN
+AND OTHER PACIFIC ISLANDER ALONE HOUSEHOLDER) [20]
+Universe: Families with a householder who is Native Hawaiian and Other Pacific Islander alone
+Total:
+Married-couple family:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Other family:
+Male householder, no wife present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Female householder, no husband present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+6–56 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P35F. FAMILY TYPE BY PRESENCE AND AGE OF RELATED CHILDREN (SOME OTHER
+RACE ALONE HOUSEHOLDER) [20]
+Universe: Families with a householder who is Some other race alone
+Total:
+Married-couple family:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Other family:
+Male householder, no wife present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Female householder, no husband present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+P35G. FAMILY TYPE BY PRESENCE AND AGE OF RELATED CHILDREN (TWO OR MORE
+RACES HOUSEHOLDER) [20]
+Universe: Families with a householder who is Two or more races
+Total:
+Married-couple family:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Other family:
+Male householder, no wife present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Female householder, no husband present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Summary Table Outlines 6–57
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+P35H. FAMILY TYPE BY PRESENCE AND AGE OF RELATED CHILDREN (HISPANIC OR
+LATINO HOUSEHOLDER) [20]
+Universe: Families with a householder who is Hispanic or Latino
+Total:
+Married-couple family:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Other family:
+Male householder, no wife present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Female householder, no husband present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+P35I. FAMILY TYPE BY PRESENCE AND AGE OF RELATED CHILDREN (WHITE ALONE,
+NOT HISPANIC OR LATINO HOUSEHOLDER) [20]
+Universe: Families with a householder who is White alone, not Hispanic or Latino
+Total:
+Married-couple family:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Other family:
+Male householder, no wife present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+Female householder, no husband present:
+With related children under 18 years:
+Under 6 years only
+Under 6 years and 6 to 17 years
+6 to 17 years only
+No related children under 18 years
+6–58 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)
+PCT1. AMERICAN INDIAN AND ALASKA NATIVE ALONE WITH ONE TRIBE REPORTED
+FOR SELECTED TRIBES [47]
+Universe: People who are American Indian and Alaska Native alone - total tribes tallied for people
+with one tribe only, and people with no tribe reported
+Total tribes tallied: (300, A01-M38, M41-R98)
+American Indian tribes,
+specified: (A01-M38)
+Apache (A09-A23)
+Blackfeet (A45-A50)
+Cherokee (B21-B36)
+Cheyenne (B40-B45)
+Chickasaw (B53-B56)
+Chippewa (B67-B99)
+Choctaw (C08-C16)
+Colville (C35-C38)
+Comanche (C39-C43)
+Cree (C59-C63)
+Creek (C64-C80)
+Crow (C83-C86)
+Delaware (C93-D04)
+Houma (D78-D86)
+Iroquois (D93-E09)
+Kiowa (E30-E36)
+Latin American Indians (A95, A97-B03)
+Lumbee (E78-E83)
+Menominee (F11-F14)
+Navajo (F62-F70)
+Osage (G04-G09)
+Ottawa (G14-G22)
+Paiute (G23-G49)
+Pima (G84-G91)
+Potawatomi (H21-H33)
+Pueblo (H38-H65)
+Puget Sound Salish (H70-H92)
+Seminole (J47-J57)
+Shoshone (J81-J92)
+Sioux (K16-K53)
+Tohono O’Odham (K77-K86)
+Ute (L06-L14)
+Yakama (L79-L84)
+Yaqui (L91-L99)
+Yuman (M22-M33)
+All other tribes (A01-A08, A24-A44, A51-A94, A96, B04-B20, B37-B39, B46-
+B52, B57-B66, C01-C07, C17-C34, C44-C58, C81-C82, C87-
+C92, D05-D77, D87-D92, E10-E29, E37-E77, E84-F10, F15-
+F61, F71-G03, G10-G13, G50-G83, G92-H20, H34-H37, H66-
+H69, H93-J46, J58-J80, J93-K15, K54-K76, K87-L05, L15-L78,
+L85-L90, M01-M21, M34-M38)
+American Indian tribes, not
+specified (M41-M43)
+Summary Table Outlines 6–59
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
+PCT1. AMERICAN INDIAN AND ALASKA NATIVE ALONE WITH ONE TRIBE REPORTED
+FOR SELECTED TRIBES [47]—Con.
+Alaska Native tribes, specified: (M52-R98)
+Alaska Athabascan (M52-N27)
+Aleut (R11-R98)
+Eskimo (N67-R10)
+Tlingit-Haida (N28-N55)
+All other tribes (N56-N66)
+Alaska Native tribes, not specified (M44-M51)
+American Indian or Alaska Native
+tribes, not specified (300)
+PCT2. AMERICAN INDIAN AND ALASKA NATIVE ALONE WITH ONE OR MORE TRIBES
+REPORTED FOR SELECTED TRIBES [47]
+Universe: People who are American Indian and Alaska Native alone - total tribes tallied for people
+with one or more tribes, and people with no tribe reported
+Total tribes tallied: (300, A01-R99) & (300, A01-R99)
+American Indian tribes,
+specified: (A01-M40) & (300, A01-R99)
+Apache (A09-A23) & (300, A01-R99)
+Blackfeet (A45-A50) & (300, A01-R99)
+Cherokee (B21-B36) & (300, A01-R99)
+Cheyenne (B40-B45) & (300, A01-R99)
+Chickasaw (B53-B56) & (300, A01-R99)
+Chippewa (B67-B99) & (300, A01-R99)
+Choctaw (C08-C16) & (300, A01-R99)
+Colville (C35-C38) & (300, A01-R99)
+Comanche (C39-C43) & (300, A01-R99)
+Cree (C59-C63) & (300, A01-R99)
+Creek (C64-C80) & (300, A01-R99)
+Crow (C83-C86) & (300, A01-R99)
+Delaware (C93-D04) & (300, A01-R99)
+Houma (D78-D86) & (300, A01-R99)
+Iroquois (D93-E09) & (300, A01-R99)
+Kiowa (E30-E36) & (300, A01-R99)
+Latin American Indians (A95, A97-B03) & (300, A01-R99)
+Lumbee (E78-E83) & (300, A01-R99)
+Menominee (F11-F14) & (300, A01-R99)
+Navajo (F62-F70) & (300, A01-R99)
+Osage (G04-G09) & (300, A01-R99)
+Ottawa (G14-G22) & (300, A01-R99)
+Paiute (G23-G49) & (300, A01-R99)
+Pima (G84-G91) & (300, A01-R99)
+Potawatomi (H21-H33) & (300, A01-R99)
+Pueblo (H38-H65) & (300, A01-R99)
+Puget Sound Salish (H70-H92) & (300, A01-R99)
+Seminole (J47-J57) & (300, A01-R99)
+Shoshone (J81-J92) & (300, A01-R99)
+Sioux (K16-K53) & (300, A01-R99)
+Tohono O’Odham (K77-K86) & (300, A01-R99)
+Ute (L06-L14) & (300, A01-R99)
+6–60 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
+PCT2. AMERICAN INDIAN AND ALASKA NATIVE ALONE WITH ONE OR MORE TRIBES
+REPORTED FOR SELECTED TRIBES [47]—Con.
+Total tribes tallied—Con.
+American Indian tribes,
+specified:
+Yakama (L79-L84) & (300, A01-R99)
+Yaqui (L91-L99) & (300, A01-R99)
+Yuman (M22-M33) & (300, A01-R99)
+All other tribes (A01-A08, A24-A44, A51-A94, A96, B04-B20, B37-B39, B46-
+B52, B57-B66, C01-C07, C17-C34, C44-C58, C81-C82, C87-
+C92, D05-D77, D87-D92, E10-E29, E37-E77, E84-F10, F15-
+F61, F71-G03, G10-G13, G50-G83, G92-H20, H34-H37, H66-
+H69, H93-J46, J58-J80, J93-K15, K54-K76, K87-L05, L15-L78,
+L85-L90, M01-M21, M34-M40) & (300, A01-R99)
+American Indian tribes, not
+specified (M41-M43) & (300, A01-R99)
+Alaska Native tribes, specified: (M52-R99) & (300, A01-R99)
+Alaska Athabascan (M52-N27) & (300, A01-R99)
+Aleut (R11-R98) & (300, A01-R99)
+Eskimo (N67-R10) & (300, A01-R99)
+Tlingit-Haida (N28-N55) & (300, A01-R99)
+All other tribes (N56-N66, R99) & (300, A01-R99)
+Alaska Native tribes, not specified (M44-M51) & (300, A01-R99)
+American Indian or Alaska Native
+tribes, not specified (300) & (300, A01-R99)
+PCT3. AMERICAN INDIAN AND ALASKA NATIVE ALONE OR IN COMBINATION MORE
+OTHER RACES AND WITH ONE OR MORE TRIBES REPORTED FOR SELECTED TRIBES [47]
+Universe: People who are American Indian and Alaska Native alone or in combination with one or
+more other races - total tribes tallied for people with one or more tribes, and people with no tribe
+reported
+Total tribes tallied: (300, A01-R99) & (100-299) or (300, A01-R99) or (400-699)
+American Indian tribes,
+specified: (A01-M40) & (100-299) or (300, A01-R99) or (400-699)
+Apache (A09-A23) & (100-299) or (300, A01-R99) or (400-699)
+Blackfeet (A45-A50) & (100-299) or (300, A01-R99) or (400-699)
+Cherokee (B21-B36) & (100-299) or (300, A01-R99) or (400-699)
+Cheyenne (B40-B45) & (100-299) or (300, A01-R99) or (400-699)
+Chickasaw (B53-B56) & (100-299) or (300, A01-R99) or (400-699)
+Chippewa (B67-B99) & (100-299) or (300, A01-R99) or (400-699)
+Choctaw (C08-C16) & (100-299) or (300, A01-R99) or (400-699)
+Colville (C35-C38) & (100-299) or (300, A01-R99) or (400-699)
+Comanche (C39-C43) & (100-299) or (300, A01-R99) or (400-699)
+Cree (C59-C63) & (100-299) or (300, A01-R99) or (400-699)
+Creek (C64-C80) & (100-299) or (300, A01-R99) or (400-699)
+Crow (C83-C86) & (100-299) or (300, A01-R99) or (400-699)
+Delaware (C93-D04) & (100-299) or (300, A01-R99) or (400-699)
+Houma (D78-D86) & (100-299) or (300, A01-R99) or (400-699)
+Iroquois (D93-E09) & (100-299) or (300, A01-R99) or (400-699)
+Kiowa (E30-E36) & (100-299) or (300, A01-R99) or (400-699)
+Latin American Indians (A95, A97-B03) & (100-299) or (300, A01-R99) or (400-699)
+Lumbee (E78-E83) & (100-299) or (300, A01-R99) or (400-699)
+Summary Table Outlines 6–61
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
+PCT3. AMERICAN INDIAN AND ALASKA NATIVE ALONE OR IN COMBINATION MORE
+OTHER RACES AND WITH ONE OR MORE TRIBES REPORTED FOR SELECTED TRIBES
+[47]—Con.
+Total tribes tallied—Con.
+American Indian tribes,
+specified—Con.
+Menominee (F11-F14) & (100-299) or (300, A01-R99) or (400-699)
+Navajo (F62-F70) & (100-299) or (300, A01-R99) or (400-699)
+Osage (G04-G09) & (100-299) or (300, A01-R99) or (400-699)
+Ottawa (G14-G22) & (100-299) or (300, A01-R99) or (400-699)
+Paiute (G23-G49) & (100-299) or (300, A01-R99) or (400-699)
+Pima (G84-G91) & (100-299) or (300, A01-R99) or (400-699)
+Potawatomi (H21-H33) & (100-299) or (300, A01-R99) or (400-699)
+Pueblo (H38-H65) & (100-299) or (300, A01-R99) or (400-699)
+Puget Sound Salish (H70-H92) & (100-299) or (300, A01-R99) or (400-699)
+Seminole (J47-J57) & (100-299) or (300, A01-R99) or (400-699)
+Shoshone (J81-J92) & (100-299) or (300, A01-R99) or (400-699)
+Sioux (K16-K53) & (100-299) or (300, A01-R99) or (400-699)
+Tohono O’Odham (K77-K86) & (100-299) or (300, A01-R99) or (400-699)
+Ute (L06-L14) & (100-299) or (300, A01-R99) or (400-699)
+Yakama (L79-L84) & (100-299) or (300, A01-R99) or (400-699)
+Yaqui (L91-L99) & (100-299) or (300, A01-R99) or (400-699)
+Yuman (M22-M33) & (100-299) or (300, A01-R99) or (400- 699)
+All other tribes (A01-A08, A24-A44, A51-A94, A96, B04-B20, B37-B39, B46-
+B52, B57-B66, C01-C07, C17-C34, C44-C58, C81-C82, C87-
+C92, D05-D77, D87-D92, E10-E29, E37-E77, E84-F10, F15-
+F61, F71-G03, G10-G13, G50-G83, G92-H20, H34-H37, H66-
+H69, H93-J46, J58-J80, J93-K15, K54-K76, K87-L05, L15-L78,
+L85-L90, M01-M21, M34-M40) & (100-299) or (300, A01-R99)
+or (400-699)
+American Indian tribes, not
+specified (M41-M43) & (100-299) or (300, A01-R99) or (400-699)
+Alaska Native tribes, specified: (M52-R99) & (100-299) or (300, A01-R99) or (400-699)
+Alaska Athabascan (M52-N27) & (100-299) or (300, A01-R99) or (400-699)
+Aleut (R11-R98) & (100-299) or (300, A01-R99) or (400-699)
+Eskimo (N67-R10) & (100-299) or (300, A01-R99) or (400- 699)
+Tlingit-Haida (N28-N55) & (100-299) or (300, A01-R99) or (400-699)
+All other tribes (N56-N66, R99) & (100-299) or (300, A01-R99) or (400-699)
+Alaska Native tribes, not specified (M44-M51) & (100-299) or (300, A01-R99) or (400-699)
+American Indian or Alaska Native
+tribes, not specified (300) & (100-299) or (300, A01-R99) or (400-699)
+PCT4. AMERICAN INDIAN AND ALASKA NATIVE ALONE OR IN COMBINATION WITH
+ONE OR MORE OTHER RACES [9]
+Universe: People who are American Indian or Alaska Native alone or in combination with one or
+more other races
+Total:
+American Indian alone
+Alaska Native alone
+American Indian and Alaska Native alone (People are tallied as both American Indian and
+Alaska Native)
+6–62 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
+PCT4. AMERICAN INDIAN AND ALASKA NATIVE ALONE OR IN COMBINATION WITH
+ONE OR MORE OTHER RACES [9]—Con.
+Total—Con.
+American Indian in combination with one or more other races (‘‘Other races’’ include White,
+Black or African American, Asian, Native Hawaiian and Other Pacific Islander, and Some
+other race)
+Alaska Native in combination with one or more other races (‘‘Other races’’ include White,
+Black or African American, Asian, Native Hawaiian and Other Pacific Islander, and Some
+other race)
+American Indian and Alaska Native in combination with one or more other races (People are
+tallied as both American Indian and Alaska Native; ‘‘Other races’’ include White, Black or
+African American, Asian, Native Hawaiian and Other Pacific Islander, and Some other race)
+American Indian or Alaska Native alone (People marked the American Indian or Alaska
+Native checkbox only and there was no write in)
+American Indian or Alaska Native in combination with one or more other races (People marked
+the American Indian or Alaska Native checkbox and there was no write in; ‘‘Other races’’
+include White, Black or African American, Asian, Native Hawaiian and Other Pacific Islander, and
+Some other race)
+PCT5. ASIAN ALONE WITH ONE ASIAN CATEGORY FOR SELECTED GROUPS [19]
+Universe: Total Asian categories tallied for people with one Asian category only and people
+with no specific Asian category reported
+Total: (400-479, 481-499)
+Asian Indian (400-401)
+Bangladeshi (402)
+Cambodian (405)
+Chinese, except Taiwanese (410-411)
+Filipino (420-421)
+Hmong (422)
+Indonesian (423)
+Japanese (430-431)
+Korean (440-441)
+Laotian (442)
+Malaysian (443)
+Pakistani (445)
+Sri Lankan (446)
+Taiwanese (412)
+Thai (447)
+Vietnamese (450-451)
+Other Asian (403-404, 406-409, 413-419, 424-429, 432-439, 444, 448-
+449, 452-459, 469-479, 481-499)
+Other Asian, not specified (460-468)
+PCT6. ASIAN ALONE WITH ONE OR MORE ASIAN CATEGORIES FOR SELECTED GROUPS
+[19]
+Universe: Total Asian categories tallied for people with one or more Asian categories only and
+people with no specific Asian category reported
+Total Asian categories tallied: (400-499) & (400-499)
+Asian Indian (400-401) & (400-499)
+Bangladeshi (402) & (400-499)
+Cambodian (405) & (400-499)
+Summary Table Outlines 6–63
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
+PCT6. ASIAN ALONE WITH ONE OR MORE ASIAN CATEGORIES FOR SELECTED GROUPS
+[19]—Con.
+Total Asian categories tallied—Con.
+Chinese, except Taiwanese (410-411) & (400-499)
+Filipino (420-421) & (400-499)
+Hmong (422) & (400-499)
+Indonesian (423) & (400-499)
+Japanese (430-431) & (400-499)
+Korean (440-441) & (400-499)
+Laotian (442) & (400-499)
+Malaysian (443) & (400-499)
+Pakistani (445) & (400-499)
+Sri Lankan (446) & (400-499)
+Taiwanese (412) & (400-499)
+Thai (447) & (400-499)
+Vietnamese (450-451) & (400-499)
+Other Asian (403-404, 406-409, 413-419, 424-429, 432-439, 444, 448-
+449, 452-459, 469-499) & (400-499)
+Other Asian, not specified (460-468) & (400-499)
+PCT7. ASIAN ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES, AND
+WITH ONE OR MORE ASIAN CATEGORIES FOR SELECTED GROUPS [19]
+Universe: Total Asian categories tallied and people with no specific Asian category reported
+Total Asian categories tallied: (400-499) & (100-299) or (300, A01-R99) or (400-699)
+Asian Indian (400-401) & (100-299) or (300, A01-R99) or (400-699)
+Bangladeshi (402) & (100-299) or (300, A01-R99) or (400-699)
+Cambodian (405) & (100-299) or (300, A01-R99) or (400-699)
+Chinese, except Taiwanese (410-411) & (100-299) or (300, A01-R99) or (400-699)
+Filipino (420-421) & (100-299) or (300, A01-R99) or (400-699)
+Hmong (422) & (100-299) or (300, A01-R99) or (400-699)
+Indonesian (423) & (100-299) or (300, A01-R99) or (400-699)
+Japanese (430-431) & (100-299) or (300, A01-R99) or (400-699)
+Korean (440-441) & (100-299) or (300, A01-R99) or (400-699)
+Laotian (442) & (100-299) or (300, A01-R99) or (400-699)
+Malaysian (443) & (100-299) or (300, A01-R99) or (400-699)
+Pakistani (445) & (100-299) or (300, A01-R99) or (400-699)
+Sri Lankan (446) & (100-299) or (300, A01-R99) or (400-699)
+Taiwanese (412) & (100-299) or (300, A01-R99) or (400-699)
+Thai (447) & (100-299) or (300, A01-R99) or (400-699)
+Vietnamese (450-451) & (100-299) or (300, A01-R99) or (400-699)
+Other Asian (403-404, 406-409, 413-419, 424-429, 432-439, 444, 448-
+449, 452-459, 469-499) & (100-299) or (300, A01-R99) or
+(400-699)
+Other Asian, not specified (460-468) & (100-299) or (300, A01-R99) or (400-699)
+6–64 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
+PCT8. NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE WITH ONE NATIVE
+HAWAIIAN AND OTHER PACIFIC ISLANDER CATEGORY FOR SELECTED GROUPS [14]
+Universe: Total Native Hawaiian and Other Pacific Islander categories tallied for people with one
+Native Hawaiian and Other Pacific Islander category only and people with no specific Native
+Hawaiian and Other Pacific Islander category reported
+Total: (500-549, 551-599)
+Polynesian: (500-519)
+Native Hawaiian (500-503)
+Samoan (510-511)
+Tongan (513)
+Other Polynesian (504-509, 512, 514-519)
+Micronesian: (520-529, 531-541)
+Guamanian or Chamorro (520-522)
+Other Micronesian (523-529, 531-541)
+Melanesian: (542-546)
+Fijian (542)
+Other Melanesian (543-546)
+Other Pacific Islander, not
+specified (530, 547-549, 551-599)
+Filler
+PCT9. NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE WITH ONE OR MORE
+NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER CATEGORIES FOR SELECTED
+GROUPS [14]
+Universe: Total Native Hawaiian and Other Pacific Islander categories tallied for people with one or
+more Native Hawaiian and Other Pacific Islander categories only and people with no specific
+Native Hawaiian and Other Pacific Islander category reported
+Total Native Hawaiian and Other
+Pacific Islander categories tallied: (500-599) & (500-599)
+Polynesian: (500-519) & (500-599)
+Native Hawaiian (500-503) & (500-599)
+Samoan (510-511) & (500-599)
+Tongan (513) & (500-599)
+Other Polynesian (504-509, 512, 514-519) & (500-599)
+Micronesian: (520-529, 531-541) & (500-599)
+Guamanian or Chamorro (520-522) & (500-599)
+Other Micronesian (523-529, 531-541) & (500-599)
+Melanesian: (542-546) & (500-599)
+Fijian (542) & (500-599)
+Other Melanesian (543-546) & (500-599)
+Other Pacific Islander (550) & (500-599)
+Other Pacific Islander, not
+specified (530, 547-549, 551-599) & (500-599)
+Summary Table Outlines 6–65
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
+PCT10. NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN COMBINATION
+WITH ONE OR MORE OTHER RACES, AND WITH ONE OR MORE NATIVE HAWAIIAN
+AND OTHER PACIFIC ISLANDER CATEGORIES FOR SELECTED GROUPS [14]
+Universe: Total Native Hawaiian and Other Pacific Islander categories tallied and people with no
+specific Native Hawaiian and Other Pacific Islander category reported
+Total Native Hawaiian and Other
+Pacific Islander categories tallied: (500-599) & (100-299) or (300, A01-R99) or (400-699)
+Polynesian: (500-519) & (100-299) or (300, A01-R99) or (400-699)
+Native Hawaiian (500-503) & (100-299) or (300, A01-R99) or (400-699)
+Samoan (510-511) & (100-299) or (300, A01-R99) or (400-699)
+Tongan (513) & (100-299) or (300, A01-R99) or (400-699)
+Other Polynesian (504-509, 512, 514-519) & (100-299) or (300, A01-R99) or
+(400-699)
+Micronesian: (520-529, 531-541) & (100-299) or (300, A01-R99) or (400-
+699)
+Guamanian or Chamorro (520-522) & (100-299) or (300, A01-R99) or (400-699)
+Other Micronesian (523-529, 531-541) & (300, A01-R99) or (100-299) or (400-
+699)
+Melanesian: (542-546) & (100-299) or (300, A01-R99) or (400-699)
+Fijian (542) & (100-299) or (300, A01-R99) or (400-699)
+Other Melanesian (543-546) & (100-299) or (300, A01-R99) or (400-699)
+Other Pacific Islander (550) & (100-299) or (300, A01-R99) or (400-699)
+Other Pacific Islander, not
+specified
+(530, 547-549, 551-599) & (100-299) or (300, A01-R99) or
+(400-699)
+PCT11. HISPANIC OR LATINO BY SPECIFIC ORIGIN [31]
+Universe: Total population
+Total:
+Not Hispanic or Latino (001 - 199, 300 - 999)
+Hispanic or Latino: (200 - 299)
+Mexican (210 - 220)
+Puerto Rican (260 - 269)
+Cuban (270 - 274)
+Dominican Republic (275 - 279)
+Central American: (221 - 230)
+Costa Rican (221)
+Guatemalan (222)
+Honduran (223)
+Nicaraguan (224)
+Panamanian (225)
+Salvadoran (226)
+Other Central American (227 - 230)
+South American: (231 - 249)
+Argentinean (231)
+Bolivian (232)
+Chilean (233)
+Colombian (234)
+Ecuadorian (235)
+Paraguayan (236)
+Peruvian (237)
+Uruguayan (238)
+Venezuelan (239)
+Other South American (240 - 249)
+6–66 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
+PCT11. HISPANIC OR LATINO BY SPECIFIC ORIGIN [31]—Con.
+Total—Con.
+Hispanic or Latino—Con.
+Other Hispanic or Latino: (200 - 209, 250 - 259, 280 - 299)
+Spaniard (200 - 209)
+Spanish (282)
+Spanish American (286)
+All other Hispanic or Latino (250 - 259, 280-281, 283 - 285, 287 - 299)
+PCT12. SEX BY AGE [209]
+Universe: Total population
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE)
+PCT13. SEX BY AGE [49]
+Universe: Population in households
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+Summary Table Outlines 6–67
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
+PCT13. SEX BY AGE [49]—Con.
+Total—Con.
+Male—Con.
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+PCT14. UNMARRIED-PARTNER HOUSEHOLDS BY SEX OF PARTNERS [7]
+Universe: Households
+Total:
+Unmarried-partner households:
+Male householder and male partner
+Male householder and female partner
+Female householder and female partner
+Female householder and male partner
+All other households
+PCT15. NONRELATIVES BY HOUSEHOLD TYPE [13]
+Universe: Nonrelatives
+Total:
+In family households:
+Roomer or boarder
+Housemate or roommate
+Unmarried partner
+Foster child
+Other nonrelatives
+In nonfamily households:
+(Repeat NONRELATIVES)
+PCT16. GROUP QUARTERS POPULATION BY GROUP QUARTERS TYPE [52]
+Universe: Population in group quarters
+Total:
+Institutionalized population (101-107, 201-209, 301-307, 400-410):
+Correctional institutions (101-107):
+Federal prisons and detention centers (101-102)
+Halfway houses (105)
+Local jails and other confinement facilities (including police lockups) (104)
+Military disciplinary barracks (106)
+State prisons (103)
+Other types of correctional institutions (107)
+Nursing homes (301-307)
+Hospitals/wards, hospices, and schools for the handicapped (400-410):
+Hospitals/wards and hospices for chronically ill (401-403):
+Hospices or homes for chronically ill (403)
+Military hospitals or wards for chronically ill (401)
+Other hospitals or wards for chronically ill (402)
+6–68 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
+PCT16. GROUP QUARTERS POPULATION BY GROUP QUARTERS TYPE [52]—Con.
+Total—Con.
+Institutionalized population (101-107, 201-209, 301-307, 400-410)—Con.
+Hospitals/wards, hospices, and schools for the handicapped (400-410)—Con.
+Hospitals or wards for drug/alcohol abuse (400)
+Mental (Psychiatric) hospitals or wards (404)
+Schools, hospitals, or wards for the mentally retarded (405)
+Schools, hospitals, or wards for the physically handicapped (406-408):
+Institutions for the deaf (406)
+Institutions for the blind (407)
+Orthopedic wards and institutions for the physically handicapped (408)
+Wards in general hospitals for patients who have no usual home elsewhere (409)
+Wards in military hospitals for patients who have no usual home elsewhere (410)
+Juvenile institutions (201-209):
+Long-term care (201-207):
+Homes for abused, dependent, and neglected children (201-203)
+Residential treatment centers for emotionally disturbed children (204)
+Training schools for juvenile delinquents (205-207)
+Short-term care, detention or diagnostic centers for delinquent children (208)
+Type of juvenile institution unknown (209)
+Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
+College dormitories (includes college quarters off campus) (501)
+Military quarters (601-603):
+On base (601-602):
+Barracks, unaccompanied personnel housing (UPH), (Enlisted/Officer), and similar
+group living quarters for military personnel (601)
+Transient quarters for temporary residents (602)
+Military ships (603)
+Group homes (801-810):
+Homes or halfway houses for drug/alcohol abuse (801, 806)
+Homes for the mentally ill (802, 807)
+Homes for the mentally retarded (803, 808)
+Homes for the physically handicapped (804, 809)
+Other group homes (805, 810)
+Religious group quarters (906)
+Dormitories (901-903):
+Agriculture workers’ dormitories on farms (901)
+Job Corps and vocational training facilities (903)
+Other workers’ dormitories (902)
+Crews of maritime vessels (900)
+Other nonhousehold living situations (908)
+Other noninstitutional group quarters (604, 701-706, 904-905, 909, 911)
+Summary Table Outlines 6–69
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
+PCT17. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE
+[75]
+Universe: Population in group quarters
+Total:
+Male:
+Under 18 years:
+Institutionalized population (101-107, 201-209, 301-307, 400-410):
+Correctional institutions (101-107)
+Nursing homes (301-307)
+Hospitals/wards and hospices for chronically ill (401-403)
+Mental (Psychiatric) hospitals or wards (404)
+Juvenile institutions (201-209)
+Other institutions (400, 405-410)
+Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
+College dormitories (includes college quarters off campus) (501)
+Military quarters (601-603)
+Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
+18 to 64 years:
+(Repeat GROUP QUARTERS TYPE)
+65 years and over:
+(Repeat GROUP QUARTERS TYPE)
+Female:
+(Repeat AGE BY GROUP QUARTERS TYPE)
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)
+PCT12A. SEX BY AGE (WHITE ALONE) [209]
+Universe: People who are White alone
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE)
+6–70 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT12B. SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE) [209]
+Universe: People who are Black or African American alone
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE)
+PCT12C. SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE) [209]
+Universe: People who are American Indian and Alaska Native alone
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE)
+PCT12D. SEX BY AGE (ASIAN ALONE) [209]
+Universe: People who are Asian alone
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+Summary Table Outlines 6–71
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT12D. SEX BY AGE (ASIAN ALONE) [209]—Con.
+Total—Con.
+Male—Con.
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE)
+PCT12E. SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE) [209]
+Universe: People who are Native Hawaiian and Other Pacific Islander alone
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE)
+PCT12F. SEX BY AGE (SOME OTHER RACE ALONE) [209]
+Universe: People who are Some other race alone
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE)
+6–72 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT12G. SEX BY AGE (TWO OR MORE RACES) [209]
+Universe: People who are Two or more races
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE)
+PCT12H. SEX BY AGE (HISPANIC OR LATINO) [209]
+Universe: People who are Hispanic or Latino
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE)
+PCT12I. SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO) [209]
+Universe: People who are White alone, not Hispanic or Latino
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+Summary Table Outlines 6–73
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT12I. SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO) [209]—Con.
+Total—Con.
+Male—Con.
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE)
+PCT12J. SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE, NOT HISPANIC OR
+LATINO) [209]
+Universe: People who are Black or African American alone, not Hispanic or Latino
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE)
+PCT12K. SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE, NOT HISPANIC
+OR LATINO) [209]
+Universe: People who are American Indian and Alaska Native alone, not Hispanic or Latino
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE)
+6–74 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT12L. SEX BY AGE (ASIAN ALONE, NOT HISPANIC OR LATINO) [209]
+Universe: People who are Asian alone, not Hispanic or Latino
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE)
+PCT12M. SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE, NOT
+HISPANIC OR LATINO) [209]
+Universe: People who are Native Hawaiian and Other Pacific Islander alone, not Hispanic
+or Latino
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE)
+PCT12N. SEX BY AGE (SOME OTHER RACE ALONE, NOT HISPANIC OR LATINO) [209]
+Universe: People who are Some other race alone, not Hispanic or Latino
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+Summary Table Outlines 6–75
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT12N. SEX BY AGE (SOME OTHER RACE ALONE, NOT HISPANIC OR LATINO)
+[209]—Con.
+Total—Con.
+Male—Con.
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE))
+PCT12O. SEX BY AGE (TWO OR MORE RACES, NOT HISPANIC OR LATINO) [209]
+Universe: People who are Two or more races, not Hispanic or Latino
+Total:
+Male:
+Under 1 year
+1 year
+2 years
+3 years
+4 years
+5 years
+.
+.
+.
+99 years
+100 to 104 years
+105 to 109 years
+110 years and over
+Female:
+(Repeat AGE)
+PCT13A. SEX BY AGE (WHITE ALONE) [49]
+Universe: People in households who are White alone
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+6–76 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT13A. SEX BY AGE (WHITE ALONE) [49]—Con.
+Total—Con.
+Male—Con.
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+PCT13B. SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE) [49]
+Universe: People in households who are Black or African American alone
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+Summary Table Outlines 6–77
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT13C. SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE) [49]
+Universe: People in households who are American Indian and Alaska Native alone
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+PCT13D. SEX BY AGE (ASIAN ALONE) [49]
+Universe: People in households who are Asian alone
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+6–78 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT13D. SEX BY AGE (ASIAN ALONE) [49]—Con.
+Total—Con.
+Male—Con.
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+PCT13E. SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE) [49]
+Universe: People in households who are Native Hawaiian and Other Pacific Islander alone
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+PCT13F. SEX BY AGE (SOME OTHER RACE ALONE) [49]
+Universe: People in households who are Some other race alone
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+Summary Table Outlines 6–79
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT13F. SEX BY AGE (SOME OTHER RACE ALONE) [49]—Con.
+Total—Con.
+Male—Con.
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+PCT13G. SEX BY AGE (TWO OR MORE RACES) [49]
+Universe: People in households who are Two or more races
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+6–80 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT13H.SEX BY AGE (HISPANIC OR LATINO) [49]
+Universe: People in households who are Hispanic or Latino
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+PCT13I. SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO) [49]
+Universe: People in households who are White alone, not Hispanic or Latino
+Total:
+Male:
+Under 5 years
+5 to 9 years
+10 to 14 years
+15 to 17 years
+18 and 19 years
+20 years
+21 years
+22 to 24 years
+25 to 29 years
+30 to 34 years
+35 to 39 years
+40 to 44 years
+45 to 49 years
+50 to 54 years
+55 to 59 years
+60 and 61 years
+62 to 64 years
+Summary Table Outlines 6–81
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT13I. SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO) [49]—Con.
+Total—Con.
+Male—Con.
+65 and 66 years
+67 to 69 years
+70 to 74 years
+75 to 79 years
+80 to 84 years
+85 years and over
+Female:
+(Repeat AGE)
+PCT15A. NONRELATIVES BY HOUSEHOLD TYPE (WHITE ALONE) [13]
+Universe: Nonrelatives who are White alone
+Total:
+In family households:
+Roomer or boarder
+Housemate or roommate
+Unmarried partner
+Foster child
+Other nonrelatives
+In nonfamily households:
+(Repeat NONRELATIVES)
+PCT15B. NONRELATIVES BY HOUSEHOLD TYPE (BLACK OR AFRICAN AMERICAN
+ALONE) [13]
+Universe: Nonrelatives who are Black or African American alone
+Total:
+In family households:
+Roomer or boarder
+Housemate or roommate
+Unmarried partner
+Foster child
+Other nonrelatives
+In nonfamily households:
+(Repeat NONRELATIVES)
+PCT15C. NONRELATIVES BY HOUSEHOLD TYPE (AMERICAN INDIAN AND ALASKA
+NATIVE ALONE) [13]
+Universe: Nonrelatives who are American Indian and Alaska Native alone
+Total:
+In family households:
+Roomer or boarder
+Housemate or roommate
+Unmarried partner
+Foster child
+Other nonrelatives
+In nonfamily households:
+(Repeat NONRELATIVES)
+6–82 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT15D. NONRELATIVES BY HOUSEHOLD TYPE (ASIAN ALONE) [13]
+Universe: Nonrelatives who are Asian alone
+Total:
+In family households:
+Roomer or boarder
+Housemate or roommate
+Unmarried partner
+Foster child
+Other nonrelatives
+In nonfamily households:
+(Repeat NONRELATIVES)
+PCT15E. NONRELATIVES BY HOUSEHOLD TYPE (NATIVE HAWAIIAN AND OTHER
+PACIFIC ISLANDER ALONE) [13]
+Universe: Nonrelatives who are Native Hawaiian and Other Pacific Islander alone
+Total:
+In family households:
+Roomer or boarder
+Housemate or roommate
+Unmarried partner
+Foster child
+Other nonrelatives
+In nonfamily households:
+(Repeat NONRELATIVES)
+PCT15F. NONRELATIVES BY HOUSEHOLD TYPE (SOME OTHER RACE ALONE) [13]
+Universe: Nonrelatives who are Some other race alone
+Total:
+In family households:
+Roomer or boarder
+Housemate or roommate
+Unmarried partner
+Foster child
+Other nonrelatives
+In nonfamily households:
+(Repeat NONRELATIVES)
+PCT15G. NONRELATIVES BY HOUSEHOLD TYPE (TWO OR MORE RACES) [13]
+Universe: Nonrelatives who are Two or more races
+Total:
+In family households:
+Roomer or boarder
+Housemate or roommate
+Unmarried partner
+Foster child
+Other nonrelatives
+In nonfamily households:
+(Repeat NONRELATIVES)
+Summary Table Outlines 6–83
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT15H. NONRELATIVES BY HOUSEHOLD TYPE (HISPANIC OR LATINO) [13]
+Universe: Nonrelatives who are Hispanic or Latino
+Total:
+In family households:
+Roomer or boarder
+Housemate or roommate
+Unmarried partner
+Foster child
+Other nonrelatives
+In nonfamily households:
+(Repeat NONRELATIVES)
+PCT15I. NONRELATIVES BY HOUSEHOLD TYPE (WHITE ALONE, NOT HISPANIC OR
+LATINO) [13]
+Universe: Nonrelatives who are White alone, not Hispanic or Latino
+Total:
+In family households:
+Roomer or boarder
+Housemate or roommate
+Unmarried partner
+Foster child
+Other nonrelatives
+In nonfamily households:
+(Repeat NONRELATIVES)
+PCT17A. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE
+(WHITE ALONE) [75]
+Universe: Population in group quarters who are White alone
+Total:
+Male:
+Under 18 years:
+Institutionalized population (101-107, 201-209, 301-307, 400-410):
+Correctional institutions (101-107)
+Nursing homes (301-307)
+Hospitals/wards and hospices for chronically ill (401-403)
+Mental (Psychiatric) hospitals or wards (404)
+Juvenile institutions (201-209)
+Other institutions (400, 405-410)
+Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
+College dormitories (includes college quarters off campus) (501)
+Military quarters (601-603)
+Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
+18 to 64 years:
+(Repeat GROUP QUARTERS TYPE)
+65 years and over:
+(Repeat GROUP QUARTERS TYPE)
+Female:
+(Repeat AGE BY GROUP QUARTERS TYPE)
+6–84 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT17B. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE
+(BLACK OR AFRICAN AMERICAN ALONE) [75]
+Universe: Population in group quarters who are Black or African American alone
+Total:
+Male:
+Under 18 years:
+Institutionalized population (101-107, 201-209, 301-307, 400-410):
+Correctional institutions (101-107)
+Nursing homes (301-307)
+Hospitals/wards and hospices for chronically ill (401-403)
+Mental (Psychiatric) hospitals or wards (404)
+Juvenile institutions (201-209)
+Other institutions (400, 405-410)
+Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
+College dormitories (includes college quarters off campus) (501)
+Military quarters (601-603)
+Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
+18 to 64 years:
+(Repeat GROUP QUARTERS TYPE)
+65 years and over:
+(Repeat GROUP QUARTERS TYPE)
+Female:
+(Repeat AGE BY GROUP QUARTERS TYPE)
+PCT17C. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE
+(AMERICAN INDIAN AND ALASKA NATIVE ALONE) [75]
+Universe: Population in group quarters who are American Indian and Alaska Native alone
+Total:
+Male:
+Under 18 years:
+Institutionalized population (101-107, 201-209, 301-307, 400-410):
+Correctional institutions (101-107)
+Nursing homes (301-307)
+Hospitals/wards and hospices for chronically ill (401-403)
+Mental (Psychiatric) hospitals or wards (404)
+Juvenile institutions (201-209)
+Other institutions (400, 405-410)
+Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
+College dormitories (includes college quarters off campus) (501)
+Military quarters (601-603)
+Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
+18 to 64 years:
+(Repeat GROUP QUARTERS TYPE)
+65 years and over:
+(Repeat GROUP QUARTERS TYPE)
+Female:
+(Repeat AGE BY GROUP QUARTERS TYPE)
+Summary Table Outlines 6–85
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT17D. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE
+(ASIAN ALONE) [75]
+Universe: Population in group quarters who are Asian alone
+Total:
+Male:
+Under 18 years:
+Institutionalized population (101-107, 201-209, 301-307, 400-410):
+Correctional institutions (101-107)
+Nursing homes (301-307)
+Hospitals/wards and hospices for chronically ill (401-403)
+Mental (Psychiatric) hospitals or wards (404)
+Juvenile institutions (201-209)
+Other institutions (400, 405-410)
+Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
+College dormitories (includes college quarters off campus) (501)
+Military quarters (601-603)
+Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
+18 to 64 years:
+(Repeat GROUP QUARTERS TYPE)
+65 years and over:
+(Repeat GROUP QUARTERS TYPE)
+Female:
+(Repeat AGE BY GROUP QUARTERS TYPE)
+PCT17E. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE
+(NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE) [75]
+Universe: Population in group quarters who are Native Hawaiian and Other Pacific Islander
+alone
+Total:
+Male:
+Under 18 years:
+Institutionalized population (101-107, 201-209, 301-307, 400-410):
+Correctional institutions (101-107)
+Nursing homes (301-307)
+Hospitals/wards and hospices for chronically ill (401-403)
+Mental (Psychiatric) hospitals or wards (404)
+Juvenile institutions (201-209)
+Other institutions (400, 405-410)
+Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
+College dormitories (includes college quarters off campus) (501)
+Military quarters (601-603)
+Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
+18 to 64 years:
+(Repeat GROUP QUARTERS TYPE)
+65 years and over:
+(Repeat GROUP QUARTERS TYPE)
+Female:
+(Repeat AGE BY GROUP QUARTERS TYPE)
+6–86 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT17F. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE
+(SOME OTHER RACE ALONE) [75]
+Universe: Population in group quarters who are Some other race alone
+Total:
+Male:
+Under 18 years:
+Institutionalized population (101-107, 201-209, 301-307, 400-410):
+Correctional institutions (101-107)
+Nursing homes (301-307)
+Hospitals/wards and hospices for chronically ill (401-403)
+Mental (Psychiatric) hospitals or wards (404)
+Juvenile institutions (201-209)
+Other institutions (400, 405-410)
+Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
+College dormitories (includes college quarters off campus) (501)
+Military quarters (601-603)
+Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
+18 to 64 years:
+(Repeat GROUP QUARTERS TYPE)
+65 years and over:
+(Repeat GROUP QUARTERS TYPE)
+Female:
+(Repeat AGE BY GROUP QUARTERS TYPE)
+PCT17G. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE
+(TWO OR MORE RACES) [75]
+Universe: Population in group quarters who are Two or more races
+Total:
+Male:
+Under 18 years:
+Institutionalized population (101-107, 201-209, 301-307, 400-410):
+Correctional institutions (101-107)
+Nursing homes (301-307)
+Hospitals/wards and hospices for chronically ill (401-403)
+Mental (Psychiatric) hospitals or wards (404)
+Juvenile institutions (201-209)
+Other institutions (400, 405-410)
+Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
+College dormitories (includes college quarters off campus) (501)
+Military quarters (601-603)
+Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
+18 to 64 years:
+(Repeat GROUP QUARTERS TYPE)
+65 years and over:
+(Repeat GROUP QUARTERS TYPE)
+Female:
+(Repeat AGE BY GROUP QUARTERS TYPE)
+Summary Table Outlines 6–87
+U.S. Census Bureau, Census 2000
+POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+PCT17H. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE
+(HISPANIC OR LATINO) [75]
+Universe: Population in group quarters who are Hispanic or Latino
+Total:
+Male:
+Under 18 years:
+Institutionalized population (101-107, 201-209, 301-307, 400-410):
+Correctional institutions (101-107)
+Nursing homes (301-307)
+Hospitals/wards and hospices for chronically ill (401-403)
+Mental (Psychiatric) hospitals or wards (404)
+Juvenile institutions (201-209)
+Other institutions (400, 405-410)
+Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
+College dormitories (includes college quarters off campus) (501)
+Military quarters (601-603)
+Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
+18 to 64 years:
+(Repeat GROUP QUARTERS TYPE)
+65 years and over:
+(Repeat GROUP QUARTERS TYPE)
+Female:
+(Repeat AGE BY GROUP QUARTERS TYPE)
+PCT17I. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE
+(WHITE ALONE, NOT HISPANIC OR LATINO) [75]
+Universe: Population in group quarters who are White alone, not Hispanic or Latino
+Total:
+Male:
+Under 18 years:
+Institutionalized population (101-107, 201-209, 301-307, 400-410):
+Correctional institutions (101-107)
+Nursing homes (301-307)
+Hospitals/wards and hospices for chronically ill (401-403)
+Mental (Psychiatric) hospitals or wards (404)
+Juvenile institutions (201-209)
+Other institutions (400, 405-410)
+Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
+College dormitories (includes college quarters off campus) (501)
+Military quarters (601-603)
+Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
+18 to 64 years:
+(Repeat GROUP QUARTERS TYPE)
+65 years and over:
+(Repeat GROUP QUARTERS TYPE)
+Female:
+(Repeat AGE BY GROUP QUARTERS TYPE)
+6–88 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+HOUSING SUBJECTS (SUMMARIZED TO BLOCK LEVEL)
+H1. HOUSING UNITS [1]
+Universe: Housing units
+Total
+H2. URBAN AND RURAL [6] (FINAL NATIONAL FILE ONLY)
+Universe: Housing units
+Total:
+Urban:
+Inside urbanized areas
+Inside urban clusters
+Rural
+Not defined for this file
+H3. OCCUPANCY STATUS [3]
+Universe: Housing units
+Total:
+Occupied
+Vacant
+H4. TENURE [3]
+Universe: Occupied housing units
+Total:
+Owner occupied
+Renter occupied
+H5. VACANCY STATUS [7]
+Universe: Vacant housing units
+Total:
+For rent
+For sale only
+Rented or sold, not occupied
+For seasonal, recreational, or occasional use
+For migrant workers
+Other vacant
+H6. RACE OF HOUSEHOLDER [8]
+Universe: Occupied housing units
+Total:
+Householder who is White alone
+Householder who is Black or African American alone
+Householder who is American Indian and Alaska Native alone
+Householder who is Asian alone
+Householder who is Native Hawaiian and Other Pacific Islander alone
+Householder who is Some other race alone
+Householder who is Two or more races
+Summary Table Outlines 6–89
+U.S. Census Bureau, Census 2000
+HOUSING SUBJECTS (SUMMARIZED TO BLOCK LEVEL)—Con.
+H7. HISPANIC OR LATINO HOUSEHOLDER BY RACE OF HOUSEHOLDER [17]
+Universe: Occupied housing units
+Total:
+Not Hispanic or Latino householder:
+Householder who is White alone
+Householder who is Black or African American alone
+Householder who is American Indian and Alaska Native alone
+Householder who is Asian alone
+Householder who is Native Hawaiian and Other Pacific Islander alone
+Householder who is Some other race alone
+Householder who is Two or more races
+Hispanic or Latino householder:
+(Repeat RACE)
+H8. TOTAL RACES TALLIED FOR HOUSEHOLDERS [7]
+Universe: Total races tallied for householders in occupied housing units
+Total races tallied for householders:
+White alone or in combination with one or more other races
+Black or African American alone or in combination with one or more other races
+American Indian and Alaska Native alone or in combination with one or more other races
+Asian alone or in combination with one or more other races
+Native Hawaiian and Other Pacific Islander alone or in combination with one or more other races
+Some other race alone or in combination with one or more other races
+H9. HISPANIC OR LATINO BY TOTAL RACES TALLIED FOR HOUSEHOLDERS [15]
+Universe: Total races tallied for householders in occupied housing units
+Total races tallied for householders:
+Total races tallied for Not Hispanic or Latino householders:
+White alone or in combination with one or more other races
+Black or African American alone or in combination with one or more other races
+American Indian and Alaska Native alone or in combination with one or more other races
+Asian alone or in combination with one or more other races
+Native Hawaiian and Other Pacific Islander alone or in combination with one or more other
+races
+Some other race alone or in combination with one or more other races
+Total races tallied for Hispanic or Latino householders:
+(Repeat RACES TALLIED)
+H10. TOTAL POPULATION IN OCCUPIED HOUSING UNITS [1]
+Universe: Population in occupied housing units
+Total
+H11. TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE [3]
+Universe: Population in occupied housing units
+Total population in occupied housing units:
+Owner occupied
+Renter occupied
+H12. AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE [3]
+Universe: Occupied housing units
+Average household size—
+Total
+Owner occupied
+Renter occupied
+6–90 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+HOUSING SUBJECTS (SUMMARIZED TO BLOCK LEVEL)—Con.
+H13. HOUSEHOLD SIZE [8]
+Universe: Occupied housing units
+Total:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+H14. TENURE BY RACE OF HOUSEHOLDER [17]
+Universe: Occupied housing units
+Total:
+Owner occupied:
+Householder who is White alone
+Householder who is Black or African American alone
+Householder who is American Indian and Alaska Native alone
+Householder who is Asian alone
+Householder who is Native Hawaiian and Other Pacific Islander alone
+Householder who is Some other race alone
+Householder who is Two or more races
+Renter occupied:
+(Repeat RACE)
+H15. TENURE BY HOUSEHOLD SIZE [17]
+Universe: Occupied housing units
+Total:
+Owner occupied:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Renter occupied:
+(Repeat HOUSEHOLD SIZE)
+H16. TENURE BY AGE OF HOUSEHOLDER [19]
+Universe: Occupied housing units
+Total:
+Owner occupied:
+Householder 15 to 24 years
+Householder 25 to 34 years
+Householder 35 to 44 years
+Householder 45 to 54 years
+Householder 55 to 64 years
+Householder 65 to 74 years
+Householder 75 to 84 years
+Householder 85 years and over
+Renter occupied:
+(Repeat AGE OF HOUSEHOLDER)
+Summary Table Outlines 6–91
+U.S. Census Bureau, Census 2000
+HOUSING SUBJECTS (SUMMARIZED TO BLOCK LEVEL)—Con.
+H17. TENURE BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) BY AGE OF
+HOUSEHOLDER [69]
+Universe: Occupied housing units
+Total:
+Owner occupied:
+Family households:
+Married-couple family:
+Householder 15 to 34 years
+Householder 35 to 64 years
+Householder 65 years and over
+Other family:
+Male householder, no wife present:
+Householder 15 to 34 years
+Householder 35 to 64 years
+Householder 65 years and over
+Female householder, no husband present:
+Householder 15 to 34 years
+Householder 35 to 64 years
+Householder 65 years and over
+Nonfamily households:
+Male householder:
+Living alone:
+Householder 15 to 34 years
+Householder 35 to 64 years
+Householder 65 years and over
+Not living alone:
+Householder 15 to 34 years
+Householder 35 to 64 years
+Householder 65 years and over
+Female householder:
+Living alone:
+Householder 15 to 34 years
+Householder 35 to 64 years
+Householder 65 years and over
+Not living alone:
+Householder 15 to 34 years
+Householder 35 to 64 years
+Householder 65 years and over
+Renter occupied:
+(Repeat HOUSEHOLD TYPE AND AGE OF HOUSEHOLDER)
+H18. OCCUPIED HOUSING UNITS SUBSTITUTED [3]
+Universe: Occupied housing units
+Total:
+Substituted
+Not substituted
+H19. IMPUTATION OF VACANCY STATUS [5]
+Universe: Vacant housing units
+Total:
+Substituted
+Not substituted:
+Allocated
+Not allocated
+6–92 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+HOUSING SUBJECTS (SUMMARIZED TO BLOCK LEVEL)—Con.
+H20. IMPUTATION OF TENURE [5]
+Universe: Occupied housing units
+Total:
+Substituted
+Not substituted:
+Allocated
+Not allocated
+HOUSING SUBJECTS (REPEATED BY RACE/HISPANIC)
+H11A. TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE (WHITE ALONE
+HOUSEHOLDER) [3]
+Universe: Population in occupied housing units with a householder who is White alone
+Total population in occupied housing units:
+Owner occupied
+Renter occupied
+H11B. TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE (BLACK OR
+AFRICAN AMERICAN ALONE HOUSEHOLDER) [3]
+Universe: Population in occupied housing units with a householder who is Black or African
+American alone
+Total population in occupied housing units:
+Owner occupied
+Renter occupied
+H11C. TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE (AMERICAN
+INDIAN AND ALASKA NATIVE ALONE HOUSEHOLDER) [3]
+Universe: Population in occupied housing units with a householder who is American Indian and
+Alaska Native alone
+Total population in occupied housing units:
+Owner occupied
+Renter occupied
+H11D. TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE (ASIAN ALONE
+HOUSEHOLDER) [3]
+Universe: Population in occupied housing units with a householder who is Asian alone
+Total population in occupied housing units:
+Owner occupied
+Renter occupied
+H11E. TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE (NATIVE
+HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE HOUSEHOLDER) [3]
+Universe: Population in occupied housing units with a householder who is Native Hawaiian and
+Other Pacific Islander alone
+Total population in occupied housing units:
+Owner occupied
+Renter occupied
+Summary Table Outlines 6–93
+U.S. Census Bureau, Census 2000
+HOUSING SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+H11F. TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE (SOME OTHER
+RACE ALONE HOUSEHOLDER) [3]
+Universe: Population in occupied housing units with a householder who is Some other race
+alone
+Total population in occupied housing units:
+Owner occupied
+Renter occupied
+H11G. TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE (TWO OR MORE
+RACES HOUSEHOLDER) [3]
+Universe: Population in occupied housing units with a householder who is Two or more races
+Total population in occupied housing units:
+Owner occupied
+Renter occupied
+H11H. TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE (HISPANIC OR
+LATINO HOUSEHOLDER) [3]
+Universe: Population in occupied housing units with a householder who is Hispanic or Latino
+Total population in occupied housing units:
+Owner occupied
+Renter occupied
+H11I. TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE (WHITE ALONE,
+NOT HISPANIC OR LATINO HOUSEHOLDER) [3]
+Universe: Population in occupied housing units with a householder who is White alone,
+not Hispanic or Latino
+Total population in occupied housing units:
+Owner occupied
+Renter occupied
+H12A. AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE (WHITE
+ALONE HOUSEHOLDER) [3]
+Universe: Occupied housing units with a householder who is White alone
+Average household size—
+Total
+Owner occupied
+Renter occupied
+H12B. AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE (BLACK
+OR AFRICAN AMERICAN ALONE HOUSEHOLDER) [3]
+Universe: Occupied housing units with a householder who is Black or African American alone
+Average household size—
+Total
+Owner occupied
+Renter occupied
+H12C. AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE
+(AMERICAN INDIAN AND ALASKA NATIVE ALONE HOUSEHOLDER) [3]
+Universe: Occupied housing units with a householder who is American Indian and Alaska
+Native alone
+Average household size—
+Total
+Owner occupied
+Renter occupied
+6–94 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+HOUSING SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+H12D. AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE (ASIAN
+ALONE HOUSEHOLDER) [3]
+Universe: Occupied housing units with a householder who is Asian alone
+Average household size—
+Total
+Owner occupied
+Renter occupied
+H12E. AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE (NATIVE
+HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE HOUSEHOLDER) [3]
+Universe: Occupied housing units with a householder who is Native Hawaiian and Other
+Pacific Islander alone
+Average household size—
+Total
+Owner occupied
+Renter occupied
+H12F. AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE (SOME
+OTHER RACE ALONE HOUSEHOLDER) [3]
+Universe: Occupied housing units with a householder who is Some other race alone
+Average household size—
+Total
+Owner occupied
+Renter occupied
+H12G. AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE (TWO OR
+MORE RACES HOUSEHOLDER) [3]
+Universe: Occupied housing units with a householder who is Two or more races
+Average household size—
+Total
+Owner occupied
+Renter occupied
+H12H. AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE
+(HISPANIC OR LATINO HOUSEHOLDER) [3]
+Universe: Occupied housing units with a householder who is Hispanic or Latino
+Average household size—
+Total
+Owner occupied
+Renter occupied
+H12I. AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE (WHITE
+ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER) [3]
+Universe: Occupied housing units with a householder who is White alone, not Hispanic or Latino
+Average household size—
+Total
+Owner occupied
+Renter occupied
+Summary Table Outlines 6–95
+U.S. Census Bureau, Census 2000
+HOUSING SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+H15A. TENURE BY HOUSEHOLD SIZE (WHITE ALONE HOUSEHOLDER) [17]
+Universe: Occupied housing units with a householder who is White alone
+Total:
+Owner occupied:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Renter occupied:
+(Repeat HOUSEHOLD SIZE)
+H15B. TENURE BY HOUSEHOLD SIZE (BLACK OR AFRICAN AMERICAN ALONE
+HOUSEHOLDER) [17]
+Universe: Occupied housing units with a householder who is Black or African American alone
+Total:
+Owner occupied:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Renter occupied:
+(Repeat HOUSEHOLD SIZE)
+H15C. TENURE BY HOUSEHOLD SIZE (AMERICAN INDIAN AND ALASKA NATIVE ALONE
+HOUSEHOLDER) [17]
+Universe: Occupied housing units with a householder who is American Indian and Alaska
+Native alone
+Total:
+Owner occupied:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Renter occupied:
+(Repeat HOUSEHOLD SIZE)
+6–96 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+HOUSING SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+H15D. TENURE BY HOUSEHOLD SIZE (ASIAN ALONE HOUSEHOLDER) [17]
+Universe: Occupied housing units with a householder who is Asian alone
+Total:
+Owner occupied:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Renter occupied:
+(Repeat HOUSEHOLD SIZE)
+H15E. TENURE BY HOUSEHOLD SIZE (NATIVE HAWAIIAN AND OTHER PACIFIC
+ISLANDER ALONE HOUSEHOLDER) [17]
+Universe: Occupied housing units with a householder who is Native Hawaiian and Other
+Pacific Islander alone
+Total:
+Owner occupied:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Renter occupied:
+(Repeat HOUSEHOLD SIZE)
+H15F. TENURE BY HOUSEHOLD SIZE (SOME OTHER RACE ALONE HOUSEHOLDER) [17]
+Universe: Occupied housing units with a householder who is Some other race alone
+Total:
+Owner occupied:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Renter occupied:
+(Repeat HOUSEHOLD SIZE)
+H15G. TENURE BY HOUSEHOLD SIZE (TWO OR MORE RACES HOUSEHOLDER) [17]
+Universe: Occupied housing units with a householder who is Two or more races
+Total:
+Owner occupied:
+1-person household
+2-person household
+3-person household
+4-person household
+Summary Table Outlines 6–97
+U.S. Census Bureau, Census 2000
+HOUSING SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+H15G. TENURE BY HOUSEHOLD SIZE (TWO OR MORE RACES HOUSEHOLDER) [17]—Con.
+Total—Con.
+Owner occupied—Con.
+5-person household
+6-person household
+7-or-more person household
+Renter occupied:
+(Repeat HOUSEHOLD SIZE)
+H15H. TENURE BY HOUSEHOLD SIZE (HISPANIC OR LATINO HOUSEHOLDER) [17]
+Universe: Occupied housing units with a householder who is Hispanic or Latino
+Total:
+Owner occupied:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Renter occupied:
+(Repeat HOUSEHOLD SIZE)
+H15I. TENURE BY HOUSEHOLD SIZE (WHITE ALONE, NOT HISPANIC OR LATINO
+HOUSEHOLDER) [17]
+Universe: Occupied housing units with a householder who is White alone, not Hispanic or
+Latino
+Total:
+Owner occupied:
+1-person household
+2-person household
+3-person household
+4-person household
+5-person household
+6-person household
+7-or-more person household
+Renter occupied:
+(Repeat HOUSEHOLD SIZE)
+H16A. TENURE BY AGE OF HOUSEHOLDER (WHITE ALONE HOUSEHOLDER) [19]
+Universe: Occupied housing units with a householder who is White alone
+Total:
+Owner occupied:
+Householder 15 to 24 years
+Householder 25 to 34 years
+Householder 35 to 44 years
+Householder 45 to 54 years
+Householder 55 to 64 years
+Householder 65 to 74 years
+Householder 75 to 84 years
+Householder 85 years and over
+Renter occupied:
+(Repeat AGE OF HOUSEHOLDER)
+6–98 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+HOUSING SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+H16B. TENURE BY AGE OF HOUSEHOLDER (BLACK OR AFRICAN AMERICAN ALONE
+HOUSEHOLDER) [19]
+Universe: Occupied housing units with a householder who is Black or African American alone
+Total:
+Owner occupied:
+Householder 15 to 24 years
+Householder 25 to 34 years
+Householder 35 to 44 years
+Householder 45 to 54 years
+Householder 55 to 64 years
+Householder 65 to 74 years
+Householder 75 to 84 years
+Householder 85 years and over
+Renter occupied:
+(Repeat AGE OF HOUSEHOLDER)
+H16C. TENURE BY AGE OF HOUSEHOLDER (AMERICAN INDIAN AND ALASKA NATIVE
+ALONE HOUSEHOLDER) [19]
+Universe: Occupied housing units with a householder who is American Indian and Alaska
+Native alone
+Total:
+Owner occupied:
+Householder 15 to 24 years
+Householder 25 to 34 years
+Householder 35 to 44 years
+Householder 45 to 54 years
+Householder 55 to 64 years
+Householder 65 to 74 years
+Householder 75 to 84 years
+Householder 85 years and over
+Renter occupied:
+(Repeat AGE OF HOUSEHOLDER)
+H16D. TENURE BY AGE OF HOUSEHOLDER (ASIAN ALONE HOUSEHOLDER) [19]
+Universe: Occupied housing units with a householder who is Asian alone
+Total:
+Owner occupied:
+Householder 15 to 24 years
+Householder 25 to 34 years
+Householder 35 to 44 years
+Householder 45 to 54 years
+Householder 55 to 64 years
+Householder 65 to 74 years
+Householder 75 to 84 years
+Householder 85 years and over
+Renter occupied:
+(Repeat AGE OF HOUSEHOLDER)
+Summary Table Outlines 6–99
+U.S. Census Bureau, Census 2000
+HOUSING SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+H16E. TENURE BY AGE OF HOUSEHOLDER (NATIVE HAWAIIAN AND OTHER PACIFIC
+ISLANDER ALONE HOUSEHOLDER) [19]
+Universe: Occupied housing units with a householder who is Native Hawaiian and Other Pacific
+Islander alone
+Total:
+Owner occupied:
+Householder 15 to 24 years
+Householder 25 to 34 years
+Householder 35 to 44 years
+Householder 45 to 54 years
+Householder 55 to 64 years
+Householder 65 to 74 years
+Householder 75 to 84 years
+Householder 85 years and over
+Renter occupied:
+(Repeat AGE OF HOUSEHOLDER)
+H16F. TENURE BY AGE OF HOUSEHOLDER (SOME OTHER RACE ALONE HOUSEHOLDER)
+[19]
+Universe: Occupied housing units with a householder who is Some other race alone
+Total:
+Owner occupied:
+Householder 15 to 24 years
+Householder 25 to 34 years
+Householder 35 to 44 years
+Householder 45 to 54 years
+Householder 55 to 64 years
+Householder 65 to 74 years
+Householder 75 to 84 years
+Householder 85 years and over
+Renter occupied:
+(Repeat AGE OF HOUSEHOLDER)
+H16G. TENURE BY AGE OF HOUSEHOLDER (TWO OR MORE RACES HOUSEHOLDER) [19]
+Universe: Occupied housing units with a householder who is Two or more races
+Total:
+Owner occupied:
+Householder 15 to 24 years
+Householder 25 to 34 years
+Householder 35 to 44 years
+Householder 45 to 54 years
+Householder 55 to 64 years
+Householder 65 to 74 years
+Householder 75 to 84 years
+Householder 85 years and over
+Renter occupied:
+(Repeat AGE OF HOUSEHOLDER)
+6–100 Summary Table Outlines
+U.S. Census Bureau, Census 2000
+HOUSING SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
+H16H. TENURE BY AGE OF HOUSEHOLDER (HISPANIC OR LATINO HOUSEHOLDER) [19]
+Universe: Occupied housing units with a householder who is Hispanic or Latino
+Total:
+Owner occupied:
+Householder 15 to 24 years
+Householder 25 to 34 years
+Householder 35 to 44 years
+Householder 45 to 54 years
+Householder 55 to 64 years
+Householder 65 to 74 years
+Householder 75 to 84 years
+Householder 85 years and over
+Renter occupied:
+(Repeat AGE OF HOUSEHOLDER)
+H16I. TENURE BY AGE OF HOUSEHOLDER (WHITE ALONE, NOT HISPANIC OR LATINO ’
+HOUSEHOLDER) [19]
+Universe: Occupied housing units with a householder who is White alone, not Hispanic or Latino
+Total:
+Owner occupied:
+Householder 15 to 24 years
+Householder 25 to 34 years
+Householder 35 to 44 years
+Householder 45 to 54 years
+Householder 55 to 64 years
+Householder 65 to 74 years
+Householder 75 to 84 years
+Householder 85 years and over
+Renter occupied:
+(Repeat AGE OF HOUSEHOLDER)
+Summary Table Outlines 6–101
+U.S. Census Bureau, Census 2000
