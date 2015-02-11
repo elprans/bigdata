@@ -2,6 +2,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import Session
 import json
 import os
+import itertools
 
 from . import model
 
@@ -12,8 +13,10 @@ engine = None
 def initdb(engine):
     sess = Session(engine)
 
-    segments = json.load(os.path.join(data, "segments.json"))
-    dictionary = json.load(os.path.join(data, "dictionary.json"))
+    segments = json.load(open(os.path.join(data, "segments.json")))
+    dictionary = json.load(open(os.path.join(data, "dictionary.json")))
+
+    counter = itertools.count(1)
 
     for matrix_rec in dictionary:
         code = matrix_rec["code"]
@@ -25,9 +28,10 @@ def initdb(engine):
             name=matrix_rec["name"],
             code=code,
             universe=matrix_rec["universe"],
-            segment_id=segment_id
+            segment_id=segment_id,
+            sortkey="%.5d" % next(counter)
         )
-
+        print("Matrix: %s" % code)
         sess.add(matrix)
 
         stack = []
@@ -42,7 +46,8 @@ def initdb(engine):
                     parent=parent
                 )
                 sess.add(dictionary_item)
-                stack.append((entry["elements"], dictionary_item))
+                if "elements" in entry:
+                    stack.append((entry["elements"], dictionary_item))
 
         sess.flush()
 
@@ -52,15 +57,17 @@ from .profile import Profiler
 
 
 @Profiler.setup_once
-def setup_database(dburl, echo):
+def setup_database(options):
     global engine
-    engine = create_engine(dburl, echo=echo)
-    model.Base.metadata.create_all(engine)
-    initdb(engine)
+    engine = create_engine(options.dburl, echo=options.echo)
+    #model.Base.metadata.drop_all(engine)
+    if not engine.has_table(model.DataElement.__table__):
+        model.Base.metadata.create_all(engine)
+        initdb(engine)
 
 
 @Profiler.setup
-def clear_data(dburl, echo):
+def clear_data(options):
     with engine.begin() as conn:
         conn.execute(
             model.DataElement.__table__.delete()

@@ -35,7 +35,7 @@ class Matrix(Base):
     id = Column(Integer, primary_key=True)
     code = Column(String(6), nullable=False, unique=True)
     name = Column(String(200), nullable=False)
-    universe = Column(String(200), nullable=False)
+    universe = Column(String(400), nullable=False)
     sortkey = Column(String(5), nullable=False)
     segment_id = Column(String(2), nullable=False)
 
@@ -46,7 +46,7 @@ class DictionaryItem(Base):
     __tablename__ = 'dictionary_item'
 
     id = Column(Integer, primary_key=True)
-    name = Column(String(200), nullable=False)
+    name = Column(String(400), nullable=False)
     matrix_id = Column(ForeignKey('matrix.id'), nullable=False)
     index = Column(Integer, nullable=False)
     parent_id = Column(ForeignKey('dictionary_item.id'))

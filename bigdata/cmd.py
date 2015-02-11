@@ -34,6 +34,16 @@ def main():
     )
 
     subparser.add_argument(
+        "--poolsize", type=int,
+        default=10,
+        help="number of connections to use"
+    )
+    subparser.add_argument(
+        "--directory", type=str,
+        help="Directory location where datafiles are"
+    )
+
+    subparser.add_argument(
         '--profile', action='store_true',
         help='run profiling and dump call counts')
     subparser.add_argument(

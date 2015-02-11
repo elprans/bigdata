@@ -7,7 +7,7 @@ import time
 class Profiler(object):
     tests = []
 
-    _setup = None
+    _setup = []
     _setup_once = None
     name = None
 
@@ -18,6 +18,7 @@ class Profiler(object):
         self.profile = options.profile
         self.dump = options.dump
         self.echo = options.echo
+        self.options = options
         self.stats = []
 
     @classmethod
@@ -34,9 +35,7 @@ class Profiler(object):
 
     @classmethod
     def setup(cls, fn):
-        if cls._setup is not None:
-            raise ValueError("setup function already set to %s" % cls._setup)
-        cls._setup = staticmethod(fn)
+        cls._setup.append(fn)
         return fn
 
     @classmethod
@@ -57,7 +56,7 @@ class Profiler(object):
 
         if self._setup_once:
             print("Running setup once...")
-            self._setup_once(self.dburl, self.echo)
+            self._setup_once(self.options)
         print("Tests to run: %s" % ", ".join([t.__name__ for t in tests]))
         for test in tests:
             self._run_test(test)
@@ -86,7 +85,8 @@ class Profiler(object):
 
     def _run_test(self, fn):
         if self._setup:
-            self._setup(self.dburl, self.echo)
+            for setup_fn in self._setup:
+                setup_fn(self.options)
         if self.profile or self.runsnake or self.dump:
             self._run_with_profile(fn)
         else:
