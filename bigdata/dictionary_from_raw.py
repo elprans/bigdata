@@ -1,5 +1,7 @@
 import re
 import os
+import json
+import itertools
 
 
 class Matrix(object):
@@ -14,6 +16,22 @@ class Matrix(object):
         self.scale = None
         self.counter = 0
 
+    def to_struct(self):
+        global_counter = itertools.count()
+
+        return {
+            "code": self.code,
+            "name": self.name,
+            "universe": self.universe,
+            "elements": [
+                element.to_struct(global_counter)
+                for element in sorted(
+                    self.entries + self.aggregates,
+                    key=lambda entry: entry.index
+                )
+            ]
+        }
+
     def confirm(self):
         count = 0
 
@@ -27,10 +45,10 @@ class Matrix(object):
         count += len(self.entries)
 
         if count != self.expected_items:
-            print "BAD COUNT: %s  %d != %d" % (self.code, count, self.expected_items)
-            import pdb
-            pdb.set_trace()
-        #assert count == self.expected_items
+            print(
+                "BAD COUNT: %s  %d != %d" %
+                (self.code, count, self.expected_items)
+            )
 
     def _push_aggregate(self, rec):
         new_agg = Aggregate(
@@ -121,6 +139,20 @@ class Aggregate(object):
         self.children = []
         self.entries = []
 
+    def to_struct(self, global_counter):
+        return {
+            "index": self.index,
+            "name": self.name,
+            "global_counter": next(global_counter),
+            "elements": [
+                element.to_struct(global_counter)
+                for element in sorted(
+                    self.entries + self.children,
+                    key=lambda entry: entry.index
+                )
+            ]
+        }
+
     def _as_string(self, indent):
         text = "\n\n%s%s" % ("  " * indent, self.name)
 
@@ -166,6 +198,13 @@ class Plain(object):
         self.name = name
         self.level = level
 
+    def to_struct(self, global_counter):
+        return {
+            "index": self.index,
+            "name": self.name,
+            "global_counter": next(global_counter),
+        }
+
     def _as_string(self, indent):
         return "\n%s%s" % ("  " * indent, self.name)
 
@@ -173,7 +212,6 @@ class Plain(object):
 def _create_matrices(iter_):
     current_matrix = None
     for entry in iter_:
-        #print entry
         if entry[0] == 'matrix_desc_full':
             if current_matrix is not None:
                 current_matrix.confirm()
@@ -424,10 +462,12 @@ def run():
     fname = os.path.join(
         os.path.dirname(__file__), "..", "data", "raw_text_grab.txt")
 
+    struct = []
     with open(fname) as fhandle:
         for rec in _parse(fhandle):
-            pass
-            print(rec)
+            #print(rec)
+            struct.append(rec.to_struct())
+    print(json.dumps(struct, indent=1))
 
 
 if __name__ == '__main__':
