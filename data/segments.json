@@ -1,0 +1,79 @@
+[
+	{"segment": "01", "starting_matrix": "P1", "ending_matrix": "P5"},
+
+	{"segment": "02", "starting_matrix": "P6", "ending_matrix": "P18"},
+
+	{"segment": "03", "starting_matrix": "P19", "ending_matrix": "P33"},
+
+	{"segment": "04", "starting_matrix": "P34", "ending_matrix": "P45"},
+
+	{"segment": "05", "starting_matrix": "P12A", "ending_matrix": "P12E"},
+
+	{"segment": "06", "starting_matrix": "P12F", "ending_matrix": "P16I"},
+
+	{"segment": "07", "starting_matrix": "P17A", "ending_matrix": "P27C"},
+
+	{"segment": "08", "starting_matrix": "P27D", "ending_matrix": "P28E"},
+
+	{"segment": "09", "starting_matrix": "P28F", "ending_matrix": "P30H"},
+
+	{"segment": "10", "starting_matrix": "P30I", "ending_matrix": "P34I"},
+
+	{"segment": "11", "starting_matrix": "P35A", "ending_matrix": "P35I"},
+
+	{"segment": "12", "starting_matrix": "PCT1", "ending_matrix": "PCT9"},
+
+	{"segment": "13", "starting_matrix": "PCT10", "ending_matrix": "PCT11"},
+
+	{"segment": "14", "starting_matrix": "PCT12", "ending_matrix": "PCT12"},
+
+	{"segment": "15", "starting_matrix": "PCT13", "ending_matrix": "PCT17"},
+
+	{"segment": "16", "starting_matrix": "PCT12A", "ending_matrix": "PCT12A"},
+
+	{"segment": "17", "starting_matrix": "PCT12B", "ending_matrix": "PCT12B"},
+
+	{"segment": "18", "starting_matrix": "PCT12C", "ending_matrix": "PCT12C"},
+
+	{"segment": "19", "starting_matrix": "PCT12D", "ending_matrix": "PCT12D"},
+
+	{"segment": "20", "starting_matrix": "PCT12E", "ending_matrix": "PCT12E"},
+
+	{"segment": "21", "starting_matrix": "PCT12F", "ending_matrix": "PCT12F"},
+
+	{"segment": "22", "starting_matrix": "PCT12G", "ending_matrix": "PCT12G"},
+
+	{"segment": "23", "starting_matrix": "PCT12H", "ending_matrix": "PCT12H"},
+
+	{"segment": "24", "starting_matrix": "PCT12I", "ending_matrix": "PCT12I"},
+
+	{"segment": "25", "starting_matrix": "PCT12J", "ending_matrix": "PCT12J"},
+
+	{"segment": "26", "starting_matrix": "PCT12K", "ending_matrix": "PCT12K"},
+
+	{"segment": "27", "starting_matrix": "PCT12L", "ending_matrix": "PCT12L"},
+
+	{"segment": "28", "starting_matrix": "PCT12M", "ending_matrix": "PCT12M"},
+
+	{"segment": "29", "starting_matrix": "PCT12N", "ending_matrix": "PCT12N"},
+
+	{"segment": "30", "starting_matrix": "PCT12O", "ending_matrix": "PCT12O"},
+
+	{"segment": "31", "starting_matrix": "PCT13A", "ending_matrix": "PCT13E"},
+
+	{"segment": "32", "starting_matrix": "PCT13F", "ending_matrix": "PCT15C"},
+
+	{"segment": "33", "starting_matrix": "PCT15D", "ending_matrix": "PCT17B"},
+
+	{"segment": "34", "starting_matrix": "PCT17C", "ending_matrix": "PCT17E"},
+
+	{"segment": "35", "starting_matrix": "PCT17F", "ending_matrix": "PCT17H"},
+
+	{"segment": "36", "starting_matrix": "PCT17I", "ending_matrix": "PCT17I"},
+
+	{"segment": "37", "starting_matrix": "H1", "ending_matrix": "H20"},
+
+	{"segment": "38", "starting_matrix": "H11A", "ending_matrix": "H15I"},
+
+	{"segment": "39", "starting_matrix": "H16A", "ending_matrix": "H16I"}
+]

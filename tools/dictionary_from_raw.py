@@ -1,3 +1,16 @@
+"""This is a one-time script that was used to convert a cut-and-paste
+from chapter 6 of the "Summary File 1" PDF file into a taxonomy.
+The challenge was that it was not possible to extract the text from the
+PDF with indentation preserved, so the file raw_text_grab.txt is
+parsed, and combining some very one-off heuristics with manual annotations
+and edits to clean up remaining idiosyncrasies, the taxonomy is more or
+less preserved, though not without errors that can be further improved
+by further cleanup of raw_text_grab.txt.
+
+The central goal is to get the names of the "matrices" correct as well
+as the correct listing of contents in the correct order within.
+
+"""
 import re
 import os
 import json
