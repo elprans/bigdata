@@ -49,6 +49,8 @@ def main():
     subparser.set_defaults(cmd=list_)
 
     args = parser.parse_args()
+    if not hasattr(args, "cmd"):
+        parser.error("too few arguments")
     fn = args.cmd
     fn(args)
 
@@ -65,9 +67,7 @@ def list_(args):
 def run(args):
     args.profile = args.profile or args.dump or args.runsnake
 
-    import pdb
-    pdb.set_trace()
-    __import__(".suites." + args.suite)
+    __import__("bigdata.suites." + args.suite)
 
     Profiler(args).run()
 

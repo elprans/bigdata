@@ -59,7 +59,7 @@ def setup_database(dburl, echo):
     initdb(engine)
 
 
-@Profiler.setup_once
+@Profiler.setup
 def clear_data(dburl, echo):
     with engine.begin() as conn:
         conn.execute(

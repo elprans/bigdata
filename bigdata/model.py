@@ -25,7 +25,7 @@ class GeoRecord(Base):
             'geo_record_uq_idx',
             'fileid', 'stusab', 'chariter', 'cifsn', 'logrecno',
             unique=True
-        )
+        ),
     )
 
 
