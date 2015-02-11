@@ -51,8 +51,7 @@ def row_by_row_threaded():
         thread.start()
 
     for rec in util.retrieve_file_records(options.directory):
-        print(rec)
-        #work_queue.put(rec)
+        work_queue.put(rec)
 
 
 def worker():
