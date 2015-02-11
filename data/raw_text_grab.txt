@@ -588,13 +588,13 @@ Total:
 Households with one or more people under 18 years:
 Family households:
 Married-couple family
-N|Other family:
+L4|Other family:
 Male householder, no wife present
 Female householder, no husband present
 Nonfamily households:
 Male householder
 Female householder
-Households with no people under 18 years:
+L2|Households with no people under 18 years:
 (Repeat HOUSEHOLD TYPE)
 Summary Table Outlines 6–11
 U.S. Census Bureau, Census 2000
@@ -618,7 +618,7 @@ No own children under 18 years
 Nonfamily households:
 Householder living alone
 Householder not living alone
-Householder 65 years and over:
+L2|Householder 65 years and over:
 (Repeat HOUSEHOLD TYPE BY PRESENCE OF OWN CHILDREN)
 P21. HOUSEHOLD TYPE BY AGE OF HOUSEHOLDER [19]
 Universe: Households
@@ -640,10 +640,10 @@ Universe: Households
 Total:
 Households with one or more people 60 years and over:
 1-person household
-2-or-more person household:
+L3|2-or-more person household:
 Family households
 Nonfamily households
-Households with no people 60 years and over:
+L2|Households with no people 60 years and over:
 (Repeat HOUSEHOLD SIZE AND HOUSEHOLD TYPE)
 6–12 Summary Table Outlines
 U.S. Census Bureau, Census 2000
@@ -654,10 +654,10 @@ Universe: Households
 Total:
 Households with one or more people 65 years and over:
 1-person household
-2-or-more person household:
+L3|2-or-more person household:
 Family households
 Nonfamily households
-Households with no people 65 years and over:
+L2|Households with no people 65 years and over:
 (Repeat HOUSEHOLD SIZE AND HOUSEHOLD TYPE)
 P24. HOUSEHOLDS BY PRESENCE OF PEOPLE 75 YEARS AND OVER, HOUSEHOLD SIZE,
 AND HOUSEHOLD TYPE [11]
@@ -665,10 +665,10 @@ Universe: Households
 Total:
 Households with one or more people 75 years and over:
 1-person household
-2-or-more person household:
+L3|2-or-more person household:
 Family households
 Nonfamily households
-Households with no people 75 years and over:
+L2|Households with no people 75 years and over:
 (Repeat HOUSEHOLD SIZE AND HOUSEHOLD TYPE)
 P25. HOUSEHOLDS BY PRESENCE OF NONRELATIVES [3]
 Universe: Households
@@ -704,29 +704,28 @@ In family households:
 Householder:
 Male
 Female
-Spouse
-Child:
+L4|Spouse
+L4|Child:
 Natural-born or adopted
 Step
-Grandchild
+L4|Grandchild
 Brother or sister
 Parent
 Other relatives
 Nonrelatives
-In nonfamily households:
+L3|In nonfamily households:
 Male householder:
 Living alone
 Not living alone
-Female householder:
+L4|Female householder:
 Living alone
 Not living alone
-Nonrelatives
-In group quarters:
+L4|Nonrelatives
+L3|In group quarters:
 Institutionalized population
 Noninstitutionalized population
-Coverage improvement adjustment
-P28. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS
-[17]
+L3|Coverage improvement adjustment
+P28. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS [17]
 Universe: Population under 18 years
 Total:
 In households:
@@ -928,15 +927,15 @@ Institutionalized population (101-107, 201-209, 301-307, 400-410):
 Correctional institutions (101-107)
 Nursing homes (301-307)
 Other institutions (201-209, 400-410)
-Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
+L4|Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
 College dormitories (includes college quarters off campus) (501)
 Military quarters (601-603)
 Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
-18 to 64 years:
+L3|18 to 64 years:
 (Repeat GROUP QUARTERS TYPE)
-65 years and over:
+L3|65 years and over:
 (Repeat GROUP QUARTERS TYPE)
-Female:
+L2|Female:
 (Repeat AGE BY GROUP QUARTERS TYPE)
 P39. POPULATION SUBSTITUTED [5]
 Universe: Total population
@@ -1294,8 +1293,7 @@ Median age—
 Both sexes
 Male
 Female
-P13E. MEDIAN AGE BY SEX (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE)
-[3]
+P13E. MEDIAN AGE BY SEX (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE) [3]
 Universe: People who are Native Hawaiian and Other Pacific Islander alone
 Median age—
 Both sexes
@@ -1334,8 +1332,7 @@ Total
 P15B. HOUSEHOLDS (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER) [1]
 Universe: Households with a householder who is Black or African American alone
 Total
-P15C. HOUSEHOLDS (AMERICAN INDIAN AND ALASKA NATIVE ALONE HOUSEHOLDER)
-[1]
+P15C. HOUSEHOLDS (AMERICAN INDIAN AND ALASKA NATIVE ALONE HOUSEHOLDER) [1]
 Universe: Households with a householder who is American Indian and Alaska Native alone
 Total
 P15D. HOUSEHOLDS (ASIAN ALONE HOUSEHOLDER) [1]
@@ -1553,8 +1550,7 @@ Nonfamily households:
 5-person household
 6-person household
 7-or-more person household
-P26G. HOUSEHOLD TYPE BY HOUSEHOLD SIZE (TWO OR MORE RACES HOUSEHOLDER)
-[16]
+P26G. HOUSEHOLD TYPE BY HOUSEHOLD SIZE (TWO OR MORE RACES HOUSEHOLDER) [16]
 Universe: Households with a householder who is Two or more races
 Total:
 Family households:
@@ -1572,8 +1568,7 @@ Nonfamily households:
 5-person household
 6-person household
 7-or-more person household
-P26H. HOUSEHOLD TYPE BY HOUSEHOLD SIZE (HISPANIC OR LATINO HOUSEHOLDER)
-[16]
+P26H. HOUSEHOLD TYPE BY HOUSEHOLD SIZE (HISPANIC OR LATINO HOUSEHOLDER) [16]
 Universe: Households with a householder who is Hispanic or Latino
 Total:
 Family households:
@@ -2180,8 +2175,7 @@ Institutionalized population
 Noninstitutionalized population
 Coverage improvement adjustment
 P30C. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
-POPULATION 65 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE)
-[22]
+POPULATION 65 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE) [22]
 Universe: American Indian and Alaska Native alone population 65 years and over
 Total:
 In households:
@@ -2189,11 +2183,11 @@ In family households:
 Householder:
 Male
 Female
-Spouse
+L4|Spouse
 Parent
 Other relatives
 Nonrelatives
-In nonfamily households:
+L3|In nonfamily households:
 Male householder:
 Living alone
 Not living alone
@@ -2201,19 +2195,18 @@ Summary Table Outlines 6–43
 U.S. Census Bureau, Census 2000
 POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
 P30C. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
-POPULATION 65 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE)
-[22]—Con.
+POPULATION 65 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE) [22]—Con.
 Total—Con.
 In households—Con.
 In nonfamily households—Con.
 Female householder:
 Living alone
 Not living alone
-Nonrelatives
-In group quarters:
+L4|Nonrelatives
+L2|In group quarters:
 Institutionalized population
 Noninstitutionalized population
-Coverage improvement adjustment
+L2|Coverage improvement adjustment
 P30D. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
 POPULATION 65 YEARS AND OVER (ASIAN ALONE) [22]
 Universe: Asian alone population 65 years and over
@@ -2254,8 +2247,7 @@ Spouse
 U.S. Census Bureau, Census 2000
 POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
 P30E. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) FOR THE
-POPULATION 65 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER
-ALONE) [22]—Con.
+POPULATION 65 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE) [22]—Con.
 Total—Con.
 In households—Con.
 In family households—Con.
@@ -2414,8 +2406,7 @@ Total
 P32A. POPULATION IN FAMILIES (WHITE ALONE HOUSEHOLDER) [1]
 Universe: Population in families with a householder who is White alone
 Total
-P32B. POPULATION IN FAMILIES (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER)
-[1]
+P32B. POPULATION IN FAMILIES (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER) [1]
 Universe: Population in families with a householder who is Black or African American alone
 Total
 P32C. POPULATION IN FAMILIES (AMERICAN INDIAN AND ALASKA NATIVE ALONE
@@ -2450,8 +2441,7 @@ Total
 P33A. AVERAGE FAMILY SIZE (WHITE ALONE HOUSEHOLDER) [1]
 Universe: Families with a householder who is White alone
 Average family size
-P33B. AVERAGE FAMILY SIZE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER)
-[1]
+P33B. AVERAGE FAMILY SIZE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER) [1]
 Universe: Families with a householder who is Black or African American alone
 Average family size
 P33C. AVERAGE FAMILY SIZE (AMERICAN INDIAN AND ALASKA NATIVE ALONE
@@ -2474,8 +2464,7 @@ Average family size
 P33H. AVERAGE FAMILY SIZE (HISPANIC OR LATINO HOUSEHOLDER) [1]
 Universe: Families with a householder who is Hispanic or Latino
 Average family size
-P33I. AVERAGE FAMILY SIZE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER)
-[1]
+P33I. AVERAGE FAMILY SIZE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER) [1]
 Universe: Families with a householder who is White alone, not Hispanic or Latino
 Average family size
 Summary Table Outlines 6–49
@@ -3028,7 +3017,6 @@ POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
 PCT2. AMERICAN INDIAN AND ALASKA NATIVE ALONE WITH ONE OR MORE TRIBES
 REPORTED FOR SELECTED TRIBES [47]—Con.
 Total tribes tallied—Con.
-American Indian tribes, specified:
 Yakama (L79-L84) & (300, A01-R99)
 Yaqui (L91-L99) & (300, A01-R99)
 Yuman (M22-M33) & (300, A01-R99)
@@ -3077,8 +3065,7 @@ Summary Table Outlines 6–61
 U.S. Census Bureau, Census 2000
 POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
 PCT3. AMERICAN INDIAN AND ALASKA NATIVE ALONE OR IN COMBINATION MORE
-OTHER RACES AND WITH ONE OR MORE TRIBES REPORTED FOR SELECTED TRIBES
-[47]—Con.
+OTHER RACES AND WITH ONE OR MORE TRIBES REPORTED FOR SELECTED TRIBES [47]—Con.
 Total tribes tallied—Con.
 American Indian tribes, specified—Con.
 Menominee (F11-F14) & (100-299) or (300, A01-R99) or (400-699)
@@ -3131,7 +3118,7 @@ PCT4. AMERICAN INDIAN AND ALASKA NATIVE ALONE OR IN COMBINATION WITH
 ONE OR MORE OTHER RACES [9]—Con.
 Total—Con.
 American Indian in combination with one or more other races (‘‘Other races’’ include White,
-Black or African American, Asian, Native Hawaiian and Other Pacific Islander, and Some
+C|Black or African American, Asian, Native Hawaiian and Other Pacific Islander, and Some
 other race)
 Alaska Native in combination with one or more other races (‘‘Other races’’ include White,
 Black or African American, Asian, Native Hawaiian and Other Pacific Islander, and Some
@@ -3218,8 +3205,7 @@ Taiwanese (412) & (100-299) or (300, A01-R99) or (400-699)
 Thai (447) & (100-299) or (300, A01-R99) or (400-699)
 Vietnamese (450-451) & (100-299) or (300, A01-R99) or (400-699)
 Other Asian (403-404, 406-409, 413-419, 424-429, 432-439, 444, 448-
-449, 452-459, 469-499) & (100-299) or (300, A01-R99) or
-(400-699)
+449, 452-459, 469-499) & (100-299) or (300, A01-R99) or (400-699)
 Other Asian, not specified (460-468) & (100-299) or (300, A01-R99) or (400-699)
 6–64 Summary Table Outlines
 U.S. Census Bureau, Census 2000
@@ -3227,8 +3213,8 @@ POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
 PCT8. NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE WITH ONE NATIVE
 HAWAIIAN AND OTHER PACIFIC ISLANDER CATEGORY FOR SELECTED GROUPS [14]
 Universe: Total Native Hawaiian and Other Pacific Islander categories tallied for people with one
-Native Hawaiian and Other Pacific Islander category only and people with no specific Native
-Hawaiian and Other Pacific Islander category reported
+C|Native Hawaiian and Other Pacific Islander category only and people with no specific Native
+C|Hawaiian and Other Pacific Islander category reported
 Total: (500-549, 551-599)
 Polynesian: (500-519)
 Native Hawaiian (500-503)
@@ -3241,17 +3227,14 @@ Other Micronesian (523-529, 531-541)
 Melanesian: (542-546)
 Fijian (542)
 Other Melanesian (543-546)
-Other Pacific Islander, not
-specified (530, 547-549, 551-599)
-Filler
+L2|Other Pacific Islander, not specified (530, 547-549, 551-599)
+L2|Filler
 PCT9. NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE WITH ONE OR MORE
-NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER CATEGORIES FOR SELECTED
-GROUPS [14]
+NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER CATEGORIES FOR SELECTED GROUPS [14]
 Universe: Total Native Hawaiian and Other Pacific Islander categories tallied for people with one or
 more Native Hawaiian and Other Pacific Islander categories only and people with no specific
 C|Native Hawaiian and Other Pacific Islander category reported
-Total Native Hawaiian and Other
-Pacific Islander categories tallied: (500-599) & (500-599)
+Total Native Hawaiian and Other Pacific Islander categories tallied: (500-599) & (500-599)
 Polynesian: (500-519) & (500-599)
 Native Hawaiian (500-503) & (500-599)
 Samoan (510-511) & (500-599)
@@ -3274,27 +3257,20 @@ WITH ONE OR MORE OTHER RACES, AND WITH ONE OR MORE NATIVE HAWAIIAN
 AND OTHER PACIFIC ISLANDER CATEGORIES FOR SELECTED GROUPS [14]
 Universe: Total Native Hawaiian and Other Pacific Islander categories tallied and people with no
 specific Native Hawaiian and Other Pacific Islander category reported
-Total Native Hawaiian and Other
-Pacific Islander categories tallied: (500-599) & (100-299) or (300, A01-R99) or (400-699)
+Total Native Hawaiian and Other Pacific Islander categories tallied: (500-599) & (100-299) or (300, A01-R99) or (400-699)
 Polynesian: (500-519) & (100-299) or (300, A01-R99) or (400-699)
 Native Hawaiian (500-503) & (100-299) or (300, A01-R99) or (400-699)
 Samoan (510-511) & (100-299) or (300, A01-R99) or (400-699)
 Tongan (513) & (100-299) or (300, A01-R99) or (400-699)
-Other Polynesian (504-509, 512, 514-519) & (100-299) or (300, A01-R99) or
-C|(400-699)
-Micronesian: (520-529, 531-541) & (100-299) or (300, A01-R99) or (400-
-699)
+Other Polynesian (504-509, 512, 514-519) & (100-299) or (300, A01-R99) or (400-699)
+Micronesian: (520-529, 531-541) & (100-299) or (300, A01-R99) or (400-699)
 Guamanian or Chamorro (520-522) & (100-299) or (300, A01-R99) or (400-699)
-Other Micronesian (523-529, 531-541) & (300, A01-R99) or (100-299) or (400-
-699)
+Other Micronesian (523-529, 531-541) & (300, A01-R99) or (100-299) or (400-699)
 Melanesian: (542-546) & (100-299) or (300, A01-R99) or (400-699)
 Fijian (542) & (100-299) or (300, A01-R99) or (400-699)
 Other Melanesian (543-546) & (100-299) or (300, A01-R99) or (400-699)
 Other Pacific Islander (550) & (100-299) or (300, A01-R99) or (400-699)
-Other Pacific Islander, not
-specified
-(530, 547-549, 551-599) & (100-299) or (300, A01-R99) or
-(400-699)
+Other Pacific Islander, not specified (530, 547-549, 551-599) & (100-299) or (300, A01-R99) or (400-699)
 PCT11. HISPANIC OR LATINO BY SPECIFIC ORIGIN [31]
 Universe: Total population
 Total:
@@ -3419,62 +3395,54 @@ Local jails and other confinement facilities (including police lockups) (104)
 Military disciplinary barracks (106)
 State prisons (103)
 Other types of correctional institutions (107)
-Nursing homes (301-307)
-Hospitals/wards, hospices, and schools for the handicapped (400-410):
-Hospitals/wards and hospices for chronically ill (401-403):
+L3|Nursing homes (301-307)
+L3|Hospitals/wards, hospices, and schools for the handicapped (400-410):
+L4|Hospitals/wards and hospices for chronically ill (401-403):
 Hospices or homes for chronically ill (403)
 Military hospitals or wards for chronically ill (401)
 Other hospitals or wards for chronically ill (402)
-6–68 Summary Table Outlines
-U.S. Census Bureau, Census 2000
-POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
-PCT16. GROUP QUARTERS POPULATION BY GROUP QUARTERS TYPE [52]—Con.
-Total—Con.
-Institutionalized population (101-107, 201-209, 301-307, 400-410)—Con.
-Hospitals/wards, hospices, and schools for the handicapped (400-410)—Con.
-Hospitals or wards for drug/alcohol abuse (400)
+L4|Hospitals or wards for drug/alcohol abuse (400)
 Mental (Psychiatric) hospitals or wards (404)
 Schools, hospitals, or wards for the mentally retarded (405)
 Schools, hospitals, or wards for the physically handicapped (406-408):
 Institutions for the deaf (406)
 Institutions for the blind (407)
 Orthopedic wards and institutions for the physically handicapped (408)
-Wards in general hospitals for patients who have no usual home elsewhere (409)
+L4|Wards in general hospitals for patients who have no usual home elsewhere (409)
 Wards in military hospitals for patients who have no usual home elsewhere (410)
-Juvenile institutions (201-209):
+L3|Juvenile institutions (201-209):
 Long-term care (201-207):
 Homes for abused, dependent, and neglected children (201-203)
 Residential treatment centers for emotionally disturbed children (204)
 Training schools for juvenile delinquents (205-207)
 Short-term care, detention or diagnostic centers for delinquent children (208)
 Type of juvenile institution unknown (209)
-Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
+L2|Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-909, 911):
 College dormitories (includes college quarters off campus) (501)
 Military quarters (601-603):
 On base (601-602):
 Barracks, unaccompanied personnel housing (UPH), (Enlisted/Officer), and similar
 group living quarters for military personnel (601)
 Transient quarters for temporary residents (602)
-Military ships (603)
-Group homes (801-810):
+L4|Military ships (603)
+L3|Group homes (801-810):
 Homes or halfway houses for drug/alcohol abuse (801, 806)
 Homes for the mentally ill (802, 807)
 Homes for the mentally retarded (803, 808)
 Homes for the physically handicapped (804, 809)
 Other group homes (805, 810)
-Religious group quarters (906)
+L3|Religious group quarters (906)
 Dormitories (901-903):
 Agriculture workers’ dormitories on farms (901)
 Job Corps and vocational training facilities (903)
 Other workers’ dormitories (902)
-Crews of maritime vessels (900)
-Other nonhousehold living situations (908)
+L3|Crews of maritime vessels (900)
+L3|Other nonhousehold living situations (908)
 Other noninstitutional group quarters (604, 701-706, 904-905, 909, 911)
 Summary Table Outlines 6–69
 U.S. Census Bureau, Census 2000
 POPULATION SUBJECTS (SUMMARIZED TO CENSUS TRACT LEVEL)—Con.
-PCT17. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE
-[75]
+PCT17. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE [75]
 Universe: Population in group quarters
 Total:
 Male:
@@ -3490,11 +3458,11 @@ Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-90
 College dormitories (includes college quarters off campus) (501)
 Military quarters (601-603)
 Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
-18 to 64 years:
+L3|18 to 64 years:
 (Repeat GROUP QUARTERS TYPE)
-65 years and over:
+L3|65 years and over:
 (Repeat GROUP QUARTERS TYPE)
-Female:
+L2|Female:
 (Repeat AGE BY GROUP QUARTERS TYPE)
 POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)
 PCT12A. SEX BY AGE (WHITE ALONE) [209]
@@ -3794,7 +3762,7 @@ Male—Con.
 105 to 109 years
 110 years and over
 Female:
-(Repeat AGE))
+(Repeat AGE)
 PCT12O. SEX BY AGE (TWO OR MORE RACES, NOT HISPANIC OR LATINO) [209]
 Universe: People who are Two or more races, not Hispanic or Latino
 Total:
@@ -4041,7 +4009,7 @@ Female:
 6–80 Summary Table Outlines
 U.S. Census Bureau, Census 2000
 POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
-PCT13H.SEX BY AGE (HISPANIC OR LATINO) [49]
+PCT13H. SEX BY AGE (HISPANIC OR LATINO) [49]
 Universe: People in households who are Hispanic or Latino
 Total:
 Male:
@@ -4231,11 +4199,11 @@ Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-90
 College dormitories (includes college quarters off campus) (501)
 Military quarters (601-603)
 Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
-18 to 64 years:
+L3|18 to 64 years:
 (Repeat GROUP QUARTERS TYPE)
-65 years and over:
+L3|65 years and over:
 (Repeat GROUP QUARTERS TYPE)
-Female:
+L2|Female:
 (Repeat AGE BY GROUP QUARTERS TYPE)
 6–84 Summary Table Outlines
 U.S. Census Bureau, Census 2000
@@ -4257,11 +4225,11 @@ Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-90
 College dormitories (includes college quarters off campus) (501)
 Military quarters (601-603)
 Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
-18 to 64 years:
+L3|18 to 64 years:
 (Repeat GROUP QUARTERS TYPE)
-65 years and over:
+L3|65 years and over:
 (Repeat GROUP QUARTERS TYPE)
-Female:
+L2|Female:
 (Repeat AGE BY GROUP QUARTERS TYPE)
 PCT17C. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE
 (AMERICAN INDIAN AND ALASKA NATIVE ALONE) [75]
@@ -4280,11 +4248,11 @@ Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-90
 College dormitories (includes college quarters off campus) (501)
 Military quarters (601-603)
 Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
-18 to 64 years:
+L3|18 to 64 years:
 (Repeat GROUP QUARTERS TYPE)
-65 years and over:
+L3|65 years and over:
 (Repeat GROUP QUARTERS TYPE)
-Female:
+L2|Female:
 (Repeat AGE BY GROUP QUARTERS TYPE)
 Summary Table Outlines 6–85
 U.S. Census Bureau, Census 2000
@@ -4306,11 +4274,11 @@ Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-90
 College dormitories (includes college quarters off campus) (501)
 Military quarters (601-603)
 Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
-18 to 64 years:
+L3|18 to 64 years:
 (Repeat GROUP QUARTERS TYPE)
-65 years and over:
+L3|65 years and over:
 (Repeat GROUP QUARTERS TYPE)
-Female:
+L2|Female:
 (Repeat AGE BY GROUP QUARTERS TYPE)
 PCT17E. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE
 (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE) [75]
@@ -4330,11 +4298,11 @@ Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-90
 College dormitories (includes college quarters off campus) (501)
 Military quarters (601-603)
 Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
-18 to 64 years:
+L3|18 to 64 years:
 (Repeat GROUP QUARTERS TYPE)
-65 years and over:
+L3|65 years and over:
 (Repeat GROUP QUARTERS TYPE)
-Female:
+L2|Female:
 (Repeat AGE BY GROUP QUARTERS TYPE)
 6–86 Summary Table Outlines
 U.S. Census Bureau, Census 2000
@@ -4356,11 +4324,11 @@ Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-90
 College dormitories (includes college quarters off campus) (501)
 Military quarters (601-603)
 Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
-18 to 64 years:
+L3|18 to 64 years:
 (Repeat GROUP QUARTERS TYPE)
-65 years and over:
+L3|65 years and over:
 (Repeat GROUP QUARTERS TYPE)
-Female:
+L2|Female:
 (Repeat AGE BY GROUP QUARTERS TYPE)
 PCT17G. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE
 (TWO OR MORE RACES) [75]
@@ -4379,11 +4347,11 @@ Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-90
 College dormitories (includes college quarters off campus) (501)
 Military quarters (601-603)
 Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
-18 to 64 years:
+L3|18 to 64 years:
 (Repeat GROUP QUARTERS TYPE)
-65 years and over:
+L3|65 years and over:
 (Repeat GROUP QUARTERS TYPE)
-Female:
+L2|Female:
 (Repeat AGE BY GROUP QUARTERS TYPE)
 Summary Table Outlines 6–87
 U.S. Census Bureau, Census 2000
@@ -4405,11 +4373,11 @@ Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-90
 College dormitories (includes college quarters off campus) (501)
 Military quarters (601-603)
 Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
-18 to 64 years:
+L3|18 to 64 years:
 (Repeat GROUP QUARTERS TYPE)
-65 years and over:
+L3|65 years and over:
 (Repeat GROUP QUARTERS TYPE)
-Female:
+L2|Female:
 (Repeat AGE BY GROUP QUARTERS TYPE)
 PCT17I. GROUP QUARTERS POPULATION BY SEX BY AGE BY GROUP QUARTERS TYPE
 (WHITE ALONE, NOT HISPANIC OR LATINO) [75]
@@ -4428,11 +4396,11 @@ Noninstitutionalized population (501, 601-604, 701-706, 801-810, 900-906, 908-90
 College dormitories (includes college quarters off campus) (501)
 Military quarters (601-603)
 Other noninstitutional group quarters (604, 701-706, 801-810, 900-906, 908-909, 911)
-18 to 64 years:
+L3|18 to 64 years:
 (Repeat GROUP QUARTERS TYPE)
-65 years and over:
+L3|65 years and over:
 (Repeat GROUP QUARTERS TYPE)
-Female:
+L2|Female:
 (Repeat AGE BY GROUP QUARTERS TYPE)
 6–88 Summary Table Outlines
 U.S. Census Bureau, Census 2000
@@ -4604,7 +4572,7 @@ Female householder, no husband present:
 Householder 15 to 34 years
 Householder 35 to 64 years
 Householder 65 years and over
-Nonfamily households:
+L3|Nonfamily households:
 Male householder:
 Living alone:
 Householder 15 to 34 years
@@ -4623,7 +4591,7 @@ Not living alone:
 Householder 15 to 34 years
 Householder 35 to 64 years
 Householder 65 years and over
-Renter occupied:
+L2|Renter occupied:
 (Repeat HOUSEHOLD TYPE AND AGE OF HOUSEHOLDER)
 H18. OCCUPIED HOUSING UNITS SUBSTITUTED [3]
 Universe: Occupied housing units
@@ -4726,8 +4694,7 @@ Owner occupied
 Renter occupied
 H12C. AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE
 (AMERICAN INDIAN AND ALASKA NATIVE ALONE HOUSEHOLDER) [3]
-Universe: Occupied housing units with a householder who is American Indian and Alaska
-Native alone
+Universe: Occupied housing units with a householder who is American Indian and Alaska Native alone
 Average household size—
 Total
 Owner occupied
@@ -4744,8 +4711,7 @@ Owner occupied
 Renter occupied
 H12E. AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE (NATIVE
 HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE HOUSEHOLDER) [3]
-Universe: Occupied housing units with a householder who is Native Hawaiian and Other
-Pacific Islander alone
+Universe: Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone
 Average household size—
 Total
 Owner occupied
@@ -4810,8 +4776,7 @@ Renter occupied:
 (Repeat HOUSEHOLD SIZE)
 H15C. TENURE BY HOUSEHOLD SIZE (AMERICAN INDIAN AND ALASKA NATIVE ALONE
 HOUSEHOLDER) [17]
-Universe: Occupied housing units with a householder who is American Indian and Alaska
-Native alone
+Universe: Occupied housing units with a householder who is American Indian and Alaska Native alone
 Total:
 Owner occupied:
 1-person household
@@ -4841,8 +4806,7 @@ Renter occupied:
 (Repeat HOUSEHOLD SIZE)
 H15E. TENURE BY HOUSEHOLD SIZE (NATIVE HAWAIIAN AND OTHER PACIFIC
 ISLANDER ALONE HOUSEHOLDER) [17]
-Universe: Occupied housing units with a householder who is Native Hawaiian and Other
-Pacific Islander alone
+Universe: Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone
 Total:
 Owner occupied:
 1-person household
@@ -4901,8 +4865,7 @@ Renter occupied:
 (Repeat HOUSEHOLD SIZE)
 H15I. TENURE BY HOUSEHOLD SIZE (WHITE ALONE, NOT HISPANIC OR LATINO
 HOUSEHOLDER) [17]
-Universe: Occupied housing units with a householder who is White alone, not Hispanic or
-Latino
+Universe: Occupied housing units with a householder who is White alone, not Hispanic or Latino
 Total:
 Owner occupied:
 1-person household
@@ -4948,8 +4911,7 @@ Renter occupied:
 (Repeat AGE OF HOUSEHOLDER)
 H16C. TENURE BY AGE OF HOUSEHOLDER (AMERICAN INDIAN AND ALASKA NATIVE
 ALONE HOUSEHOLDER) [19]
-Universe: Occupied housing units with a householder who is American Indian and Alaska
-Native alone
+Universe: Occupied housing units with a householder who is American Indian and Alaska Native alone
 Total:
 Owner occupied:
 Householder 15 to 24 years
@@ -4981,8 +4943,7 @@ U.S. Census Bureau, Census 2000
 HOUSING SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
 H16E. TENURE BY AGE OF HOUSEHOLDER (NATIVE HAWAIIAN AND OTHER PACIFIC
 ISLANDER ALONE HOUSEHOLDER) [19]
-Universe: Occupied housing units with a householder who is Native Hawaiian and Other Pacific
-Islander alone
+Universe: Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone
 Total:
 Owner occupied:
 Householder 15 to 24 years

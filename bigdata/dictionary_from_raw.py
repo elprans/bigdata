@@ -12,6 +12,7 @@ class Matrix(object):
         self.entries = []
         self.current_aggregate = None
         self.scale = None
+        self.counter = 0
 
     def confirm(self):
         count = 0
@@ -27,22 +28,29 @@ class Matrix(object):
 
         if count != self.expected_items:
             print "BAD COUNT: %s  %d != %d" % (self.code, count, self.expected_items)
-            #if self.code == "PCT17D":
-            #    import pdb
-            #    pdb.set_trace()
+            import pdb
+            pdb.set_trace()
         #assert count == self.expected_items
 
     def _push_aggregate(self, rec):
-        new_agg = Aggregate(self, rec[1][0], rec[1][1] == 'N|')
+        new_agg = Aggregate(
+            self.counter, rec[1][0],
+            int(rec[1][2]) if rec[1][2] else None)
+        self.counter += 1
         if not self.current_aggregate:
             self.aggregates.append(new_agg)
-        elif not new_agg.nest and self.current_aggregate.entries:
-            # sibling case
+        elif new_agg.level:
+            l = new_agg.level - 1
+            parent = self.aggregates[-1]
+            while l - 1:
+                parent = parent.children[-1]
+                l -= 1
 
+            parent.children.append(new_agg)
+            new_agg.parent = parent
+
+        elif self.current_aggregate.entries:
             parent = self.current_aggregate.parent
-            #while parent is not None and parent.entries:
-            #    parent = parent.parent
-
             new_agg.parent = parent
             if new_agg.parent is None:
                 self.aggregates.append(new_agg)
@@ -56,15 +64,28 @@ class Matrix(object):
     def _push_repeat(self, rec):
         if self.current_aggregate.parent:
             to_repeat = self.current_aggregate.parent.children[-2]
-            to_repeat.copy_into(self.current_aggregate)
+            to_repeat.copy_into(self, self.current_aggregate)
         else:
             assert False
 
     def _push_entry(self, entry):
+        new_entry = Plain(
+            self.counter, entry[1][0],
+            int(entry[1][1]) if entry[1][1] else None)
+        self.counter += 1
+        if new_entry.level:
+            level = new_entry.level
+            l = level - 1
+            parent = self.aggregates[-1]
+            while l - 1:
+                parent = parent.children[-1]
+                l -= 1
+            self.current_aggregate = parent
+
         if not self.current_aggregate:
-            self.entries.append(entry[1][0])
+            self.entries.append(new_entry)
         else:
-            self.current_aggregate.entries.append(entry[1][0])
+            self.current_aggregate.entries.append(new_entry)
 
     def receive_rec(self, rec):
         if rec[0] == 'universe':
@@ -82,28 +103,32 @@ class Matrix(object):
 
     def __str__(self):
         text = "\n%s: %s [%s]" % (self.code, self.name, self.expected_items)
-        for entry in self.entries:
-            text += "\n %s" % entry
-        for agg in self.aggregates:
-            text += agg._as_string(1)
+
+        for thing in sorted(
+            self.entries + self.aggregates,
+            key=lambda obj: obj.index
+        ):
+            text += thing._as_string(1)
         return text
 
 
 class Aggregate(object):
-    def __init__(self, matrix, name, nest=False):
-        self.matrix = matrix
+    def __init__(self, index, name, level=None):
+        self.index = index
         self.name = name
         self.parent = None
-        self.nest = nest
+        self.level = level
         self.children = []
         self.entries = []
 
     def _as_string(self, indent):
         text = "\n\n%s%s" % ("  " * indent, self.name)
-        for entry in self.entries:
-            text += "\n%s%s" % ("  " * (indent + 1), entry)
-        for agg in self.children:
-            text += agg._as_string(indent + 1)
+
+        for thing in sorted(
+            self.entries + self.children,
+            key=lambda obj: obj.index
+        ):
+            text += thing._as_string(indent + 1)
         return text
 
     def _has_aggregate_entries(self):
@@ -115,13 +140,34 @@ class Aggregate(object):
                     return True
         return False
 
-    def copy_into(self, agg):
-        agg.entries.extend(self.entries)
-        for child in self.children:
-            new_child = Aggregate(self.matrix, child.name)
-            new_child.parent = agg
-            agg.children.append(new_child)
-            child.copy_into(new_child)
+    def copy_into(self, matrix, agg):
+        for thing in sorted(
+            self.entries + self.children,
+            key=lambda obj: obj.index
+        ):
+            if isinstance(thing, Plain):
+                agg.entries.append(
+                    Plain(matrix.counter, thing.name, thing.level)
+                )
+                matrix.counter += 1
+            elif isinstance(thing, Aggregate):
+                new_child = Aggregate(matrix.counter, thing.name, thing.level)
+                agg.children.append(new_child)
+                new_child.parent = agg
+                matrix.counter += 1
+                thing.copy_into(matrix, new_child)
+            else:
+                assert False
+
+
+class Plain(object):
+    def __init__(self, index, name, level=None):
+        self.index = index
+        self.name = name
+        self.level = level
+
+    def _as_string(self, indent):
+        return "\n%s%s" % ("  " * indent, self.name)
 
 
 def _create_matrices(iter_):
@@ -144,6 +190,7 @@ def _ignores(iter_):
         re.compile(r"^Chapter"),
         re.compile(r"^Summary Table Outlines"),
         re.compile(r".*Summary Table Outlines\s*$"),
+        re.compile(r"^HOUSING SUBJECTS \((?:SUMMARIZED|REPEATED)"),
         re.compile(r"^POPULATION SUBJECTS"),
         re.compile(r"^U.S. Census Bureau, Census 2000"),
         re.compile(r".*—Con.$"),
@@ -194,7 +241,8 @@ def _derive_tokens(iter_):
         ),
 
         (
-            "aggregate", re.compile("^(N\|)?([^\:]+\:[^\:]*)$"), (2, 1)
+            "aggregate",
+            re.compile("^([L](\d)?\|)?([^\:]+\:[^\:]*)$"), (3, 1, 2)
         ),
 
         (
@@ -220,7 +268,7 @@ def _derive_tokens(iter_):
         ),
 
         (
-            "plain", re.compile(r".*"), (0, )
+            "plain", re.compile(r"^(?:L(\d)\|)?(.*)"), (2, 1)
         )
 
 
