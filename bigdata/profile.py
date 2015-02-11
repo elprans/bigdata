@@ -1,133 +1,45 @@
-import cProfile
-import pstats
-import os
 import time
+import threading
 
 
-class Profiler(object):
-    tests = []
-
-    _setup = []
-    _setup_once = None
-    name = None
-
-    def __init__(self, options):
-        self.test = options.test
-        self.dburl = options.dburl
-        self.runsnake = options.runsnake
-        self.profile = options.profile
-        self.dump = options.dump
-        self.echo = options.echo
-        self.options = options
+class avg_rec_rate(object):
+    def __init__(self):
+        self.count = 0
         self.stats = []
+        self.mutex = threading.Lock()
+        self.worker = threading.Thread(target=self._maintain)
+        self.worker.daemon = True
+        self.worker.start()
+        self._report = None
 
-    @classmethod
-    def init(cls, name):
-        cls.name = name
+    def _maintain(self):
+        while True:
+            time.sleep(5)
 
-    @classmethod
-    def profile(cls, fn):
-        if cls.name is None:
-            raise ValueError(
-                "Need to call Profile.init(<suitename>) first.")
-        cls.tests.append(fn)
-        return fn
+            if len(self.stats) < 500:
+                continue
 
-    @classmethod
-    def setup(cls, fn):
-        cls._setup.append(fn)
-        return fn
-
-    @classmethod
-    def setup_once(cls, fn):
-        if cls._setup_once is not None:
-            raise ValueError(
-                "setup_once function already set to %s" % cls._setup_once)
-        cls._setup_once = staticmethod(fn)
-        return fn
-
-    def run(self):
-        if self.test:
-            tests = [fn for fn in self.tests if fn.__name__ == self.test]
-            if not tests:
-                raise ValueError("No such test: %s" % self.test)
-        else:
-            tests = self.tests
-
-        if self._setup_once:
-            print("Running setup once...")
-            self._setup_once(self.options)
-        print("Tests to run: %s" % ", ".join([t.__name__ for t in tests]))
-        for test in tests:
-            self._run_test(test)
-            self.stats[-1].report()
-
-    def _run_with_profile(self, fn):
-        pr = cProfile.Profile()
-        pr.enable()
-        try:
-            result = fn()
-        finally:
-            pr.disable()
-
-        stats = pstats.Stats(pr).sort_stats('cumulative')
-
-        self.stats.append(TestResult(self, fn, stats=stats))
-        return result
-
-    def _run_with_time(self, fn):
-        now = time.time()
-        try:
-            return fn()
-        finally:
-            total = time.time() - now
-            self.stats.append(TestResult(self, fn, total_time=total))
-
-    def _run_test(self, fn):
-        if self._setup:
-            for setup_fn in self._setup:
-                setup_fn(self.options)
-        if self.profile or self.runsnake or self.dump:
-            self._run_with_profile(fn)
-        else:
-            self._run_with_time(fn)
-
-
-class TestResult(object):
-    def __init__(self, profile, test, stats=None, total_time=None):
-        self.profile = profile
-        self.test = test
-        self.stats = stats
-        self.total_time = total_time
+            with self.mutex:
+                count = self.count
+                stats = self.stats[0:500]
+                self.stats = self.stats[500:]
+            count_delta = stats[-1][0] - stats[0][0]
+            time_delta = stats[-1][1] - stats[0][1]
+            rate = count_delta / time_delta
+            with self.mutex:
+                self._report = count, rate, time.time()
 
     def report(self):
-        print(self._summary())
-        if self.profile.profile:
-            self.report_stats()
+        with self.mutex:
+            if self._report:
+                count, rate, time = self._report
+                print(
+                    "%d Total count: %d %.2f recs/sec " %
+                    (time, count, rate))
+                self._report = None
 
-    def _summary(self):
-        summary = "%s : %s" % (
-            self.test.__name__, self.test.__doc__)
-        if self.total_time:
-            summary += "; total time %f sec" % self.total_time
-        if self.stats:
-            summary += "; total fn calls %d" % self.stats.total_calls
-        return summary
+    def tag(self, count=1):
+        with self.mutex:
+            self.count += count
+            self.stats.append((self.count, time.time()))
 
-    def report_stats(self):
-        if self.profile.runsnake:
-            self._runsnake()
-        elif self.profile.dump:
-            self._dump()
-
-    def _dump(self):
-        self.stats.sort_stats('time', 'calls')
-        self.stats.print_stats()
-
-    def _runsnake(self):
-        filename = "%s.profile" % self.test.__name__
-        try:
-            self.stats.dump_stats(filename)
-            os.system("runsnake %s" % filename)
-        finally:
-            os.remove(filename)

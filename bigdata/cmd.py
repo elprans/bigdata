@@ -1,8 +1,7 @@
 import argparse
 import os
 import re
-from .profile import Profiler
-
+from . import setup_db
 
 def main():
 
@@ -75,12 +74,15 @@ def list_(args):
 
 
 def run(args):
-    args.profile = args.profile or args.dump or args.runsnake
 
-    __import__("bigdata.suites." + args.suite)
+    _temp = __import__(
+        "bigdata.suites." + args.suite, fromlist=['run_test', 'setup'])
+    run_test, setup = _temp.run_test, _temp.setup
 
-    Profiler(args).run()
-
+    setup_db.setup_database(args)
+    setup_db.clear_data(args)
+    setup(args)
+    run_test()
 
 if __name__ == '__main__':
     main()

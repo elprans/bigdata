@@ -8,6 +8,16 @@ import queue
 file_queue = multiprocessing.Queue()
 
 
+def retrieve_geo_records(dir_):
+    if not dir_:
+        raise TypeError("A directory is required")
+    print("Retrieving records from %s" % dir_)
+    fnames = os.listdir(dir_)
+    for geo in [f for f in fnames if "geo" in f]:
+        for rec in _read_file(dir_, geo, "geo"):
+            yield rec
+
+
 def retrieve_file_records(dir_):
     """This has to be fast too.  But TIL:
 
@@ -21,26 +31,25 @@ def retrieve_file_records(dir_):
 
     print("Retrieving records from %s" % dir_)
     fnames = os.listdir(dir_)
-    geo_files = [f for f in fnames if "geo" in f]
     data_files = [
         f for f in fnames if re.match(r'^[a-z]{2}\d{5}_.{3}\.zip$', f)]
 
-    pool = multiprocessing.Pool(5)
-
+    pool = multiprocessing.Pool(2)
     work = []
-
-    for geo_file in geo_files:
-        work.append((dir_, geo_file, "geo"))
     for data_file in data_files:
         work.append((dir_, data_file, "data"))
-
-    waiter = pool.starmap_async(_read_file, work)
+    waiter = pool.starmap_async(_queue_read_file, work)
     pool.close()
     while not waiter.ready():
         try:
             yield file_queue.get(False)
         except queue.Empty:
             continue
+
+
+def _queue_read_file(dir_, fname, processor_type):
+    for rec in _read_file(dir_, fname, processor_type):
+        file_queue.put(rec)
 
 
 def _read_file(dir_, fname, processor_type):
@@ -50,8 +59,7 @@ def _read_file(dir_, fname, processor_type):
     else:
         processor = _parse_data_rec
     for line in _unzip_lines(os.path.join(dir_, fname)):
-        rec = processor(line)
-        file_queue.put(rec)
+        yield processor(line)
 
 
 def _unzip_lines(fname):
@@ -70,11 +78,12 @@ def _parse_geo_rec(line):
     """
 
     return dict(
-        fileid=line[0:6],
-        stusab=line[6:8],
-        chariter=line[14:17],
-        cifsn=line[17:19],
-        logrecno=line[19:26]
+        type="geo",
+        fileid=line[0:6].strip(),
+        stusab=line[6:8].strip(),
+        chariter=line[13:16].strip(),
+        cifsn=line[16:18].strip(),
+        logrecno=line[18:25].strip()
     )
 
 
@@ -85,6 +94,7 @@ def _parse_data_rec(line):
 
     fields = line.strip().split(",")
     return dict(
+        type="data",
         fileid=fields[0],
         stusab=fields[1],
         chariter=fields[2],
@@ -92,3 +102,6 @@ def _parse_data_rec(line):
         logrecno=fields[4],
         items=fields[5:]
     )
+
+
+

@@ -53,10 +53,6 @@ def initdb(engine):
 
     sess.commit()
 
-from .profile import Profiler
-
-
-@Profiler.setup_once
 def setup_database(options):
     global engine
     engine = create_engine(options.dburl, echo=options.echo)
@@ -66,12 +62,12 @@ def setup_database(options):
         initdb(engine)
 
 
-@Profiler.setup
 def clear_data(options):
     with engine.begin() as conn:
-        conn.execute(
-            model.DataElement.__table__.delete()
-        )
-        conn.execute(
-            model.GeoRecord.__table__.delete()
-        )
+        # faster than DELETE
+
+        model.DataElement.__table__.drop(conn)
+        model.GeoRecord.__table__.drop(conn)
+
+        model.GeoRecord.__table__.create(conn)
+        model.DataElement.__table__.create(conn)
