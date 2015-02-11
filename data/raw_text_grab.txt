@@ -579,7 +579,7 @@ No own children under 18 years
 Female householder, no husband present:
 With own children under 18 years
 No own children under 18 years
-Nonfamily households:
+L3|Nonfamily households:
 Male householder
 Female householder
 P19. HOUSEHOLDS BY PRESENCE OF PEOPLE UNDER 18 YEARS BY HOUSEHOLD TYPE [19]
@@ -591,7 +591,7 @@ Married-couple family
 L4|Other family:
 Male householder, no wife present
 Female householder, no husband present
-Nonfamily households:
+L3|Nonfamily households:
 Male householder
 Female householder
 L2|Households with no people under 18 years:
@@ -615,7 +615,7 @@ No own children under 18 years
 Female householder, no husband present:
 With own children under 18 years
 No own children under 18 years
-Nonfamily households:
+L3|Nonfamily households:
 Householder living alone
 Householder not living alone
 L2|Householder 65 years and over:
@@ -730,20 +730,20 @@ Universe: Population under 18 years
 Total:
 In households:
 Householder or spouse
-Related child:
-Own child:
+L3|Related child:
+L4|Own child:
 In married-couple family
-In other family:
+L5|In other family:
 Male householder, no wife present
 Female householder, no husband present
 Other relatives:
 Grandchild
 Other relatives
-Nonrelatives
+L5|Nonrelatives
 In group quarters:
 Institutionalized population
 Noninstitutionalized population
-Coverage improvement adjustment
+L4|Coverage improvement adjustment
 6–14 Summary Table Outlines
 U.S. Census Bureau, Census 2000
 POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
@@ -752,8 +752,8 @@ Universe: Population under 18 years
 Total:
 In households:
 Householder or spouse
-Related child:
-Own child:
+L3|Related child:
+L4|Own child:
 Under 3 years
 3 and 4 years
 5 years
@@ -761,7 +761,7 @@ Under 3 years
 12 and 13 years
 14 years
 15 to 17 years
-Other relatives:
+L4|Other relatives:
 Under 3 years
 3 and 4 years
 5 years
@@ -769,7 +769,7 @@ Under 3 years
 12 and 13 years
 14 years
 15 to 17 years
-Nonrelatives:
+L3|Nonrelatives:
 Under 3 years
 3 and 4 years
 5 years
@@ -777,7 +777,7 @@ Under 3 years
 12 and 13 years
 14 years
 15 to 17 years
-In group quarters:
+L2|In group quarters:
 Institutionalized population:
 Under 3 years
 3 and 4 years
@@ -794,7 +794,7 @@ Under 3 years
 12 and 13 years
 14 years
 15 to 17 years
-Coverage improvement adjustment
+L2|Coverage improvement adjustment
 Summary Table Outlines 6–15
 U.S. Census Bureau, Census 2000
 POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
@@ -807,22 +807,22 @@ In family households:
 Householder:
 Male
 Female
-Spouse
+L4|Spouse
 Parent
 Other relatives
 Nonrelatives
-In nonfamily households:
+L3|In nonfamily households:
 Male householder:
 Living alone
 Not living alone
 Female householder:
 Living alone
 Not living alone
-Nonrelatives
-In group quarters:
+L4|Nonrelatives
+L2|In group quarters:
 Institutionalized population
 Noninstitutionalized population
-Coverage improvement adjustment
+L2|Coverage improvement adjustment
 P31. FAMILIES [1]
 Universe: Families
 Total
@@ -840,26 +840,26 @@ With own children under 18 years:
 Under 6 years only
 Under 6 years and 6 to 17 years
 6 to 17 years only
-No own children under 18 years
-Other family:
+L3|No own children under 18 years
+L2|Other family:
 Male householder, no wife present:
 With own children under 18 years:
 Under 6 years only
 Under 6 years and 6 to 17 years
 6 to 17 years only
-No own children under 18 years
+L4|No own children under 18 years
 6–16 Summary Table Outlines
 U.S. Census Bureau, Census 2000
 POPULATION SUBJECTS SUMMARIZED TO THE BLOCK LEVEL—Con.
 P34. FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN [20]—Con.
 Total—Con.
 Other family—Con.
-Female householder, no husband present:
+L3|Female householder, no husband present:
 With own children under 18 years:
 Under 6 years only
 Under 6 years and 6 to 17 years
 6 to 17 years only
-No own children under 18 years
+L4|No own children under 18 years
 P35. FAMILY TYPE BY PRESENCE AND AGE OF RELATED CHILDREN [20]
 Universe: Families
 Total:
@@ -868,20 +868,20 @@ With related children under 18 years:
 Under 6 years only
 Under 6 years and 6 to 17 years
 6 to 17 years only
-No related children under 18 years
-Other family:
+L3|No related children under 18 years
+L2|Other family:
 Male householder, no wife present:
 With related children under 18 years:
 Under 6 years only
 Under 6 years and 6 to 17 years
 6 to 17 years only
-No related children under 18 years
-Female householder, no husband present:
+L4|No related children under 18 years
+L3|Female householder, no husband present:
 With related children under 18 years:
 Under 6 years only
 Under 6 years and 6 to 17 years
 6 to 17 years only
-No related children under 18 years
+L4|No related children under 18 years
 P36. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE [20]
 Universe: Own children under 18 years
 Total:
@@ -1620,11 +1620,11 @@ In family households:
 Householder:
 Male
 Female
-Spouse
+L4|Spouse
 Child:
 Natural-born or adopted
 Step
-Grandchild
+L4|Grandchild
 Brother or sister
 Parent
 Other relatives
@@ -1644,10 +1644,10 @@ Female householder:
 Living alone
 Not living alone
 Nonrelatives
-In group quarters:
+L2|In group quarters:
 Institutionalized population
 Noninstitutionalized population
-Coverage improvement adjustment
+L2|Coverage improvement adjustment
 P27B. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (BLACK OR
 AFRICAN AMERICAN ALONE) [27]
 Universe: People who are Black or African American alone
@@ -1657,16 +1657,16 @@ In family households:
 Householder:
 Male
 Female
-Spouse
+L4|Spouse
 Child:
 Natural-born or adopted
 Step
-Grandchild
+L3|Grandchild
 Brother or sister
 Parent
 Other relatives
 Nonrelatives
-In nonfamily households:
+L2|In nonfamily households:
 Male householder:
 Living alone
 Not living alone
@@ -1674,10 +1674,10 @@ Female householder:
 Living alone
 Not living alone
 Nonrelatives
-In group quarters:
+L2|In group quarters:
 Institutionalized population
 Noninstitutionalized population
-Coverage improvement adjustment
+L2|Coverage improvement adjustment
 Summary Table Outlines 6–33
 U.S. Census Bureau, Census 2000
 POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
@@ -1690,16 +1690,16 @@ In family households:
 Householder:
 Male
 Female
-Spouse
+L4|Spouse
 Child:
 Natural-born or adopted
 Step
-Grandchild
+L4|Grandchild
 Brother or sister
 Parent
 Other relatives
 Nonrelatives
-In nonfamily households:
+L3|In nonfamily households:
 Male householder:
 Living alone
 Not living alone
@@ -1707,10 +1707,10 @@ Female householder:
 Living alone
 Not living alone
 Nonrelatives
-In group quarters:
+L2|In group quarters:
 Institutionalized population
 Noninstitutionalized population
-Coverage improvement adjustment
+L2|Coverage improvement adjustment
 P27D. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (ASIAN
 ALONE) [27]
 Universe: People who are Asian alone
@@ -1720,16 +1720,16 @@ In family households:
 Householder:
 Male
 Female
-Spouse
-Child:
+L4|Spouse
+L4|Child:
 Natural-born or adopted
 Step
-Grandchild
+L4|Grandchild
 Brother or sister
 Parent
 Other relatives
 Nonrelatives
-In nonfamily households:
+L3|In nonfamily households:
 Male householder:
 Living alone
 Not living alone
@@ -1745,10 +1745,10 @@ Female householder:
 Living alone
 Not living alone
 Nonrelatives
-In group quarters:
+L2|In group quarters:
 Institutionalized population
 Noninstitutionalized population
-Coverage improvement adjustment
+L2|Coverage improvement adjustment
 P27E. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (NATIVE
 HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE) [27]
 Universe: People who are Native Hawaiian and Other Pacific Islander alone
@@ -1758,11 +1758,11 @@ In family households:
 Householder:
 Male
 Female
-Spouse
-Child:
+L4|Spouse
+L4|Child:
 Natural-born or adopted
 Step
-Grandchild
+L4|Grandchild
 Brother or sister
 Parent
 Other relatives
@@ -1775,10 +1775,10 @@ Female householder:
 Living alone
 Not living alone
 Nonrelatives
-In group quarters:
+L2|In group quarters:
 Institutionalized population
 Noninstitutionalized population
-Coverage improvement adjustment
+L2|Coverage improvement adjustment
 Summary Table Outlines 6–35
 U.S. Census Bureau, Census 2000
 POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
@@ -1791,11 +1791,11 @@ In family households:
 Householder:
 Male
 Female
-Spouse
-Child:
+L4|Spouse
+L4|Child:
 Natural-born or adopted
 Step
-Grandchild
+L4|Grandchild
 Brother or sister
 Parent
 Other relatives
@@ -1808,10 +1808,10 @@ Female householder:
 Living alone
 Not living alone
 Nonrelatives
-In group quarters:
+L2|In group quarters:
 Institutionalized population
 Noninstitutionalized population
-Coverage improvement adjustment
+L2|Coverage improvement adjustment
 P27G. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (TWO OR
 MORE RACES) [27]
 Universe: People who are Two or more races
@@ -1821,11 +1821,11 @@ In family households:
 Householder:
 Male
 Female
-Spouse
-Child:
+L4|Spouse
+L4|Child:
 Natural-born or adopted
 Step
-Grandchild
+L4|Grandchild
 Brother or sister
 Parent
 Other relatives
@@ -1845,10 +1845,10 @@ Female householder:
 Living alone
 Not living alone
 Nonrelatives
-In group quarters:
+L2|In group quarters:
 Institutionalized population
 Noninstitutionalized population
-Coverage improvement adjustment
+L2|Coverage improvement adjustment
 P27H. RELATIONSHIP BY HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (HISPANIC OR
 LATINO) [27]
 Universe: People who are Hispanic or Latino
@@ -1858,11 +1858,11 @@ In family households:
 Householder:
 Male
 Female
-Spouse
-Child:
+L4|Spouse
+L4|Child:
 Natural-born or adopted
 Step
-Grandchild
+L4|Grandchild
 Brother or sister
 Parent
 Other relatives
@@ -1875,10 +1875,10 @@ Female householder:
 Living alone
 Not living alone
 Nonrelatives
-In group quarters:
+L2|In group quarters:
 Institutionalized population
 Noninstitutionalized population
-Coverage improvement adjustment
+L2|Coverage improvement adjustment
 Summary Table Outlines 6–37
 U.S. Census Bureau, Census 2000
 POPULATION SUBJECTS (REPEATED BY RACE/HISPANIC)—Con.
@@ -1891,11 +1891,11 @@ In family households:
 Householder:
 Male
 Female
-Spouse
-Child:
+L4|Spouse
+L4|Child:
 Natural-born or adopted
 Step
-Grandchild
+L4|Grandchild
 Brother or sister
 Parent
 Other relatives
@@ -1908,10 +1908,10 @@ Female householder:
 Living alone
 Not living alone
 Nonrelatives
-In group quarters:
+L2|In group quarters:
 Institutionalized population
 Noninstitutionalized population
-Coverage improvement adjustment
+L2|Coverage improvement adjustment
 P28A. RELATIONSHIP BY HOUSEHOLD TYPE FOR THE POPULATION UNDER 18 YEARS
 (WHITE ALONE) [17]
 Universe: White alone population under 18 years
