@@ -44,6 +44,8 @@ data.   The performance tests use raw psycopg2 / aiopg.
 Running It
 ==========
 
+We're talking here about asyncio.  So use Python 3.4!!
+
 Just one of the individual states in the census directory is plenty
 to load this script right down.  So first get some datafiles, using
 curl, wget, or whatever:
