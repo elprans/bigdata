@@ -108,9 +108,15 @@ How Big of a Pool Size?
 ------------------------
 
 Good question.   On a Mac laptop, all the examples seem to hit their stride
-at about 10-15 workers/connections.   Less than that, and there's not enough
-going on to saturate the CPU.  More than that, and we're maxed on what the CPU
-can do, we don't gain anything.
+at about 10-15 workers/connections.    On my Lenovo Thinkpad running Fedora,
+hitting a local database I'm able to push it way up to 350 workers/connections
+(!) before it maxes out (yes, 350 threads still outperforms 350 asyncio coroutines, which
+seems...surprising!), and running over a network to a remote Postgresql, 120
+seemed to work best.
+
+The "sweet spot" here is that where we can totally saturate the local CPU
+with enough work to be occupied the vast majority of the time.   This was
+fully possible in all scenarios, including PG over the network.
 
 
 Results
@@ -119,17 +125,69 @@ Results
 For performance results, we have three different average times.  The first
 is for the geo record insert, the second is for the datafile insert
 while the queue is still being filled, third is for the remaining datafile
-work after the queue is done being filled.
+work after the queue is done being filled.   Where the second value is
+N/A means the work queue filled up before any meaningful work could
+be performed against the database.
 
-The performance results, in order of best performers to worst for the third
-result, which is the the one that occurs without any additional record
-queueing taking up any time, is:
+Each series of tests is ordered by best performer in the third category;
+as this represents the most "pure" usage of the paradigm as there's
+no queueing in the background going on.
 
-* Python2 threads  (6.8K r/sec, 16K r/sec, 20K r/sec)
-* Python3 threads (5.5K r/sec, 14K r/sec, 19K r/sec)
-* Python2 gevent  (9K r/sec, 9K r/sec, 13K r/sec)
-* Python3 asyncio (5K r/sec, 5K r/sec, 6K r/sec)
+Using two machines, we get the best results when Python runs on one
+of them and the database on another; an early indicator of CPU power being
+more of a factor than network overhead.  Both machines are very powerful
+laptops with 32G of ram each.
 
 
+MAC BOOK PRO w/ OSX - LOCAL POSTGRESQL 9.4
+------------------------------------------
+
+- 15 processes/connections
+
+* Python2.7.5 threads  (6.8K r/sec, 16K r/sec, 20K r/sec)
+* Python3.4.2 threads (5.5K r/sec, 14K r/sec, 19K r/sec)
+* Python2.7.5 gevent  (9K r/sec, 9K r/sec, 13K r/sec)
+* Python3.4.2 asyncio (5K r/sec, 5K r/sec, 6K r/sec)
+
+LENOVO THINKPAD w/ FEDORA 21 - LOCAL POSTGRESQL 9.3.5
+-----------------------------------------------------
+
+On this environment, we did in fact begin to see the theoretical
+advantage of async approaches taking a little bit of effect, in that
+we could ramp the concurrent number of processes very high, which is
+of course when threads become more expensive.  This allowed gevent to
+slightly outperform threads, but Python3's asyncio with its very heavy
+in-Python overhead, still dead last.
+
+- 350 processes/connections
+
+* Python2.7.8 gevent (13k r/sec, N/A, 9k r/sec)
+* Python2.7.8 threads (11k r/sec, N/A, 9k r/sec)
+* Python3.4.1 threads (9k r/sec, N/A, 9k r/sec)
+* Python3.4.1 asyncio (7k r/sec, N/A, 6k r/sec)
+
+- 150 processes/connections
+
+* Python2.7.8 threads (8k r/sec, N/A, 7k r/sec)
+* Python3.4.1 threads (8k r/sec, N/A, 6.5K r/sec)
+* Python2.7.8 gevent (7k r/sec, N/A, 6k r/sec)
+* Python3.4.1 asyncio (6k r/sec, N/A, 5.5k r/sec)
+
+LENOVO THINKPAD w/ FEDORA 21 - NETWORK TO MAC BOOK PRO W/ POSTGRESQL 9.4
+-------------------------------------------------------------------------
+
+Trying to get PG to be more IO-heavy, I had the thinkpad run as many connections
+as it could over the network to the PG database running on the Mac.  I was able
+to run as many as 280 processes/connections with asyncio, but not as many
+with threads; here's where we also get into one of the theoretical benefits
+of async, that you can run lots of processes.  This is true!  However,
+the "sweet spot" here was about 120 connections in any case.
+
+- 120 processes/connections
+
+* Python2.7.8 threads (22k r/sec, N/A, 22k r/sec)
+* Python3.4.1 threads (10k r/sec, N/A, 21k r/sec)
+* Python2.7.8 gevent (18k r/sec, N/A, 19k r/sec)
+* Python3.4.1 asyncio (8k r/sec, N/A, 10k r/sec)
 
 
