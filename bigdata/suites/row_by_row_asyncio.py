@@ -94,7 +94,7 @@ def run_test_async():
 
     for elem, rec in enumerate(util.retrieve_geo_records(options.directory)):
         yield from work_queue.put(rec)
-        if elem % 10000 == 0:
+        if elem % 100000 == 0:
             yield from work_queue.join()
 
     print(
@@ -105,7 +105,7 @@ def run_test_async():
 
     for elem, rec in enumerate(util.retrieve_file_records(options.directory)):
         yield from work_queue.put(rec)
-        if elem % 10000 == 0:
+        if elem % 100000 == 0:
             yield from work_queue.join()
 
     print(
