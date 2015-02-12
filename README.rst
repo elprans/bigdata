@@ -121,12 +121,14 @@ is for the geo record insert, the second is for the datafile insert
 while the queue is still being filled, third is for the remaining datafile
 work after the queue is done being filled.
 
-The performance results, in order of best performers to worst, is:
+The performance results, in order of best performers to worst for the third
+result, which is the the one that occurs without any additional record
+queueing taking up any time, is:
 
-* Python2 gevent  (13K r/sec, 13K r/sec, )
 * Python2 threads  (6.8K r/sec, 16K r/sec, 20K r/sec)
-* Python3 threads (5.2K r/sec, 13K r/sec, 18K r/sec)
-* Python3 asyncio (6K recs / sec)
+* Python3 threads (5.5K r/sec, 14K r/sec, 19K r/sec)
+* Python2 gevent  (9K r/sec, 9K r/sec, 13K r/sec)
+* Python3 asyncio (5K r/sec, 5K r/sec, 6K r/sec)
 
 
 
