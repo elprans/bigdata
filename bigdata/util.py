@@ -25,6 +25,8 @@ def retrieve_file_records(dir_):
     "asyncio doesn't handle disk I/O, only network I/O. Apparently async
     disk I/O isn't really a thing."
 
+    So we are using multiprocessing.
+
     """
     if not dir_:
         raise TypeError("A directory is required")

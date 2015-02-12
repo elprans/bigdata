@@ -20,22 +20,19 @@ class avg_rec_rate(object):
 
             with self.mutex:
                 count = self.count
-                stats = self.stats[0:500]
-                self.stats = self.stats[500:]
+                stats = self.stats[0:-1]
+                self.stats = self.stats[:]
             count_delta = stats[-1][0] - stats[0][0]
             time_delta = stats[-1][1] - stats[0][1]
             rate = count_delta / time_delta
-            with self.mutex:
-                self._report = count, rate, time.time()
+            timestamp = stats[-1][1]
+            print(
+                "%s Total count: %d %.2f recs/sec " %
+                (time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(timestamp)),
+                 count, rate))
 
     def tag(self, count=1):
         with self.mutex:
             self.count += count
             self.stats.append((self.count, time.time()))
 
-            if self._report:
-                count, rate, timestamp = self._report
-                print(
-                    "%d Total count: %d %.2f recs/sec " %
-                    (timestamp, count, rate))
-                self._report = None

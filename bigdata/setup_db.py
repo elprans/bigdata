@@ -58,7 +58,9 @@ def setup_database(options):
     engine = create_engine(options.dburl, echo=options.echo)
     #model.Base.metadata.drop_all(engine)
     if not engine.has_table(model.DataElement.__table__):
+        print("Database seems to be empty, creating tables")
         model.Base.metadata.create_all(engine)
+        print("Loading dictionary data...")
         initdb(engine)
 
 

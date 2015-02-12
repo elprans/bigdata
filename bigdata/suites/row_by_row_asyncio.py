@@ -71,7 +71,9 @@ def worker(num):
                 "order by m.sortkey, d.index",
                 (item['cifsn'],)
             )
-            dictionary_ids = [row[0] for row in cursor]
+            rows = yield from cursor.fetchall()
+            dictionary_ids = [row[0] for row in rows]
+
             assert len(dictionary_ids) == len(item['items'])
 
             for dictionary_id, element in zip(dictionary_ids, item['items']):
@@ -90,8 +92,10 @@ def run_test_async():
     for i in range(options.poolsize):
         asyncio.async(worker(i))
 
-    for rec in util.retrieve_geo_records(options.directory):
+    for elem, rec in enumerate(util.retrieve_geo_records(options.directory)):
         yield from work_queue.put(rec)
+        if elem % 10000 == 0:
+            yield from work_queue.join()
 
     print(
         "Enqueued all geo records, waiting for "
@@ -99,8 +103,10 @@ def run_test_async():
 
     yield from work_queue.join()
 
-    for rec in util.retrieve_file_records(options.directory):
+    for elem, rec in enumerate(util.retrieve_file_records(options.directory)):
         yield from work_queue.put(rec)
+        if elem % 10000 == 0:
+            yield from work_queue.join()
 
     print(
         "Enqueued all data records, waiting for "
