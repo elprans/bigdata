@@ -62,21 +62,21 @@ Just one of the individual states in the census directory is plenty
 to load this script right down.  So first get some datafiles, using
 curl, wget, or whatever:
 
-	wget -r -d 1 http://www2.census.gov/census_2000/datasets/Summary_File_1/New_York/
+    wget -r -d 1 http://www2.census.gov/census_2000/datasets/Summary_File_1/New_York/
 
 Then install requirements somewhere, say we have a venv:
 
-	python3.4 -m virtualenv /path/to/.venv
+    python3.4 -m virtualenv /path/to/.venv
 
 Install requirements:
 
-	/path/to/.venv/bin/pip install -r requirements.txt
+    /path/to/.venv/bin/pip install -r requirements.txt
 
 Then create a Postgresql database somewhere, and run like this:
 
-	/path/to/.venv/bin/python -m bigdata.cmd --dburl postgresql://scott:tiger@localhost/test run row_by_row_asyncio --directory /path/to/datafiles/New_York/ --poolsize 50
+    /path/to/.venv/bin/python -m bigdata.cmd --dburl postgresql://scott:tiger@localhost/test run row_by_row_asyncio --directory /path/to/datafiles/New_York/ --poolsize 50
 
-	/path/to/.venv/bin/python -m bigdata.cmd --dburl postgresql://scott:tiger@localhost/test run row_by_row_threaded --directory /path/to/datafiles/New_York/ --poolsize 50
+    /path/to/.venv/bin/python -m bigdata.cmd --dburl postgresql://scott:tiger@localhost/test run row_by_row_threaded --directory /path/to/datafiles/New_York/ --poolsize 50
 
 The --poolsize attribute is basically both the number of worker coroutines or threads, as well
 as the number of connections; each worker uses one persistent connection.
