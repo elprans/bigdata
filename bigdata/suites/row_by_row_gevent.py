@@ -95,8 +95,10 @@ def run_test():
         greenlet.start()
         greenlets.append(greenlet)
 
-    for rec in util.retrieve_geo_records(options.directory):
+    for elem, rec in enumerate(util.retrieve_geo_records()):
         work_queue.put(rec)
+        if elem % 100000 == 0:
+            work_queue.join()
 
     print(
         "Enqueued all geo records, waiting for "
@@ -104,8 +106,10 @@ def run_test():
 
     work_queue.join()
 
-    for rec in util.retrieve_file_records(options.directory):
+    for elem, rec in enumerate(util.retrieve_file_records()):
         work_queue.put(rec)
+        if elem % 100000 == 0:
+            work_queue.join()
 
     print(
         "Enqueued all data records, waiting for "

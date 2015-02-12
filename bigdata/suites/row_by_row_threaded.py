@@ -88,7 +88,7 @@ def run_test():
         thread.daemon = True
         thread.start()
 
-    for rec in util.retrieve_geo_records(options.directory):
+    for rec in util.retrieve_geo_records():
         work_queue.put(rec)
 
     print(
@@ -97,7 +97,7 @@ def run_test():
 
     work_queue.join()
 
-    for rec in util.retrieve_file_records(options.directory):
+    for rec in util.retrieve_file_records():
         work_queue.put(rec)
 
     print(

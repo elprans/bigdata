@@ -5,7 +5,6 @@ import threading
 class avg_rec_rate(object):
     def __init__(self):
         self.count = 0
-        self.stats = []
         self.mutex = threading.Lock()
         self.worker = threading.Thread(target=self._maintain)
         self.worker.daemon = True
@@ -13,27 +12,38 @@ class avg_rec_rate(object):
         self._report = None
 
     def _maintain(self):
+        last_time = time.time()
+        last_count = 0
         while True:
             time.sleep(5)
-            if len(self.stats) < 500:
-                continue
 
             with self.mutex:
                 count = self.count
-                stats = self.stats[0:-1]
-                self.stats = self.stats[:]
-            count_delta = stats[-1][0] - stats[0][0]
-            time_delta = stats[-1][1] - stats[0][1]
+
+            now = time.time()
+            count_delta = count - last_count
+            time_delta = now - last_time
             rate = count_delta / time_delta
-            timestamp = stats[-1][1]
+            start_timestamp = last_time
+            end_timestamp = now
+
+            last_time = now
+            last_count = count
+
             print(
-                "%s Total count: %d %.2f recs/sec " %
-                (time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(timestamp)),
-                 count, rate))
+                "%s - %s Total count: %d %.2f recs/sec " %
+                (
+                    time.strftime(
+                        "%Y-%m-%d %H:%M:%S",
+                        time.localtime(start_timestamp)),
+                    time.strftime(
+                        "%Y-%m-%d %H:%M:%S",
+                        time.localtime(end_timestamp)),
+                    count, rate
+                )
+            )
 
     def tag(self, count=1):
         with self.mutex:
             self.count += count
-            self.stats.append((self.count, time.time()))
-
 

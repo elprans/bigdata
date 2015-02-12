@@ -95,7 +95,7 @@ def run_test_async():
     for i in range(options.poolsize):
         asyncio.async(worker(i))
 
-    for elem, rec in enumerate(util.retrieve_geo_records(options.directory)):
+    for elem, rec in enumerate(util.retrieve_geo_records()):
         yield from work_queue.put(rec)
         if elem % 100000 == 0:
             yield from work_queue.join()
@@ -106,7 +106,7 @@ def run_test_async():
 
     yield from work_queue.join()
 
-    for elem, rec in enumerate(util.retrieve_file_records(options.directory)):
+    for elem, rec in enumerate(util.retrieve_file_records()):
         yield from work_queue.put(rec)
         if elem % 100000 == 0:
             yield from work_queue.join()

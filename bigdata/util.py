@@ -4,65 +4,50 @@ import zipfile
 import multiprocessing
 from .compat import queue
 
+work_queue = multiprocessing.Queue()
 
-file_queue = multiprocessing.Queue()
+dir_ = os.path.join(os.path.dirname(__file__), "..", "data")
 
 
-def retrieve_geo_records(dir_):
-    if not dir_:
-        raise TypeError("A directory is required")
+def retrieve_geo_records():
     print("Retrieving records from %s" % dir_)
     fnames = os.listdir(dir_)
     for geo in [f for f in fnames if "geo" in f]:
-        for rec in _read_file(dir_, geo, "geo"):
+        for rec in _read_file_multiprocessing(dir_, geo, "geo"):
             yield rec
 
 
-def retrieve_file_records(dir_):
-    """This has to be fast too.  But TIL:
-
-    https://twitter.com/aymericaugustin/status/565616849678008320
-    "asyncio doesn't handle disk I/O, only network I/O. Apparently async
-    disk I/O isn't really a thing."
-
-    So we are using multiprocessing.
-
-    """
-    if not dir_:
-        raise TypeError("A directory is required")
-
+def retrieve_file_records():
     print("Retrieving records from %s" % dir_)
     fnames = os.listdir(dir_)
-    data_files = [
-        f for f in fnames if re.match(r'^[a-z]{2}\d{5}_.{3}\.zip$', f)]
+    for data_file in [
+        f for f in fnames if re.match(r'^[a-z]{2}\d{5}.*\..{3}\.zip$', f)
+    ]:
+        for rec in _read_file_multiprocessing(dir_, data_file, "data"):
+            yield rec
 
-    pool = multiprocessing.Pool(2)
-    work = []
-    for data_file in data_files:
-        work.append((dir_, data_file, "data"))
-    waiter = pool.map_async(_queue_read_file, work)
-    pool.close()
-    while not waiter.ready():
+
+def _read_file_multiprocessing(dir_, fname, processor_type):
+    process = multiprocessing.Process(
+        target=_read_file_process, args=(dir_, fname, processor_type))
+    process.start()
+
+    while process.is_alive():
         try:
-            yield file_queue.get(False)
+            yield work_queue.get(False)
         except queue.Empty:
             continue
 
 
-def _queue_read_file(arg):
-    dir_, fname, processor_type = arg
-    for rec in _read_file(dir_, fname, processor_type):
-        file_queue.put(rec)
-
-
-def _read_file(dir_, fname, processor_type):
+def _read_file_process(dir_, fname, processor_type):
     print("File %s" % fname)
     if processor_type == "geo":
         processor = _parse_geo_rec
     else:
         processor = _parse_data_rec
     for line in _unzip_lines(os.path.join(dir_, fname)):
-        yield processor(line)
+        rec = processor(line)
+        work_queue.put(rec)
 
 
 def _unzip_lines(fname):
