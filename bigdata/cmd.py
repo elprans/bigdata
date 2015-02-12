@@ -78,7 +78,7 @@ def run(args):
     _temp = __import__(
         "bigdata.suites." + args.suite, fromlist=['run_test', 'setup'])
     run_test, setup = _temp.run_test, _temp.setup
-
+    print("hi?")
     setup_db.setup_database(args)
     setup_db.clear_data(args)
     setup(args)

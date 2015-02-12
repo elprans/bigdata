@@ -15,7 +15,6 @@ class avg_rec_rate(object):
     def _maintain(self):
         while True:
             time.sleep(5)
-
             if len(self.stats) < 500:
                 continue
 
@@ -29,17 +28,14 @@ class avg_rec_rate(object):
             with self.mutex:
                 self._report = count, rate, time.time()
 
-    def report(self):
-        with self.mutex:
-            if self._report:
-                count, rate, time = self._report
-                print(
-                    "%d Total count: %d %.2f recs/sec " %
-                    (time, count, rate))
-                self._report = None
-
     def tag(self, count=1):
         with self.mutex:
             self.count += count
             self.stats.append((self.count, time.time()))
 
+            if self._report:
+                count, rate, timestamp = self._report
+                print(
+                    "%d Total count: %d %.2f recs/sec " %
+                    (timestamp, count, rate))
+                self._report = None
