@@ -36,3 +36,4 @@ class avg_rec_rate(object):
             self.count += count
             self.stats.append((self.count, time.time()))
 
+

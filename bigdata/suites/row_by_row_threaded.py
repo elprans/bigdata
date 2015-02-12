@@ -1,7 +1,7 @@
 from ..profile import avg_rec_rate
 from .. import util
 import psycopg2
-import queue
+from ..compat import queue
 from sqlalchemy.engine import url
 import threading
 

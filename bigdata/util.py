@@ -2,7 +2,7 @@ import re
 import os
 import zipfile
 import multiprocessing
-import queue
+from .compat import queue
 
 
 file_queue = multiprocessing.Queue()
@@ -40,7 +40,7 @@ def retrieve_file_records(dir_):
     work = []
     for data_file in data_files:
         work.append((dir_, data_file, "data"))
-    waiter = pool.starmap_async(_queue_read_file, work)
+    waiter = pool.map_async(_queue_read_file, work)
     pool.close()
     while not waiter.ready():
         try:
@@ -49,7 +49,8 @@ def retrieve_file_records(dir_):
             continue
 
 
-def _queue_read_file(dir_, fname, processor_type):
+def _queue_read_file(arg):
+    dir_, fname, processor_type = arg
     for rec in _read_file(dir_, fname, processor_type):
         file_queue.put(rec)
 
