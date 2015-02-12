@@ -34,8 +34,8 @@ def main():
 
     subparser.add_argument(
         "--poolsize", type=int,
-        default=10,
-        help="number of connections to use"
+        default=15,
+        help="number of workers/connections to use"
     )
     subparser.add_argument(
         "--directory", type=str,
@@ -57,6 +57,11 @@ def main():
         help="list suites")
     subparser.set_defaults(cmd=list_)
 
+    subparser = subparsers.add_parser(
+        "rebuild",
+        help="rebuild the test DB from scratch")
+    subparser.set_defaults(cmd=rebuild)
+
     args = parser.parse_args()
     if not hasattr(args, "cmd"):
         parser.error("too few arguments")
@@ -71,6 +76,10 @@ def list_(args):
         if match:
             suites.append(match.group(1))
     print("\n".join(suites))
+
+
+def rebuild(args):
+    setup_db.setup_database(args, drop=True)
 
 
 def run(args):

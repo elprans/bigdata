@@ -53,10 +53,12 @@ def initdb(engine):
 
     sess.commit()
 
-def setup_database(options):
+
+def setup_database(options, drop=False):
     global engine
     engine = create_engine(options.dburl, echo=options.echo)
-    #model.Base.metadata.drop_all(engine)
+    if drop:
+        model.Base.metadata.drop_all(engine)
     if not engine.has_table(model.DataElement.__table__):
         print("Database seems to be empty, creating tables")
         model.Base.metadata.create_all(engine)

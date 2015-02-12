@@ -26,6 +26,10 @@ class GeoRecord(Base):
             'fileid', 'stusab', 'chariter', 'cifsn', 'logrecno',
             unique=True
         ),
+        Index(
+            'geo_record_lookup_idx',
+            'fileid', 'logrecno'
+        )
     )
 
 
