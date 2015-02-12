@@ -11,12 +11,24 @@ advocates insist that database work is IO bound and that Python's asyncio
 should make any Python program vastly more efficient than it could be
 with threads.
 
-My theory is that Python is way more CPU bound than people expect, and
+My unconfirmed theory is that Python is way more CPU bound than people expect, and
 database operations are way faster than they expect.   The additional
 boilerplate of "yield from" and polling required in asyncio seems that it
 would incur way more CPU overhead than just waiting for the GIL to context
 switch, and this overhead falls way behind any IO lag that you'd get
 from a very fast and modern database like Postgresql.
+
+The purpose of this script is to see if in fact an asyncio situation is
+vastly faster than a thread-based approach, and by how much - and then
+to deeply understand why that is.    Two approaches to a data ingestion
+problem are presented, using basically the identical SQL strategy.
+The synchronous approach foregoes optimizations not available to the
+async approach such as executemany().   We want to see if the identical
+database operations run faster with async scheduling vs. threaded scheduling,
+and specifically with asyncio's methodology of ``@asyncio.coroutine``,
+which relies heavily upon the relatively expensive techniques of
+using "yield from" calls as well as implicitly
+throwing ``StopIteration`` to represent function return results.
 
 
 Data Source
