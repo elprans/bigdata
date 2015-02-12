@@ -17,7 +17,7 @@ class avg_rec_rate(object):
         metrics = []
 
         while True:
-            time.sleep(1)
+            time.sleep(5)
 
             with self.mutex:
                 count = self.count
@@ -37,20 +37,21 @@ class avg_rec_rate(object):
 
             metrics.append(rate)
 
-            if len(metrics) % 5 == 0:
-                # keep just the last 20 seconds of metrics
+            ml = len(metrics)
+            # keep just the last 20 seconds of metrics
+            if ml > 20:
                 metrics[:] = metrics[-20:]
-                avg = sum(metrics) / len(metrics)
-                print(
-                    "%s Total count: %d, current rate %.2f recs/sec, "
-                    "avg %.2f recs/sec " %
-                    (
-                        time.strftime(
-                            "%Y-%m-%d %H:%M:%S",
-                            time.localtime(end_timestamp)),
-                        count, rate, avg
-                    )
+            avg = sum(metrics) / len(metrics)
+            print(
+                "%s Total count: %d, current rate %.2f recs/sec, "
+                "avg %.2f recs/sec " %
+                (
+                    time.strftime(
+                        "%Y-%m-%d %H:%M:%S",
+                        time.localtime(end_timestamp)),
+                    count, rate, avg
                 )
+            )
 
     def tag(self, count=1):
         with self.mutex:
