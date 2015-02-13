@@ -41,6 +41,15 @@ def main():
         "--directory", type=str,
         help="Directory location where datafiles are"
     )
+    subparser.add_argument(
+        "--no-autocommit", action="store_true",
+        help="disable autocommit, if possible (only with threaded)"
+    )
+
+    subparser.add_argument(
+        "--allow-executemany", action="store_true",
+        help="allow the use of executemany, only possible with threaded"
+    )
 
     subparser.add_argument(
         '--profile', action='store_true',

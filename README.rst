@@ -61,6 +61,38 @@ this helps, as sending the records over a multiprocessing.Queue() still
 involves that the records are pickled/unpickled over a pipe, which still
 takes up CPU work on the consumer side.
 
+Transactions / Executemany
+==========================
+
+psycopg2's async system removes psycopg2's ability to run in non-autocommit mode,
+that is, there is no BEGIN/COMMIT emitted by psycopg2 automatically.  aiopg
+provides no workaround for this, even though this would be very possible.
+Using autocommit makes single-statement operations a markedly faster, which
+is a factor to consider when benching async vs. non-async, while
+using it for multi-statement operations has less of an impact.
+An explcicit transaction surrounding multiple statements grants possibly a
+5% speed bump in the second part of this test suite, where we are sending
+blocks of INSERT statements; to experiment with that, use the
+``--no-autocommit`` flag, currently only implemented for the "threaded"
+suite.
+
+Another missing feature from psycopg2's async is support for DBAPI
+``executemany()``.  This feature allows a large set of parameters to be
+run very efficiently with only a single statement invocation.  The DBAPI
+may choose to make use of a prepared statement to make this more efficient,
+or in the case of psycopg2, it takes advantage of the fact that it uses
+blazingly-fast C code to run the multiple statements.  aiopg could also easily
+implement compatibility for this feature, however chooses not to.
+
+The "threaded" suite can make use of ``executemany()`` for one particular
+series of INSERT statements using the ``--allow-executemany`` flag.  This
+flag should be combined with ``--no-autocommit`` for best results.
+Using these two flags, a local run on the Mac Book Pro achieves approximately
+22K rec/sec on Py3k and 26K rec/sec on Py2K for the second part of the test.
+This is a modest improvement, though not enough to highlight within most
+of our results which stick with everyone using autocommit, single execute().
+
+
 Run Steps
 =========
 

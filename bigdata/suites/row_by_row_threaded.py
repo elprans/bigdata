@@ -28,7 +28,8 @@ def setup(opt):
 
         )
         # async runs like this, so shall we!
-        conn.autocommit = True
+        if not options.no_autocommit:
+            conn.autocommit = True
         return conn
 
 
@@ -37,6 +38,9 @@ def _get_connection():
 
 
 def worker():
+    use_transaction = options.no_autocommit
+    allow_executemany = options.allow_executemany
+
     conn = _get_connection()
     cursor = conn.cursor()
     while True:
@@ -44,6 +48,7 @@ def worker():
         # "row by row" means, we aren't being smart at all about
         # chunking, executemany(), or looking up groups of dependent
         # records in advance.
+
         if item['type'] == "geo":
             cursor.execute(
                 "insert into geo_record (fileid, stusab, chariter, "
@@ -71,14 +76,29 @@ def worker():
             ]
             assert len(dictionary_ids) == len(item['items'])
 
-            for dictionary_id, element in zip(dictionary_ids, item['items']):
-                cursor.execute(
+            if allow_executemany:
+                cursor.executemany(
                     "insert into data_element "
                     "(geo_record_id, dictionary_item_id, value) "
                     "values (%s, %s, %s)",
-                    (geo_record_id, dictionary_id, element)
+                    [
+                        (geo_record_id, dictionary_id, element)
+                        for dictionary_id, element in
+                        zip(dictionary_ids, item['items'])
+                    ]
                 )
+            else:
+                for dictionary_id, element in zip(dictionary_ids, item['items']):
+                    cursor.execute(
+                        "insert into data_element "
+                        "(geo_record_id, dictionary_item_id, value) "
+                        "values (%s, %s, %s)",
+                        (geo_record_id, dictionary_id, element)
+                    )
             monitor.tag(len(item['items']))
+
+        if use_transaction:
+            conn.commit()
         work_queue.task_done()
 
 
