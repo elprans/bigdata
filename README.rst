@@ -6,12 +6,12 @@ Rationale
 =========
 
 When we write a program that is selecting and inserting data into a
-database in Python - is it IO bound or CPU bound?   Asynchronous
+database in Python - is it IO bound or CPU bound?   Many asynchronous
 advocates insist that database work is IO bound and that Python's asyncio
 should make any Python program vastly more efficient than it could be
 with threads.
 
-My unconfirmed theory is that Python is way more CPU bound than people expect, and
+My experimentation shows that Python is way more CPU bound than people expect, and
 database operations are way faster than they expect.   The additional
 boilerplate of "yield from" and polling required in asyncio seems that it
 would incur way more CPU overhead than just waiting for the GIL to context
@@ -19,11 +19,11 @@ switch, and this overhead falls way behind any IO lag that you'd get
 from a very fast and modern database like Postgresql.
 
 The purpose of this script is to see if in fact an asyncio situation is
-vastly faster than a thread-based approach, and by how much - and then
-to deeply understand why that is.    Two approaches to a data ingestion
+faster than a thread-based approach, and if so, by how much.
+Two approaches to a data ingestion
 problem are presented, using basically the identical SQL strategy.
-The synchronous approach foregoes optimizations not available to the
-async approach such as executemany().   We want to see if the identical
+The synchronous approach by default foregoes optimizations not available to the
+async approach such as ``executemany()``.   We want to see if the identical
 database operations run faster with async scheduling vs. threaded scheduling,
 and specifically with asyncio's methodology of ``@asyncio.coroutine``,
 which relies heavily upon the relatively expensive techniques of
@@ -56,10 +56,13 @@ Pipeline
 
 The script currently uses a separate multiprocessing.Process() to read the
 zip files in and parse lines into records.  The rationale here is to attempt
-to remove this overhead from the test script.  However, it's not clear that
-this helps, as sending the records over a multiprocessing.Queue() still
+to remove this overhead from the test script.  However, while this runs
+there is still overhead, as sending the records over a multiprocessing.Queue() still
 involves that the records are pickled/unpickled over a pipe, which still
-takes up CPU work on the consumer side.
+takes up CPU work on the consumer side.  The test run generally reaches
+a point where the second process completes its work and has filled the queue;
+at that point you can see the database processing job get a little bit faster,
+and this is where we can most plainly see how fast the approach can get.
 
 Transactions / Executemany
 ==========================
@@ -150,6 +153,10 @@ The "sweet spot" here is that where we can totally saturate the local CPU
 with enough work to be occupied the vast majority of the time.   This was
 fully possible in all scenarios, including PG over the network.
 
+In no case could I find a number of processes, big or small, where asyncio
+had any chance of coming close to the speed of threads.   Whatever benefits
+there are to asynchronous programming, your program will almost certainly
+talk to the database more slowly, all other factors being equal.
 
 Results
 =======
