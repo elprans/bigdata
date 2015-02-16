@@ -92,8 +92,11 @@ def worker(num):
 
 @asyncio.coroutine
 def run_test_async():
+    tasks = []
     for i in range(options.poolsize):
-        asyncio.async(worker(i))
+        tasks.append(
+            asyncio.async(worker(i))
+        )
 
     for elem, rec in enumerate(util.retrieve_geo_records()):
         yield from work_queue.put(rec)
@@ -115,6 +118,9 @@ def run_test_async():
         "Enqueued all data records, waiting for "
         "all data records to be processed")
     yield from work_queue.join()
+
+    for task in tasks:
+        task.cancel()
 
 
 def run_test():
