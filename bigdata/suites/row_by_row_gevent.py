@@ -1,5 +1,5 @@
 from ..compat import py3k
-assert not py3k, "this script requires python 2."
+#assert not py3k, "this script requires python 2."
 
 import psycogreen.gevent
 from ..profile import avg_rec_rate

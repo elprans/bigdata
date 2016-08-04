@@ -8,7 +8,7 @@ from sqlalchemy.engine import url
 import asyncio
 
 options = None
-work_queue = asyncio.JoinableQueue()
+work_queue = asyncio.Queue()
 monitor = avg_rec_rate()
 connect = None
 
